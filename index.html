@@ -1,70 +1,150 @@
 <!DOCTYPE html>
 <html lang="ko"><head>
+    <meta name="viewport" content="width=device-width,initial-scale=1,user-scalable=no">
     <meta charset="UTF-8">
     <link rel="icon" href="android-icon-72x72.png"> 
     <link rel="apple-touch-icon" href="android-icon-72x72.png"> 
-    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="style.css?v=230915">
     <title>tripleS 스케줄</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Nanum+Gothic&display=swap" rel="stylesheet">
+    <style>
+        * {font-family : 'Nanum Gothic', sans-serif;}
+    </style>
 </head>
-<body class="dark">
-    <div class="center" style="width:85%;">
+<body class="dark"><div id="body" style="width:90%;">
     <div class="right">
         <button class="main" id="btn_darklight" style="width:100px" onclick="darklight()">라이트 모드</button>
     </div>
-    <b style="font-size:50px;"><a href="https://triplescosmos.com">tripleS</a> 스케줄</b>
-    <table class="dark_table">
-        <thead>
-            <tr>
-                <th colspan="4">
-                    <p class="year">2023년</p>
-                </th>
-            </tr>
-        </thead>
-        <tbody>
-            <tr>
-                <td class="unupdate">1월</td>
-                <td class="unupdate">2월</td>
-                <td class="unupdate">3월</td>
-                <td class="unupdate">4월</td>
-            </tr>
-            <tr>
-                <td class="unupdate">5월</td>
-                <td class="unupdate">6월</td>
-                <td class="unupdate">7월</td>
-                <td class="unupdate">8월</td>
-            </tr>
-            <tr>
-                <td><a href="#" onclick="location.href='./2309?'+status">9월</a></td>
-                <td><a href="#" onclick="location.href='./2310?'+status">10월</a></td>
-                <td class="unupdate">11월</td>
-                <td class="unupdate">12월</td>
-            </tr>
-        </tbody>
-    </table>
-    <div class="left" style="width:40%;word-break:keep-all;font-size:15px">제작자 : 라멘
-        <br><br>문의사항 :
+    <div class="hr"><hr></div>
+    <div id="title"><b><a href="https://triplescosmos.com">tripleS</a> 스케줄</b></div>
+<table class="dark_table" style="">
+<thead>
+    <tr>
+        <th colspan="4">
+            <p class="year">2023년</p>
+        </th>
+    </tr>
+</thead>
+<tbody>
+    <tr>
+        <td class="unupdate">1월</td>
+        <td class="unupdate">2월</td>
+        <td class="unupdate">3월</td>
+        <td class="unupdate">4월</td>
+    </tr>
+    <tr>
+        <td class="unupdate">5월</td>
+        <td class="unupdate">6월</td>
+        <td class="unupdate">7월</td>
+        <td class="unupdate">8월</td>
+    </tr>
+    <tr>
+        <td><a href="#" onclick="location.href='./2309?'+status+status2">9월</a></td>
+        <td><a href="#" onclick="location.href='./2310?'+status+status2">10월</a></td>
+        <td class="unupdate">11월</td>
+        <td class="unupdate">12월</td>
+    </tr>
+</tbody></table>
+    <div class="hr"><hr></div><div class="under" style="clear:both">
+    <div class="left">
+        <p>제작자 : 라멘</p>
+        <p>문의사항 :</p>
         <ul style="padding-left: 25px;">
             <li><a class="link" href="https://open.kakao.com/o/sI2efR7e">오픈카톡</a></li>
-            <li><a class="link" href="https://gall.dcinside.com/m/triplescosmos/10147">dcinside</a></li>
-            <li>Twitter : <a class="link" href="https://twitter.com/Ramen_SSS">@Ramen_SSS</a></li>
+            <li><a class="link" href="https://gall.dcinside.com/m/triplescosmos/">dcinside</a></li>
+            <li>Twitter : <a class="link" href="https://twitter.com/Ramen_SSS_">@Ramen_SSS_</a></li>
             <li>Discord : ramen__</li>
-    </ul></div>
-    <div class="right" style="width:40%;word-break:keep-all">Thanks to <a class="link" href="https://twitter.com/kuipertwt">@kuipertwt</a> for domain</div>
+        </ul>
     </div>
+    <div class="right">
+        <p>Thanks to <a class="link" href="https://twitter.com/kuipertwt">@kuipertwt</a> for domain</p>
+    </div></div></div>
 <style>
-    .dark_table {
-        border: 3px solid white;
-    }
-    .light_table {
-        border: 3px solid black;
-    }
-    tdody tr {
-        height: 50px;
-    }
+    tbody tr {font-size: 40px;}
     td {
         text-align: center;
         vertical-align: middle;
     }
+    table {
+        margin-top: 40px;
+        margin-bottom: 40px;
+    }
+    .unupdate {color: #777;}
+    .year {
+        font-size:60px;
+        margin-top: 10px;
+        margin-bottom: 10px;
+    }
+    .link {color: #6e2cff;}
+    .dark table {border: 3px solid white;}
+    .light table {border: 3px solid black;}
+    .under {
+        word-break: keep-all;
+        font-size: 15px;
+    }
+    .left {
+        float: left;
+        text-align: left;
+        width: 50%;
+    }
+    .right {
+        float: right;
+        text-align:right;
+        width: 50%;
+    }
+    #title {
+        font-size:50px;}
+        margin-left: auto;
+        margin-right: auto;
+        text-align: center;
+    }
+    @media (min-width: 427px) and (max-width: 770px) {
+        tbody tr {
+            height: 75px;
+            font-size: 30px;
+        }
+        table {
+            margin-top: 30px;
+            margin-bottom: 30px;
+        }
+        .year {
+            font-size:45px;
+            margin-top: 10px;
+            margin-bottom: 10px;
+        }
+        .under {font-size:10px}
+    }
+    @media (max-width: 427px) {
+        tbody tr {
+            height: 60px;
+            font-size: 20px;
+        }
+        table {
+            margin-top: 20px;
+            margin-bottom: 20px;
+        }
+        ul {
+            padding-left: 17px;
+            margin-top: 6px;
+            margin-bottom: 6px;
+        }
+        p {
+            margin-top: 6px;
+            margin-bottom: 6px;
+        }
+        .year {
+            font-size:30px;
+            margin-top: 10px;
+            margin-bottom: 10px;
+        }
+        .under {font-size:11px}
+        #title {font-size:40px;}
+    @media (min-width: 1450px) {
+        #body {width: 1296px !important;}
+    }
 </style>
 <script src="script.js"></script>
+
 </body></html>
