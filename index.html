@@ -4,22 +4,21 @@
     <meta charset="UTF-8">
     <link rel="icon" href="android-icon-72x72.png"> 
     <link rel="apple-touch-icon" href="android-icon-72x72.png"> 
-    <link rel="stylesheet" href="style.css?v=230915">
+    <link rel="stylesheet" href="style.css?v=230915.11">
     <title>tripleS 스케줄</title>
-    <link rel="preconnect" href="https://fonts.googleapis.com">
-    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link href="https://fonts.googleapis.com/css2?family=Nanum+Gothic&display=swap" rel="stylesheet">
-    <style>
-        * {font-family : 'Nanum Gothic', sans-serif;}
-    </style>
 </head>
-<body class="dark"><div id="body" style="width:90%;">
-    <div class="right">
-        <button class="main" id="btn_darklight" style="width:100px" onclick="darklight()">라이트 모드</button>
-    </div>
-    <div class="hr"><hr></div>
+<body class="dark">
+    <div id="header"><header>
+        <div>
+            <a href="#" onclick="location.href='./?'+status+status2"><img id="home" src="./home.svg"></a>
+        </div>
+        <div>
+            <button class="main" id="btn_darklight" style="width:100px" onclick="darklight()">라이트 모드</button>
+        </div>
+    </header></div>
+    <div id="content">
     <div id="title"><b><a href="https://triplescosmos.com">tripleS</a> 스케줄</b></div>
-<table class="dark_table" style="">
+<table>
 <thead>
     <tr>
         <th colspan="4">
@@ -47,102 +46,69 @@
         <td class="unupdate">12월</td>
     </tr>
 </tbody></table>
-    <div class="hr"><hr></div><div class="under" style="clear:both">
-    <div class="left">
+    <footer>
+    <div style="text-align: left;">
         <p>제작자 : 라멘</p>
         <p>문의사항 :</p>
-        <ul style="padding-left: 25px;">
+        <ul style="padding-left: 16px;">
             <li><a class="link" href="https://open.kakao.com/o/sI2efR7e">오픈카톡</a></li>
-            <li><a class="link" href="https://gall.dcinside.com/m/triplescosmos/10227">dcinside</a></li>
+            <li><a class="link" href="https://gall.dcinside.com/m/triplescosmos/">dcinside</a></li>
             <li>Twitter : <a class="link" href="https://twitter.com/Ramen_SSS_">@Ramen_SSS_</a></li>
             <li>Discord : ramen__</li>
         </ul>
     </div>
-    <div class="right">
+    <div style="text-align: right;">
         <p>Thanks to <a class="link" href="https://twitter.com/kuipertwt">@kuipertwt</a> for domain</p>
-    </div></div></div>
+    </div></footer></div>
 <style>
-    tbody tr {font-size: 40px;}
+    table {
+        margin: 30px auto;
+        width: 60%;
+    }
+    tbody {font-size: 40px;}
     td {
         text-align: center;
         vertical-align: middle;
-    }
-    table {
-        margin-top: 40px;
-        margin-bottom: 40px;
+        padding: 20px 0px;
     }
     .unupdate {color: #777;}
     .year {
-        font-size:60px;
-        margin-top: 10px;
-        margin-bottom: 10px;
+        font-size: 50px;
+        margin: 10px 0px;
     }
     .link {color: #6e2cff;}
     .dark table {border: 3px solid white;}
     .light table {border: 3px solid black;}
-    .under {
+    .dark footer {border-top: 1px solid #393939;}
+    .light footer {border-top: 1px solid #ddd;}
+    footer {
         word-break: keep-all;
-        font-size: 15px;
-    }
-    .left {
-        float: left;
-        text-align: left;
-        width: 50%;
-    }
-    .right {
-        float: right;
-        text-align:right;
-        width: 50%;
+        font-size: 2.5vmin;
+        display: flex;
+        justify-content: space-between;
+        padding-top: 10px;
     }
     #title {
-        font-size:50px;
-        margin-left: auto;
-        margin-right: auto;
+        font-size: 60px;
         text-align: center;
     }
-    @media (min-width: 427px) and (max-width: 770px) {
-        tbody tr {
-            height: 75px;
-            font-size: 30px;
-        }
-        table {
-            margin-top: 30px;
-            margin-bottom: 30px;
-        }
-        .year {
-            font-size:45px;
-            margin-top: 10px;
-            margin-bottom: 10px;
-        }
-        .under {font-size:10px}
+    p,ul {
+        margin: 6px 0px;
     }
-    @media (max-width: 427px) {
-        tbody tr {
-            height: 60px;
-            font-size: 20px;
-        }
+    @media (min-width: 601px) and (max-width: 997px) {
+        #title {font-size: 50px;}
+        tbody {font-size: 30px;}
+        .year {font-size: 40px;}
+    }
+    @media (max-width: 600px) {
         table {
-            margin-top: 20px;
-            margin-bottom: 20px;
+            width: 100%;
         }
-        ul {
-            padding-left: 17px;
-            margin-top: 6px;
-            margin-bottom: 6px;
-        }
-        p {
-            margin-top: 6px;
-            margin-bottom: 6px;
-        }
-        .year {
-            font-size:30px;
-            margin-top: 10px;
-            margin-bottom: 10px;
-        }
-        .under {font-size:11px}
+        tbody {font-size: 5.5vw;}
+        .year {font-size: 9vw;}
+    }
+    @media (max-width: 450px) {
         #title {font-size:40px;}
-    @media (min-width: 1450px) {
-        #body {width: 1296px !important;}
     }
 </style>
 <script src="script.js"></script>
