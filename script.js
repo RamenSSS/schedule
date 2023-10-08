@@ -1,54 +1,41 @@
-function change(before, after) {
-    var queue = document.querySelector('body')
-    queue.classList.remove(before);
-    queue.classList.add(after);
-}
-
 function light() {
-    change('dark','light');
-    document.getElementById('btn_darklight').innerText = '다크 모드'
-    status='light'
+    $('body').removeClass('dark').addClass('light');
+    $('#btn_darklight').text('다크 모드')
+    isDark='n'
 }
 
 function dark() {
-    change('light','dark');
-    document.getElementById('btn_darklight').innerText = '라이트 모드'
-    status='dark'
+    $('body').removeClass('light').addClass('dark');
+    $('#btn_darklight').text('라이트 모드')
+    isDark='y'
 }
 
 function darklight() {
-    if (status=='light'){dark()}
+    if (isDark=='n'){dark()}
     else {light()}
+    localStorage.setItem('isDark',isDark)
 }
 
 function simplify() {
-    document.querySelector('body').classList.add('simple')
-    try {document.getElementById('btn_simple').innerText = '자세하게 보기'} catch {}
-    status2='?simple'
+    $('body').addClass('simple')
+    $('#btn_simple').text('자세하게 보기')
+    isSimple='y'
 }
 
 function unsimplify() {
-    document.querySelector('body').classList.remove('simple')
-    try {document.getElementById('btn_simple').innerText = '간단하게 보기'} catch {}
-    status2=''
+    $('body').removeClass('simple')
+    $('#btn_simple').text('간단하게 보기')
+    isSimple='n'
 }
 
 function simple() {
-    if (status2=='?simple'){unsimplify()}
+    if (isSimple=='y'){unsimplify()}
     else {simplify()}
+    localStorage.setItem('isSimple',isSimple)
 }
 
-status = 'dark'
-data = location.href.split('?')
-if (data.length>1){
-    if (data[1]=='light'){
-        darklight()
-    }
-}
+isDark = localStorage.getItem('isDark')
+isSimple = localStorage.getItem('isSimple')
 
-status2 = ''
-if (data.length>2){
-    if (data[2]=='simple'){
-        simplify()
-    }
-}
+if (isDark=='n') {light()}
+if (isSimple=='y') {simplify()}
