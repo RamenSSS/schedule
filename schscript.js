@@ -74,7 +74,7 @@ function setCalender(data) {
           table += '<date>' + schS[0] + '</date>'
         } else {
           rawSch = schS[sch].split('○')
-          table += '<button class="sch">[' + rawSch[0] + ']<span class="detail_shown"> ' + rawSch[1] + '</span></button><hv><p class="detail_hidden">' + rawSch[1] + '</p>'
+          table += '<button class="sch"><span class="schTitle">[' + rawSch[0] + ']</span><span class="detail_shown"> ' + rawSch[1] + '</span></button><hv><p class="detail_hidden">' + rawSch[1] + '</p>'
           if (!(rawSch[2] == '0')) {
             table += rawSch[2]
           }
