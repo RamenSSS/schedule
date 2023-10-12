@@ -13,6 +13,7 @@ function loadSch(yy,mm) {
   $('#'+mm).addClass('selected')
   setyear(yy);
   setButton(yy,mm);
+  sessionStorage.setItem('yymm',yy+mm)
   }
 }
 
