@@ -11,7 +11,7 @@
 <body class="dark">
     <div id="header"><header>
         <div>
-            <a href='./'><img id="home" src="./home.svg"></a>
+            <a href="#" onclick="location.href='./?'+status+status2"><img id="home" src="./home.svg"></a>
         </div>
         <div>
             <button class="main" id="btn_darklight" style="width:100px" onclick="darklight()">라이트 모드</button>
@@ -88,6 +88,7 @@
     table {
         margin: 0px 0px;
         aspect-ratio: 3/2;
+        border: 3px solid var(--obj-color);
     }
     tbody {font-size: min(1.8vw, 22px);}
     td {
@@ -99,16 +100,13 @@
         margin: 8px 0px;
     }
     .link {color: #6e2cff;}
-    .dark table {border: 3px solid white;}
-    .light table {border: 3px solid black;}
-    .dark footer {border-top: 1px solid #393939;}
-    .light footer {border-top: 1px solid #ddd;}
     footer {
         word-break: keep-all;
         font-size: min(2.5vmin,16px);
         display: flex;
         justify-content: space-between;
         padding-top: 10px;
+        border-top: 1px solid var(--inner-border-color);
     }
     #title {
         font-size: 60px;
