@@ -72,7 +72,7 @@ td {
     font-size: 14px;
 }
 th {font-size:20;}
-tbody tr {height:max(100px,calc((100vh - 210.4px)/6));}
+tbody tr {height:max(100px,calc((80vh - 210.4px)/6));}
 thead tr {height: 50px;}
 hv {
     padding: 10px 10px;
@@ -128,10 +128,10 @@ border-radius: 18px;
     .simple td{font-size: 16px;}
 }
 @media (max-width: 900px) {
-    tbody tr {height: max(118px,calc((100vh - 210.4px)/6));}
+    tbody tr {height: max(118px,calc((80vh - 210.4px)/6));}
 }
 @media (max-width:600px) {
-    tbody tr {height: max(82px,calc((100vh - 191px)/6));}
+    tbody tr {height: max(82px,calc((80vh - 191px)/6));}
     .arrow {font-size: 40px;}
 .arrow span {padding: 0px 6px 3px 6px;
 border-radius: 14px;
@@ -148,7 +148,7 @@ border-radius: 14px;
 }
 @media (max-width:450px) {
     td {font-size:11px}
-    tbody tr {height: max(67px,calc((100vh - 183px)/6));}
+    tbody tr {height: max(67px,calc((80vh - 183px)/6));}
     date {font-size:1.5em}
     #title {margin: 0px;}
     .arrow {font-size:30px;}
