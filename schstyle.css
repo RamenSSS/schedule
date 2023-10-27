@@ -1,3 +1,15 @@
+.dark {
+    --bg-color: #1f2023;
+    --obj-color: #fff;
+    --inner-border-color: #393939;
+    --cosmo-color: #6e2cff;
+}
+.light {
+    --bg-color: #fff;
+    --obj-color: #000;
+    --inner-border-color: #ddd;
+    --cosmo-color: #b59dff;
+}
 .drop {
     position:absolute;
     display:none;
