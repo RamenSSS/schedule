@@ -42,7 +42,7 @@ function setButton(yy,mm) {
   $('#left_btn').attr("onclick","loadSch('"+prevY+"','"+prevM+"')")
   $('#left_btn_h').attr("onclick","loadSch('"+prevY+"','"+prevM+"')")
   }
-  if (Y==23 && M==12) {
+  if (Y==24 && M==12) {
   $('#right_btn').attr("onclick","alert('업데이트 예정')").addClass('unupdated')
   } else {
   var nextY = Y;
