@@ -1,0 +1,97 @@
+{
+    "cafe": [
+        {
+            "twitter": {
+                "status": [
+                    true
+                ],
+                "tweets": [
+                    "tripleS_stream/status/1723174709154795815"
+                ],
+                "tags": [
+                    "김채연의_모든날_모든순간",
+                    "빛나는_20대의_시작을_응원해"
+                ],
+                "imageLinks": [
+                    "F-mxCDXa0AATkCh",
+                    "F-mwRQ9bQAAdkRt"
+                ]
+            },
+            "startDate": 2,
+            "endDate": 4,
+            "locate": {
+                "name": "카페크레오",
+                "address": "서울 강남구 봉은사로67길 28",
+                "kakaoMap": {
+                    "timestamp": "1711734211127",
+                    "key": "2iqgh"
+                },
+                "googleMap": "!1m18!1m12!1m3!1d3164.760944230362!2d127.04555297571017!3d37.513556027164526!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x357ca5a824273e29%3A0xc7eb0ad07c4b567e!2z7Lm07Y6Y7YGs66CI7Jik!5e0!3m2!1sko!2skr!4v1711734235655!5m2!1sko!2skr",
+                "naverMap": "xjeg9lTY"
+            }
+        },
+        {
+            "twitter": {
+                "status": [
+                    true
+                ],
+                "tweets": [
+                    "posh1204/status/1726222583572603075"
+                ],
+                "tags": [
+                    "채연이의_아름다운스물",
+                    "채연이의_빛이_일렁이기_시작한순간"
+                ],
+                "imageLinks": [
+                    "F_TGSMBaAAAdicW",
+                    "F_TGSMGbwAAfyR0"
+                ]
+            },
+            "startDate": 3,
+            "endDate": 4,
+            "locate": {
+                "name": "로얄마카롱",
+                "address": "서울 강남구 테헤란로25길 26 3층",
+                "kakaoMap": {
+                    "timestamp" : "1709970284788",
+                    "key" : "2if2j"
+                },
+                "googleMap": "!1m18!1m12!1m3!1d12661.74042458617!2d127.02226705675696!3d37.497654778286076!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x357ca39c47187c73%3A0x20c661156d1b4432!2z66Gc7JaE66eI7Lm066Gx!5e0!3m2!1sko!2skr!4v1710058291592!5m2!1sko!2skr",
+                "naverMap": "IxD7eEbf"
+            }
+        }
+    ],
+    "photo": [
+        {
+            "twitter": {
+                "status": [
+                    true
+                ],
+                "tweets": [
+                    "maxeitmove/status/1727280906711486630"
+                ],
+                "tags": [
+                    "채연이의_가장_따뜻한_겨울",
+                    "채연네컷_찍어봐"
+                ],
+                "imageLinks": [
+                    "F_iI1BMb0AAJJdV",
+                    "F_iI1ByasAA04Zf"
+                ]
+            },
+            "startDate": 2,
+            "endDate": 4,
+            "locate": {
+                "name": "폴라스튜디오 서울압구정점",
+                "address": "서울 강남구 도산대로51길 37 1층 104호",
+                "kakaoMap": {
+                    "timestamp": "1711735475270",
+                    "key": "2iqgk"
+                },
+                "googleMap": "!1m18!1m12!1m3!1d3164.246175261704!2d127.03312888453885!3d37.525693854415!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x357ca3887a874a97%3A0x16f80f7681c2055f!2z7Y-065287Iqk7Yqc65SU7Jik7JWV6rWs7KCV7KCQ!5e0!3m2!1sko!2skr!4v1711735403611!5m2!1sko!2skr",
+                "naverMap": "5BxyTFDu"
+            }
+        }
+    ],
+    "ad": []
+}

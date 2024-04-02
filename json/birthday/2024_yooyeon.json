@@ -1,0 +1,96 @@
+{
+    "cafe": [
+        {
+            "twitter": {
+                "status": [
+                    true
+                ],
+                "tweets": [
+                    "fluer0209/status/1744735842403516643"
+                ],
+                "tags": [
+                    "봄과_유연의_시작",
+                    "fluer_de_pissenlit"
+                ],
+                "imageLinks": [
+                    "GDaL9L6bUAAvQse",
+                    "GDaL9LpbAAAw77R"
+                ]
+            },
+            "startDate": 8,
+            "endDate": 9,
+            "locate": {
+                "name": "로얄마카롱",
+                "address": "서울 강남구 테헤란로25길 26 3층",
+                "kakaoMap": {
+                    "timestamp" : "1709970284788",
+                    "key" : "2if2j"
+                },
+                "googleMap": "!1m18!1m12!1m3!1d12661.74042458617!2d127.02226705675696!3d37.497654778286076!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x357ca39c47187c73%3A0x20c661156d1b4432!2z66Gc7JaE66eI7Lm066Gx!5e0!3m2!1sko!2skr!4v1710058291592!5m2!1sko!2skr",
+                "naverMap": "IxD7eEbf"
+            }
+        },
+        {
+            "twitter": {
+                "status": [
+                    true
+                ],
+                "tweets": [
+                    "mingjyu84/status/1744380966787768496"
+                ],
+                "tags": [
+                    "Dear_Yooyeon",
+                    "Happy_Yooyeon_day"
+                ],
+                "imageLinks": [
+                    "GDVJPb4XsAAG6x1",
+                    "GDVJPb1WMAECUA0"
+                ]
+            },
+            "startDate": 8,
+            "endDate": 9,
+            "locate": {
+                "name": "카페퓨",
+                "address": "서울 강남구 논현로105길 13",
+                "kakaoMap": {
+                    "timestamp": "1710659062011",
+                    "key": "2ijru"
+                },
+                "googleMap": "!1m18!1m12!1m3!1d791.2726997593421!2d127.03257786959024!3d37.50577656214126!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x357ca3fb947a74f9%3A0x44a23cb50f43f48!2z7ZOo!5e0!3m2!1sko!2skr!4v1710659123665!5m2!1sko!2skr",
+                "naverMap": "GEAIAFcZ"
+            }
+        },
+        {
+            "twitter": {
+                "status": [
+                    true
+                ],
+                "tweets": [
+                    "bdddky/status/1744373417921442263"
+                ],
+                "tags": [
+                    "내내내생일꺄",
+                    "WINTERFILM209exp"
+                ],
+                "imageLinks": [
+                    "GDVCX7BWUAA3SBw",
+                    "GDVCX64XgAAUEvX"
+                ]
+            },
+            "startDate": 8,
+            "endDate": 9,
+            "locate": {
+                "name": "오엘커피",
+                "address": "서울 마포구 잔다리로 30-32 1층",
+                "kakaoMap": {
+                    "timestamp": "1710659389222",
+                    "key": "2ijrw"
+                },
+                "googleMap": "!1m18!1m12!1m3!1d3163.1338463964535!2d126.91750917571174!3d37.55191022496681!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x357c98daec4234d9%3A0xfa73af6e78cfb402!2z7Jik7JeY7Luk7ZS8!5e0!3m2!1sko!2skr!4v1710659415720!5m2!1sko!2skr",
+                "naverMap": "G3Kw58zA"
+            }
+        }
+    ],
+    "photo": [],
+    "ad": []
+}

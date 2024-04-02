@@ -1,0 +1,35 @@
+{
+    "cafe": [
+        {
+            "twitter": {
+                "status": [
+                    true
+                ],
+                "tweets": [
+                    "jiwoo_T_aime/status/1572465808907051008"
+                ],
+                "tags": [
+                    "지우의_열여덟번째_가을을_함께 ",
+                    "fletch_peach_jiwoo_day"
+                ],
+                "imageLinks": [
+                    "FdKFT7ZaMAAzegI"
+                ]
+            },
+            "startDate": 22,
+            "endDate": 24,
+            "locate": {
+                "name": "요거트맨",
+                "address": "서울 강남구 도산대로89길 35 청담범신칼릭스빌2차 105호",
+                "kakaoMap": {
+                    "timestamp": "1711822949644",
+                    "key": "2iqjo"
+                },
+                "googleMap": "!1m18!1m12!1m3!1d25306.135228327526!2d126.99717000222597!3d37.54877503589322!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x357ca159ceb1e069%3A0xbcd64ff8920c6c30!2z7JqU6rGw7Yq466eo!5e0!3m2!1sko!2skr!4v1711822973417!5m2!1sko!2skr",
+                "naverMap": "xIhemDeM"
+            }
+        }
+    ],
+    "photo": [],
+    "ad": []
+}
