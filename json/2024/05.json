@@ -15,10 +15,6 @@
         },
         {
             "dates": "2",
-            "schedule": []
-        },
-        {
-            "dates": "3",
             "schedule": [
                 {
                     "title" : "기념일",
@@ -27,6 +23,10 @@
                     "member" : "0"
                 }
             ]
+        },
+        {
+            "dates": "3",
+            "schedule": []
         },
         {
             "dates": "4",
