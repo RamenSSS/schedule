@@ -3,10 +3,12 @@
         {
             "twitter": {
                 "status": [
+                    true,
                     true
                 ],
                 "tweets": [
-                    "min2on_/status/1769317853017297315"
+                    "min2on_/status/1769317853017297315",
+                    "psh2On/status/1769317793596633267"
                 ],
                 "tags": [
                     "시온데이_보내시온 ",
