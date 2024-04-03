@@ -94,6 +94,37 @@
                 "googleMap": "!1m18!1m12!1m3!1d1582.9825904149827!2d127.1321174476429!3d37.48514803025342!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x357caf66e7914e4b%3A0x7b6730b0afbf19ce!2z7Iah7YyM7YyM7J247YOA7Jq0MuuLqOyngC7qtazrpr3shqHtjIzrs7Xsp4DshLzthLA!5e0!3m2!1sko!2skr!4v1711799897892!5m2!1sko!2skr",
                 "naverMap": "5Bkobh7O"
             }
+        },
+        {
+            "twitter": {
+                "status": [
+                    true,
+                    true,
+                    true
+                ],
+                "tweets": [
+                    "Visionary0729/status/1771888378776260733",
+                    "jjuging2_/status/1771884780206080067",
+                    "bizjoongang/status/1775020559426052469"
+                ],
+                "tags": [],
+                "imageLinks": [
+                    "GJcDFqwbIAAaiG_",
+                    "GJcDFwJbwAA6aVM"
+                ]
+            },
+            "startDate": 1,
+            "endDate": 30,
+            "locate": {
+                "name": "잠실역 2호선",
+                "address": "3번출구 부근 물품보관함 맞은편 (하단 사진 동그라미 부분)",
+                "kakaoMap": {
+                    "timestamp": "1712153139993",
+                    "key": "2isfw"
+                },
+                "googleMap": "!1m18!1m12!1m3!1d342.4038648217066!2d127.09964833693253!3d37.51315732452846!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x357ca50a1302a1b1%3A0xa7ee3308e8504254!2z7J6g7Iuk!5e0!3m2!1sko!2skr!4v1712153176024!5m2!1sko!2skr",
+                "naverMap": "xlC8fDzI"
+            }
         }
     ]
 }
