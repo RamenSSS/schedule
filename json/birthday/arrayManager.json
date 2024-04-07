@@ -4,9 +4,9 @@
         [2024,"hyerin"]
     ],
     "ongoing": [
-        [2024,"shion"]
     ],
     "past": [
+        [2024,"shion"],
         [2024,"kotone"],
         [2024,"yooyeon"],
         [2024,"yubin"],
@@ -257,10 +257,10 @@
             "month": 5,
             "day": 2
         },
-        "S22": {
+        "sullin": {
             "order": 22,
-            "fileName": "",
-            "koreanName": "",
+            "fileName": "sullin",
+            "koreanName": "설린",
             "color": {
                 "bgColor": "000",
                 "textColor": "fff"
@@ -268,10 +268,10 @@
             "month": 0,
             "day": 0
         },
-        "S23": {
+        "seoah": {
             "order": 23,
-            "fileName": "",
-            "koreanName": "",
+            "fileName": "seoah",
+            "koreanName": "서아",
             "color": {
                 "bgColor": "000",
                 "textColor": "fff"
@@ -279,10 +279,10 @@
             "month": 0,
             "day": 0
         },
-        "S24": {
+        "jiyeon": {
             "order": 24,
-            "fileName": "",
-            "koreanName": "",
+            "fileName": "jiyeon",
+            "koreanName": "지연",
             "color": {
                 "bgColor": "000",
                 "textColor": "fff"
