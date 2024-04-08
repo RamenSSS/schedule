@@ -43,15 +43,36 @@
         },
         {
             "dates": "9",
-            "schedule": []
+            "schedule": [
+                {
+                    "title" : "라이브",
+                    "detail" : "유튜브",
+                    "time" : "22:00",
+                    "member" : "하연, 채원"
+                }
+            ]
         },
         {
             "dates": "10",
-            "schedule": []
+            "schedule": [
+                {
+                    "title" : "라이브",
+                    "detail" : "유튜브",
+                    "time" : "22:00",
+                    "member" : "소현"
+                }
+            ]
         },
         {
             "dates": "11",
-            "schedule": []
+            "schedule": [
+                {
+                    "title" : "라이브",
+                    "detail" : "웨이보",
+                    "time" : "22:00",
+                    "member" : "서연, 유연, 니엔, 신위"
+                }
+            ]
         },
         {
             "dates": "12",
