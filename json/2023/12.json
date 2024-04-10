@@ -211,7 +211,7 @@
                 {
                     "title": "공연",
                     "detail": "멜버른",
-                    "time": "19:00 AEDT",
+                    "time": "19:00 UTC+11",
                     "member": "EVOLution (지우, 채연, 유연, 수민, 나경, 코토네, 연지, 마유)"
                 }
             ]
@@ -222,7 +222,7 @@
                 {
                     "title": "공연",
                     "detail": "시드니",
-                    "time": "19:00 AEDT",
+                    "time": "19:00 UTC+11",
                     "member": "EVOLution (지우, 채연, 유연, 수민, 나경, 코토네, 연지, 마유)"
                 }
             ]
@@ -256,7 +256,7 @@
                 {
                     "title": "공연",
                     "detail": "브리즈번",
-                    "time": "19:00 AEST",
+                    "time": "19:00 UTC+10",
                     "member": "EVOLution (지우, 채연, 유연, 수민, 나경, 코토네, 연지, 마유)"
                 }
             ]
