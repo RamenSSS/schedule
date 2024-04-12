@@ -1,4 +1,4 @@
-{
+ {
     "cafe": [
         {
             "twitter": {
@@ -51,7 +51,7 @@
                 ]
             },
             "startDate": 12,
-            "endDate": 14,
+            "endDate": 15,
             "locate":{
                 "name": "카페코드",
                 "address": "서울 마포구 독막로15길 3-11 3층",
@@ -81,7 +81,7 @@
                 ]
             },
             "startDate": 12,
-            "endDate": 14,
+            "endDate": 15,
             "locate": {
                 "name": "멜랑쥬",
                 "address": "서울 마포구 와우산로27길 14 102호",
