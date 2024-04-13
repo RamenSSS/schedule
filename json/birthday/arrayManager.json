@@ -1,11 +1,9 @@
 {
     "upcoming": [
-        [2024,"lynn"],
-        [2024,"hyerin"]
-    ],
-    "ongoing": [
     ],
     "past": [
+        [2024,"lynn"],
+        [2024,"hyerin"],
         [2024,"shion"],
         [2024,"kotone"],
         [2024,"yooyeon"],
@@ -273,8 +271,8 @@
             "fileName": "seoah",
             "koreanName": "서아",
             "color": {
-                "bgColor": "000",
-                "textColor": "fff"
+                "bgColor": "cff3ff",
+                "textColor": "000"
             },
             "month": 0,
             "day": 0
@@ -284,8 +282,8 @@
             "fileName": "jiyeon",
             "koreanName": "지연",
             "color": {
-                "bgColor": "000",
-                "textColor": "fff"
+                "bgColor": "ffab62",
+                "textColor": "000"
             },
             "month": 0,
             "day": 0
