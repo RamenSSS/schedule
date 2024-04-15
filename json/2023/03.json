@@ -6,6 +6,12 @@
             "dates": "1",
             "schedule": [
                 {
+                    "title" : "음방",
+                    "detail" : "쇼챔피언 사전녹화",
+                    "time" : "09:30",
+                    "member" : "S1 ~ S10"
+                },
+                {
                     "title": "음방",
                     "detail": "쇼챔피언",
                     "time": "18:00",
@@ -56,6 +62,12 @@
         {
             "dates": "4",
             "schedule": [
+                {
+                    "title" : "음방",
+                    "detail" : "음악중심 사전녹화",
+                    "time" : "08:40",
+                    "member" : "S1 ~ S10"
+                },
                 {
                     "title": "음방",
                     "detail": "음악중심",
@@ -111,6 +123,12 @@
         {
             "dates": "8",
             "schedule": [
+                {
+                    "title" : "음방",
+                    "detail" : "쇼챔피언 사전녹화",
+                    "time" : "09:00",
+                    "member" : "S1 ~ S10"
+                },
                 {
                     "title": "음방",
                     "detail": "쇼챔피언",

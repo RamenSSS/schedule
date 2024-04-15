@@ -213,6 +213,12 @@
             "dates": "18",
             "schedule": [
                 {
+                    "title" : "음방",
+                    "detail" : "뮤직뱅크 사전녹화",
+                    "time" : "14:30",
+                    "member" : "LOVElution (혜린, 유빈, 카에데, 다현, 니엔, 소현, 신위)"
+                },
+                {
                     "title": "음방",
                     "detail": "뮤직뱅크",
                     "time": "17:15",
@@ -241,6 +247,12 @@
             "dates": "20",
             "schedule": [
                 {
+                    "title" : "음방",
+                    "detail" : "인기가요 사전녹화",
+                    "time" : "10:00",
+                    "member" : "LOVElution (혜린, 유빈, 카에데, 다현, 니엔, 소현, 신위)"
+                },
+                {
                     "title": "음방",
                     "detail": "인기가요",
                     "time": "15:40",
@@ -262,6 +274,12 @@
                     "detail": "심플리케이팝 생녹방",
                     "time": "19:00",
                     "member": "LOVElution (서연, 혜린, 유빈, 카에데, 다현, 니엔, 소현, 신위)"
+                },
+                {
+                    "title" : "음방",
+                    "detail" : "심플리케이팝 사후녹화",
+                    "time" : "20:30",
+                    "member" : "LOVElution (혜린, 유빈, 카에데, 다현, 니엔, 소현, 신위)"
                 }
             ]
         },
@@ -378,6 +396,12 @@
         {
             "dates": "30",
             "schedule": [
+                {
+                    "title" : "음방",
+                    "detail" : "쇼챔피언 사전녹화",
+                    "time" : "15:00",
+                    "member" : "LOVElution (혜린, 유빈, 카에데, 다현, 니엔, 소현, 신위)"
+                },
                 {
                     "title": "음방",
                     "detail": "쇼챔피언",

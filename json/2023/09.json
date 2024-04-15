@@ -29,6 +29,12 @@
             "dates": "2",
             "schedule": [
                 {
+                    "title" : "음방",
+                    "detail" : "음악중심 사전녹화",
+                    "time" : "11:00",
+                    "member" : "LOVElution (혜린, 유빈, 카에데, 다현, 니엔, 소현, 신위)"
+                },
+                {
                     "title": "음방",
                     "detail": "음악중심",
                     "time": "15:15",

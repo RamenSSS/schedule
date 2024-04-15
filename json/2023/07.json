@@ -50,6 +50,12 @@
                     "member": "0"
                 },
                 {
+                    "title" : "음방",
+                    "detail" : "더쇼 사전녹화",
+                    "time" : "14:00",
+                    "member" : "KRE (서연, 지우, 채연, 수민)"
+                },
+                {
                     "title": "음방",
                     "detail": "더쇼",
                     "time": "18:00",
@@ -66,6 +72,12 @@
         {
             "dates": "5",
             "schedule": [
+                {
+                    "title" : "음방",
+                    "detail" : "쇼챔피언 사전녹화",
+                    "time" : "09:30",
+                    "member" : "KRE (서연, 지우, 채연, 수민)"
+                },
                 {
                     "title": "음방",
                     "detail": "쇼챔피언",
@@ -274,7 +286,14 @@
         },
         {
             "dates": "22",
-            "schedule": []
+            "schedule": [
+                {
+                    "title": "팬싸",
+                    "detail": "ALL MY THINGS (대면)",
+                    "time": "13:00",
+                    "member": "유빈"
+                }
+            ]
         },
         {
             "dates": "23",

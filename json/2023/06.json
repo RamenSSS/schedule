@@ -272,6 +272,12 @@
             "dates": "24",
             "schedule": [
                 {
+                    "title" : "음방",
+                    "detail" : "음악중심 사전녹화",
+                    "time" : "09:30",
+                    "member" : "KRE (서연, 지우, 채연, 수민)"
+                },
+                {
                     "title": "음방",
                     "detail": "음악중심",
                     "time": "15:15",
@@ -309,6 +315,12 @@
         {
             "dates": "27",
             "schedule": [
+                {
+                    "title" : "음방",
+                    "detail" : "더쇼 사전녹화",
+                    "time" : "09:10",
+                    "member" : "KRE (서연, 지우, 채연, 수민)"
+                },
                 {
                     "title": "음방",
                     "detail": "더쇼",
@@ -356,6 +368,12 @@
                     "member": "0"
                 },
                 {
+                    "title" : "음방",
+                    "detail" : "더쇼 사전녹화",
+                    "time" : "10:30",
+                    "member" : "LOVElution (혜린, 유빈, 카에데, 다현, 니엔, 소현, 신위)"
+                },
+                {
                     "title": "음방",
                     "detail": "엠카운트다운",
                     "time": "18:00",
@@ -373,14 +391,6 @@
                     "member": "KRE (서연, 지우, 채연, 수민)"
                 }
             ]
-        },
-        {
-            "dates": "0",
-            "schedule": []
-        },
-        {
-            "dates": "",
-            "schedule": []
         }
     ]
 }
