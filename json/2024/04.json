@@ -112,11 +112,25 @@
         },
         {
             "dates": "16",
-            "schedule": []
+            "schedule": [
+                {
+                    "title" : "라이브",
+                    "detail" : "유튜브",
+                    "time" : "22:00",
+                    "member" : "서연, 서아, 지연"
+                }
+            ]
         },
         {
             "dates": "17",
-            "schedule": []
+            "schedule": [
+                {
+                    "title" : "라이브",
+                    "detail" : "유튜브",
+                    "time" : "22:00",
+                    "member" : "니엔, 신위, 린"
+                }
+            ]
         },
         {
             "dates": "18",
@@ -127,6 +141,12 @@
                     "time": "0",
                     "member": "0"
                 },
+                {
+                    "title" : "라이브",
+                    "detail" : "웨이보",
+                    "time" : "22:00",
+                    "member" : "신위"
+                }
                 {
                     "title" : "행사",
                     "detail" : "TOKEN2049 DUBAI",
