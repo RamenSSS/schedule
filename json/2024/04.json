@@ -168,7 +168,14 @@
         },
         {
             "dates": "25",
-            "schedule": []
+            "schedule": [
+                {
+                    "title" : "행사",
+                    "detail" : "Southeast Asia Blockchain Week",
+                    "time" : "0",
+                    "member" : "서연, 채연, 나경, 다현, 니엔, 소현, 신위, 마유, 설린"
+                }
+            ]
         },
         {
             "dates": "26",
