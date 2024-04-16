@@ -159,6 +159,12 @@
                     "member": "0"
                 },
                 {
+                    "title" : "기념일",
+                    "detail" : "주빈 생일",
+                    "time" : "0",
+                    "member" : "0"
+                },
+                {
                     "title": "라이브",
                     "detail": "유튜브",
                     "time": "22:00",

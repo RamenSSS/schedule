@@ -58,7 +58,14 @@
         },
         {
             "dates": "11",
-            "schedule": []
+            "schedule": [
+                {
+                    "title" : "기념일",
+                    "detail" : "서아 생일",
+                    "time" : "0",
+                    "member" : "0"
+                }
+            ]
         },
         {
             "dates": "12",

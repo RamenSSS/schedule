@@ -274,8 +274,8 @@
                 "bgColor": "cff3ff",
                 "textColor": "000"
             },
-            "month": 0,
-            "day": 0
+            "month": 6,
+            "day": 11
         },
         "jiyeon": {
             "order": 24,
@@ -285,8 +285,8 @@
                 "bgColor": "ffab62",
                 "textColor": "000"
             },
-            "month": 0,
-            "day": 0
+            "month": 2,
+            "day": 13
         }
     }
 }
