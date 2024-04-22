@@ -184,11 +184,24 @@
         },
         {
             "dates": "24",
-            "schedule": []
+            "schedule": [
+                {
+                    "title" : "라이브",
+                    "detail" : "유튜브",
+                    "time" : "22:00",
+                    "member" : "하연"
+                }
+            ]
         },
         {
             "dates": "25",
             "schedule": [
+                {
+                    "title" : "라이브",
+                    "detail" : "웨이보",
+                    "time" : "22:00",
+                    "member" : "혜린, 수민, 연지"
+                }
                 {
                     "title" : "행사",
                     "detail" : "Southeast Asia Blockchain Week",
