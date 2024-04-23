@@ -127,7 +127,14 @@
         },
         {
             "dates": "30",
-            "schedule": []
+            "schedule": [
+                {
+                    "title" : "기념일",
+                    "detail" : "설린 생일",
+                    "time" : "0",
+                    "member" : "0"
+                }
+            ]
         }
     ]
 }
