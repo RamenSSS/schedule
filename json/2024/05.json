@@ -53,7 +53,26 @@
         },
         {
             "dates": "8",
-            "schedule": []
+            "schedule": [
+                {
+                    "title": "음반",
+                    "detail": "〈ASSEMBLE24〉 발매",
+                    "time": "18:00",
+                    "member": "S1 ~ S24"
+                },
+                {
+                    "title": "뮤비",
+                    "detail": "INVINCIBLE 공개",
+                    "time": "0",
+                    "member": "S1 ~ S24"
+                },
+                {
+                    "title": "공연",
+                    "detail": "ASSEMBLE24 쇼케이스",
+                    "time": "20:00",
+                    "member": "S1 ~ S24"
+                },
+            ]
         },
         {
             "dates": "9",
