@@ -73,6 +73,12 @@
                     "member": "S1 ~ S24"
                 },
                 {
+                    "title" : "방송",
+                    "detail" : "주간아이돌",
+                    "time" : "18:20",
+                    "member" : "S1 ~ S24"
+                },
+                {
                     "title": "공연",
                     "detail": "ASSEMBLE24 쇼케이스",
                     "time": "20:00",
@@ -88,6 +94,12 @@
                     "detail": "서연 2주년",
                     "time": "0",
                     "member": "0"
+                },
+                {
+                    "title" : "방송",
+                    "detail" : "주간아이돌",
+                    "time" : "00:00",
+                    "member" : "S1 ~ S24"
                 }
             ]
         },
