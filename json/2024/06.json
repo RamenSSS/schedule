@@ -4,7 +4,14 @@
     "results": [
         {
             "dates": "1",
-            "schedule": []
+            "schedule": [
+                {
+                    "title" : "행사",
+                    "detail" : "워터밤 홍콩",
+                    "time" : "0",
+                    "member" : "유연, 다현, 니엔, 소현"
+                }
+            ]
         },
         {
             "dates": "2",
