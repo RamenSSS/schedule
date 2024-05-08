@@ -119,6 +119,18 @@
             "dates": "10",
             "schedule": [
                 {
+                    "title" : "음방",
+                    "detail" : "뮤직뱅크 사전녹화",
+                    "time" : "09:00",
+                    "member" : "S1 ~ S24"
+                },
+                {
+                    "title" : "음방",
+                    "detail" : "뮤직뱅크",
+                    "time" : "17:15",
+                    "member" : "S1 ~ S24"
+                },
+                {
                     "title" : "팬싸",
                     "detail" : "위드뮤 (영통)",
                     "time" : "20:00",
