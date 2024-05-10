@@ -57,7 +57,14 @@
         },
         {
             "dates": "6",
-            "schedule": []
+            "schedule": [
+                {
+                    "title" : "음방",
+                    "detail" : "심플리케이팝 사전녹화",
+                    "time" : "0",
+                    "member" : "S1 ~ S24"
+                }
+            ]
         },
         {
             "dates": "7",
@@ -126,6 +133,12 @@
                 },
                 {
                     "title" : "음방",
+                    "detail" : "심플리케이팝 본방송",
+                    "time" : "13:00",
+                    "member" : "S1 ~ S24"
+                },
+                {
+                    "title" : "음방",
                     "detail" : "뮤직뱅크",
                     "time" : "17:15",
                     "member" : "S1 ~ S24"
@@ -142,6 +155,18 @@
             "dates": "11",
             "schedule": [
                 {
+                    "title" : "음방",
+                    "detail" : "음악중심 사전녹화",
+                    "time" : "06:00",
+                    "member" : "S1 ~ S24"
+                },
+                {
+                    "title" : "음방",
+                    "detail" : "음악중심",
+                    "time" : "15:15",
+                    "member" : "S1 ~ S24"
+                },
+                {
                     "title" : "팬싸",
                     "detail" : "마뮤테 (대면, 영통)",
                     "time" : "18:00",
@@ -157,6 +182,18 @@
                     "detail": "마유 생일",
                     "time": "0",
                     "member": "0"
+                },
+                {
+                    "title" : "음방",
+                    "detail" : "인기가요 사전녹화",
+                    "time" : "07:50",
+                    "member" : "S1 ~ S24"
+                },
+                {
+                    "title" : "음방",
+                    "detail" : "인기가요",
+                    "time" : "15:40",
+                    "member" : "S1 ~ S24"
                 },
                 {
                     "title" : "팬싸",
