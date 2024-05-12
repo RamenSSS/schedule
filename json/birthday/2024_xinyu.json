@@ -1,0 +1,37 @@
+{
+  "cafe": [
+        {
+            "twitter": {
+                "status": [
+                    true,
+                    true
+                ],
+                "tweets": [
+                    "DOVE020525/status/1788485777439244370",
+                    "xinyu_dearheart/status/1788485357799141595"
+                ],
+                "tags": [
+                    "I_FLIPPED_XINYU"
+                ],
+                "imageLinks": [
+                    "GNH6VVhakAAsAZM",
+                    "GNH6VVhakAAsAZM"
+                ]
+            },
+            "startDate": 25,
+            "endDate": 26,
+            "locate": {
+                "name": "카페 로얄마카롱 신사역점",
+                "address": "서울 강남구 도산대로1길 6 지하1층",
+                "kakaoMap": {
+                    "timestamp": "1710680951544",
+                    "key": "2ijte"
+                },
+                "googleMap": "!1m18!1m12!1m3!1d3164.609162850939!2d127.01556198453613!3d37.51713525491113!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x357ca3b54628afc9%3A0xc91da6519c4c4446!2z7Lm07Y6YIOuhnOyWhOuniOy5tOuhsSDsi6Dsgqzsl63soJA!5e0!3m2!1sko!2skr!4v1710680964833!5m2!1sko!2skr",
+                "naverMap": "GaMTVszl"
+            }
+        }
+  ],
+  "photo": []
+  "ad": []
+}
