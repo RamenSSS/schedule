@@ -238,7 +238,14 @@
         },
         {
             "dates": "15",
-            "schedule": []
+            "schedule": [
+                {
+                    "title" : "라이브",
+                    "detail" : "유튜브",
+                    "time" : "18:00",
+                    "member" : "혜린, 유빈, 신위, 시온, 서아"
+                }
+            ]
         },
         {
             "dates": "16",
