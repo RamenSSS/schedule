@@ -211,19 +211,19 @@
             "dates": "14",
             "schedule": [
                 {
-                    "title" : "라이브",
+                    "title" : "음방",
                     "detail" : "더쇼 사전녹화",
                     "time" : "07:40",
                     "member" : "S1 ~ S24"
                 },
                 {
-                    "title" : "라이브",
+                    "title" : "음방",
                     "detail" : "더쇼 사전녹화",
                     "time" : "14:15",
                     "member" : "S1 ~ S24"
                 },
                 {
-                    "title" : "라이브",
+                    "title" : "음방",
                     "detail" : "더쇼",
                     "time" : "18:00",
                     "member" : "S1 ~ S24"
