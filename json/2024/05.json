@@ -249,7 +249,14 @@
         },
         {
             "dates": "16",
-            "schedule": []
+            "schedule": [
+                {
+                    "title" : "음방",
+                    "detail" : "엠카운트다운",
+                    "time" : "18:00",
+                    "member" : "0"
+                }
+            ]
         },
         {
             "dates": "17",
