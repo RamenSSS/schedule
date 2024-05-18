@@ -31,11 +31,25 @@
         },
         {
             "dates": "6",
-            "schedule": []
+            "schedule": [
+                {
+                    "title" : "공연",
+                    "detail" : "ASSEMBLE24 Fan Concert",
+                    "time" : "0",
+                    "member" : "S1 ~ S24"
+                }
+            ]
         },
         {
             "dates": "7",
-            "schedule": []
+            "schedule": [
+                {
+                    "title" : "공연",
+                    "detail" : "ASSEMBLE24 Fan Concert",
+                    "time" : "0",
+                    "member" : "S1 ~ S24"
+                }
+            ]
         },
         {
             "dates": "8",
