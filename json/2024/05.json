@@ -408,6 +408,12 @@
             "dates": "26",
             "schedule": [
                 {
+                    "title" : "라디오",
+                    "detail" : "두시탈출 컬투쇼",
+                    "time" : "14:00",
+                    "member" : "서연, 유빈, 니엔, 소현"
+                },
+                {
                     "title" : "팬싸",
                     "detail" : "FLNK (대면, 영통)",
                     "time" : "18:00",
