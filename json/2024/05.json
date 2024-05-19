@@ -291,6 +291,18 @@
             "dates": "18",
             "schedule": [
                 {
+                    "title" : "음방",
+                    "detail" : "음악중심 사전녹화",
+                    "time" : "09:20",
+                    "member" : "S1 ~ S24"
+                },
+                {
+                    "title" : "음방",
+                    "detail" : "음악중심",
+                    "time" : "15:15",
+                    "member" : "S1 ~ S24"
+                },
+                {
                     "title" : "팬싸",
                     "detail" : "애플뮤직 (대면, 영통)",
                     "time" : "18:00",
@@ -301,6 +313,18 @@
         {
             "dates": "19",
             "schedule": [
+                {
+                    "title" : "음방",
+                    "detail" : "인기가요 사전녹화",
+                    "time" : "10:20",
+                    "member" : "S1 ~ S24"
+                },
+                {
+                    "title" : "음방",
+                    "detail" : "인기가요",
+                    "time" : "15:40",
+                    "member" : "S1 ~ S24"
+                },
                 {
                     "title" : "팬싸",
                     "detail" : "메이크스타 (대면, 영통)",
