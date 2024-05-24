@@ -446,6 +446,18 @@
                     "member": "0"
                 },
                 {
+                    "title" : "음방",
+                    "detail" : "음악중심 사전녹화",
+                    "time" : "09:20",
+                    "member" : "S1 ~ S24"
+                },
+                {
+                    "title" : "음방",
+                    "detail" : "음악중심 사전녹화",
+                    "time" : "15:15",
+                    "member" : "S1 ~ S24"
+                },
+                {
                     "title" : "팬싸",
                     "detail" : "디마뮤 (대면, 영통)",
                     "time" : "18:00",
@@ -457,10 +469,22 @@
             "dates": "26",
             "schedule": [
                 {
+                    "title" : "음방",
+                    "detail" : "인기가요 사전녹화",
+                    "time" : "10:05",
+                    "member" : "S1 ~ S24"
+                },
+                {
                     "title" : "라디오",
                     "detail" : "두시탈출 컬투쇼",
                     "time" : "14:00",
                     "member" : "서연, 유빈, 니엔, 소현"
+                },
+                {
+                    "title" : "음방",
+                    "detail" : "인기가요",
+                    "time" : "15:40",
+                    "member" : "S1 ~ S24"
                 },
                 {
                     "title" : "팬싸",
