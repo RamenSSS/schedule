@@ -32,7 +32,7 @@
             "fileName": "seoyeon",
             "koreanName": "윤서연",
             "color": {
-                "bgColor": "22aeff",
+                "bgColor": "21aefe",
                 "textColor": "fff"
             },
             "month": 8,
@@ -54,7 +54,7 @@
             "fileName": "jiwoo",
             "koreanName": "이지우",
             "color": {
-                "bgColor": "fff800",
+                "bgColor": "fff801",
                 "textColor": "000"
             },
             "month": 10,
@@ -65,7 +65,7 @@
             "fileName": "chaeyeon",
             "koreanName": "김채연",
             "color": {
-                "bgColor": "98f21d",
+                "bgColor": "98f21e",
                 "textColor": "000"
             },
             "month": 12,
@@ -76,7 +76,7 @@
             "fileName": "yooyeon",
             "koreanName": "김유연",
             "color": {
-                "bgColor": "d80d76",
+                "bgColor": "db0c74",
                 "textColor": "fff"
             },
             "month": 2,
@@ -87,7 +87,7 @@
             "fileName": "soomin",
             "koreanName": "김수민",
             "color": {
-                "bgColor": "ff7fa4",
+                "bgColor": "fc83a4",
                 "textColor": "fff"
             },
             "month": 10,
@@ -98,7 +98,7 @@
             "fileName": "nakyoun",
             "koreanName": "김나경",
             "color": {
-                "bgColor": "729ba1",
+                "bgColor": "6799a0",
                 "textColor": "fff"
             },
             "month": 10,
@@ -120,7 +120,7 @@
             "fileName": "kaede",
             "koreanName": "카에데",
             "color": {
-                "bgColor": "ffc931",
+                "bgColor": "ffc935",
                 "textColor": "000"
             },
             "month": 12,
@@ -142,7 +142,7 @@
             "fileName": "kotone",
             "koreanName": "코토네",
             "color": {
-                "bgColor": "ffd700",
+                "bgColor": "ffde00",
                 "textColor": "000"
             },
             "month": 3,
@@ -153,7 +153,7 @@
             "fileName": "yeonji",
             "koreanName": "곽연지",
             "color": {
-                "bgColor": "4169e1",
+                "bgColor": "5974ff",
                 "textColor": "fff"
             },
             "month": 1,
@@ -175,7 +175,7 @@
             "fileName": "sohyun",
             "koreanName": "박소현",
             "color": {
-                "bgColor": "000080",
+                "bgColor": "1222b5",
                 "textColor": "fff"
             },
             "month": 10,
@@ -186,7 +186,7 @@
             "fileName": "xinyu",
             "koreanName": "신위",
             "color": {
-                "bgColor": "d51312",
+                "bgColor": "d51313",
                 "textColor": "fff"
             },
             "month": 5,
@@ -208,7 +208,7 @@
             "fileName": "lynn",
             "koreanName": "린",
             "color": {
-                "bgColor": "ab62b4",
+                "bgColor": "ac62b7",
                 "textColor": "fff"
             },
             "month": 4,
@@ -252,7 +252,7 @@
             "fileName": "chaewon",
             "koreanName": "김채원",
             "color": {
-                "bgColor": "000",
+                "bgColor": "c7a3e0",
                 "textColor": "fff"
             },
             "month": 5,
@@ -263,11 +263,11 @@
             "fileName": "sullin",
             "koreanName": "설린",
             "color": {
-                "bgColor": "000",
+                "bgColor": "7bba8d",
                 "textColor": "fff"
             },
-            "month": 0,
-            "day": 0
+            "month": 11,
+            "day": 30
         },
         "seoah": {
             "order": 23,
