@@ -49,7 +49,17 @@
                 ]
             },
             "startDate": 10,
-            "endDate": 11
+            "endDate": 11,
+            "locate": {
+                "name": "폴라스튜디오 합정점",
+                "address": "서울 마포구 독막로3길 18 1층",
+                "kakaoMap": {
+                    "timestamp": "1717477569572",
+                    "key": "2jje9"
+                },
+                "googleMap": "!1m18!1m12!1m3!1d3163.255080621978!2d126.91433077571166!3d37.54905362513071!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x357c98d12ec06253%3A0x7420528902208ba8!2z7Y-065287Iqk7Yqc65SU7Jik7ZWp7KCV7KCQ!5e0!3m2!1sko!2skr!4v1717477602427!5m2!1sko!2skr",
+                "naverMap": "FZqwIiOU"
+            }
         }
     ],
     "ad": []
