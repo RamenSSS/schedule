@@ -141,7 +141,14 @@
         },
         {
             "dates": "14",
-            "schedule": []
+            "schedule": [
+                {
+                    "title" : "팬싸",
+                    "detail" : "Everline (대면, 영통)",
+                    "time" : "19:30",
+                    "member" : "혜린, 채연, 유연, 유빈, 카에데, 니엔, 소현, 마유, 하연, 시온"
+                }
+            ]
         },
         {
             "dates": "15",
