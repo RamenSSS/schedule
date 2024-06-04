@@ -163,7 +163,14 @@
         },
         {
             "dates": "16",
-            "schedule": []
+            "schedule": [
+                {
+                    "title" : "라디오",
+                    "detail" : "원어스의 경청",
+                    "time" : "22:00",
+                    "member" : "채연, 수민, 주빈, 시온"
+                }
+            ]
         },
         {
             "dates": "17",
