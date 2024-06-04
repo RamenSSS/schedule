@@ -58,7 +58,14 @@
         },
         {
             "dates": "5",
-            "schedule": []
+            "schedule": [
+                {
+                    "title": "라이브",
+                    "detail": "유튜브",
+                    "time": "22:00",
+                    "member": "혜린, 다현, 주빈, 설린"
+                }
+            ]
         },
         {
             "dates": "6",

@@ -35,7 +35,7 @@
         {
             "twitter": {
                 "status": [
-                    true,
+                    false,
                     true
                 ],
                 "tweets": [
@@ -47,8 +47,8 @@
                     "영원한_트리플에스_아깽이_리네_생일축하해"
                 ],
                 "imageLinks": [
-                    "GJcwGm3bUAEs8b4",
-                    "GJcwGkMbEAAebEW"
+                    "GJb_yqbaIAEuP2j",
+                    "GJb_ywtbIAA-a_n"
                 ]
             },
             "startDate": 12,
