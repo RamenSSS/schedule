@@ -73,7 +73,14 @@
         },
         {
             "dates": "13",
-            "schedule": []
+            "schedule": [
+                {
+                    "title" : "행사",
+                    "detail" : "S2O Taiwan 2024",
+                    "time" : "0",
+                    "member" : "지우, 유연, 나경, 니엔"
+                }
+            ]
         },
         {
             "dates": "14",
