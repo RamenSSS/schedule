@@ -172,6 +172,12 @@
             "dates": "16",
             "schedule": [
                 {
+                    "title" : "행사",
+                    "detail" : "울산 HD FC 하프타임 공연",
+                    "time" : "18:00",
+                    "member" : "S1 ~ S24"
+                },
+                {
                     "title" : "라디오",
                     "detail" : "원어스의 경청 본방송",
                     "time" : "22:00",
