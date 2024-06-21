@@ -140,7 +140,14 @@
         },
         {
             "dates": "12",
-            "schedule": []
+            "schedule": [
+                {
+                    "title": "라이브",
+                    "detail": "유튜브",
+                    "time": "22:00",
+                    "member": "소현, 신위"
+                }
+            ]
         },
         {
             "dates": "13",
@@ -187,23 +194,57 @@
         },
         {
             "dates": "17",
-            "schedule": []
+            "schedule": [
+                {
+                    "title": "행사",
+                    "detail": "오다이바 모험왕 2024 제작발표",
+                    "time": "0",
+                    "member": "카에데, 코토네, 마유, 린"
+                }
+            ]
         },
         {
             "dates": "18",
-            "schedule": []
+            "schedule": [
+                {
+                    "title": "라이브",
+                    "detail": "유튜브",
+                    "time": "22:00",
+                    "member": "혜린, 유빈, 린"
+                }
+            ]
         },
         {
             "dates": "19",
-            "schedule": []
+            "schedule": [
+                {
+                    "title": "라이브",
+                    "detail": "유튜브",
+                    "time": "22:00",
+                    "member": "Glow (채원, 설린, 서아, 지연)"
+                }
+            ]
         },
         {
             "dates": "20",
-            "schedule": []
+            "schedule": [
+                {
+                    "title": "라이브",
+                    "detail": "웨이보",
+                    "time": "18:00",
+                    "member": "니엔, 하연, 서아"
+                }
+            ]
         },
         {
             "dates": "21",
             "schedule": [
+                {
+                    "title": "음반",
+                    "detail": "〈Inner Dance〉 발매",
+                    "time": "18:00",
+                    "member": "Glow (채원, 설린, 서아, 지연)"
+                },
                 {
                     "title" : "팬싸",
                     "detail" : "메이크스타 (대면, 영통)",
@@ -244,7 +285,14 @@
         },
         {
             "dates": "26",
-            "schedule": []
+            "schedule": [
+                {
+                    "title" : "팬싸",
+                    "detail" : "디마뮤 (영통)",
+                    "time" : "19:00",
+                    "member" : "혜린, 채연, 유연, 유빈, 카에데, 니엔, 소현, 마유, 하연, 시온, 설린, 서아"
+                }
+            ]
         },
         {
             "dates": "27",
@@ -252,7 +300,14 @@
         },
         {
             "dates": "28",
-            "schedule": []
+            "schedule": [
+                {
+                    "title": "팬싸",
+                    "detail": "위드뮤 (대면, 영통)",
+                    "time": "19:30",
+                    "member": "지우, 채연, 유연, 나경, 카에데, 다현, 코토네, 니엔, 주빈, 하연, 채원, 지연"
+                }
+            ]
         },
         {
             "dates": "29",
@@ -262,6 +317,18 @@
                     "detail": "채연 2주년",
                     "time": "0",
                     "member": "0"
+                },
+                {
+                    "title": "팬싸",
+                    "detail": "마뮤테 (대면, 영통)",
+                    "time": "13:00",
+                    "member": "혜린, 유연, 수민, 카에데, 다현, 코토네, 연지, 주빈, 시온, 채원, 서아, 지연"
+                },
+                {
+                    "title": "팬싸",
+                    "detail": "imini.tv (영통)",
+                    "time": "0",
+                    "member": "서연, 유빈, 소현, 신위"
                 }
             ]
         },
