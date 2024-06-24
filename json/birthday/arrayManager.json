@@ -1,8 +1,8 @@
 {
     "upcoming": [
+        [2024,"seoah"]
     ],
     "past": [
-        [2024,"seoah"],
         [2024,"nien"],
         [2024,"xinyu"],
         [2024,"mayu"],
@@ -33,7 +33,7 @@
             "fileName": "seoyeon",
             "koreanName": "윤서연",
             "color": {
-                "bgColor": "21aefe",
+                "bgColor": "22aeff",
                 "textColor": "fff"
             },
             "month": 8,
@@ -55,7 +55,7 @@
             "fileName": "jiwoo",
             "koreanName": "이지우",
             "color": {
-                "bgColor": "fff801",
+                "bgColor": "fff800",
                 "textColor": "000"
             },
             "month": 10,
@@ -66,7 +66,7 @@
             "fileName": "chaeyeon",
             "koreanName": "김채연",
             "color": {
-                "bgColor": "98f21e",
+                "bgColor": "98f21d",
                 "textColor": "000"
             },
             "month": 12,
