@@ -84,8 +84,14 @@
                 {
                     "title" : "행사",
                     "detail" : "S2O Taiwan 2024",
-                    "time" : "0",
+                    "time" : "21:20 UTC+8",
                     "member" : "지우, 유연, 나경, 니엔"
+                },
+                {
+                    "title": "방송",
+                    "detail": "전지적 참견 시점",
+                    "time": "23:10",
+                    "member": "S1 ~ S24"
                 }
             ]
         },
