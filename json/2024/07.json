@@ -57,15 +57,36 @@
         },
         {
             "dates": "9",
-            "schedule": []
+            "schedule": [
+                {
+                    "title": "라이브",
+                    "detail": "유튜브",
+                    "time": "22:00",
+                    "member": "나경, 코토네, 린, 주빈"
+                }
+            ]
         },
         {
             "dates": "10",
-            "schedule": []
+            "schedule": [
+                {
+                    "title": "라이브",
+                    "detail": "웨이보",
+                    "time": "22:00",
+                    "member": "신위, 채원, 지연"
+                }
+            ]
         },
         {
             "dates": "11",
-            "schedule": []
+            "schedule": [
+                {
+                    "title": "라이브",
+                    "detail": "유튜브",
+                    "time": "22:00",
+                    "member": "다현"
+                }
+            ]
         },
         {
             "dates": "12",
@@ -237,11 +258,25 @@
         },
         {
             "dates": "29",
-            "schedule": []
+            "schedule": [
+                {
+                    "title": "행사",
+                    "detail": "EDCON 2024",
+                    "time": "0",
+                    "member": "0"
+                }
+            ]
         },
         {
             "dates": "30",
-            "schedule": []
+            "schedule": [
+                {
+                    "title": "행사",
+                    "detail": "EDCON 2024",
+                    "time": "0",
+                    "member": "0"
+                }
+            ]
         },
         {
             "dates": "31",
