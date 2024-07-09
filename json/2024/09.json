@@ -28,7 +28,14 @@
         },
         {
             "dates": "7",
-            "schedule": []
+            "schedule": [
+                {
+                    "title": "행사",
+                    "detail": "INK 콘서트",
+                    "time": "19:00",
+                    "member": "혜린, 채연, 니엔, 소현, 린, 시온, 채원, 설린"
+                }
+            ]
         },
         {
             "dates": "8",
