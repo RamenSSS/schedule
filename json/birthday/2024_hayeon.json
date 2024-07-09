@@ -1,0 +1,36 @@
+{
+    "cafe": [
+        {
+            "twitter": {
+                "status": [
+                    true
+                ],
+                "tweets": [
+                    "hayeonmagazine/status/1809433165515399295"
+                ],
+                "tags": [
+                    "올해의_정하연",
+                    "8월의_표지모델_정하연"
+                ],
+                "imageLinks": [
+                    "GRxkTkcaMAAKHb6",
+                    "GRxkU57bUAA_tye"
+                ]
+            },
+            "startDate": 1,
+            "endDate": 2,
+            "locate": {
+                "name": "헤르츠",
+                "address": "서울 마포구 와우산로 148 드림빌딩 1층",
+                "kakaoMap": {
+                    "timestamp": "1720511304940",
+                    "key": "2jyn4"
+                },
+                "googleMap": "!1m17!1m12!1m3!1d790.7601989150987!2d126.92974266749924!3d37.55410262139704!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2s!5e0!3m2!1sko!2skr!4v1720511425733!5m2!1sko!2skr",
+                "naverMap": "GcnNUwX1"
+            }
+        }
+    ],
+    "photo": [],
+    "ad": []
+}
