@@ -122,7 +122,14 @@
         },
         {
             "dates": "20",
-            "schedule": []
+            "schedule": [
+                {
+                    "title": "팬싸",
+                    "detail": "imini.tv (대면, 영통)",
+                    "time": "0",
+                    "member": "채연, 나경, 니엔, 신위, 하연, 채원"
+                }
+            ]
         },
         {
             "dates": "21",
