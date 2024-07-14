@@ -1,0 +1,35 @@
+{
+    "cafe": [
+        {
+            "twitter": {
+                "status": [
+                    true
+                ],
+                "tweets": [
+                    "S2O806/status/1812472137938305164"
+                ],
+                "tags": [
+                    "LUCKY_HAMHAM"
+                ],
+                "imageLinks": [
+                    "GScxyp0W8AACEg3",
+                    "GScxyp2XQAAWVp3"
+                ]
+            },
+            "startDate": 4,
+            "endDate": 6,
+            "locate":{
+                "name": "카페코드",
+                "address": "서울 마포구 독막로15길 3-11 3층",
+                "kakaoMap": {
+                    "timestamp" : "1709970349183",
+                    "key" : "2if2k"
+                },
+                "googleMap": "!1m18!1m12!1m3!1d790.8211455516889!2d126.9207637696093!3d37.5483584615334!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x357c98d02f71bf55%3A0x1ce41a7bb9441c35!2z7ISc7Jq47Yq567OE7IucIOuniO2PrOq1rCDrj4Xrp4nroZwxNeq4uCAzLTEx!5e0!3m2!1sko!2skr!4v1710058428359!5m2!1sko!2skr",
+                "naverMap": "GKvseW3y"
+            }
+        }
+    ],
+    "photo": [],
+    "ad": []
+}
