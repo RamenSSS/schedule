@@ -266,7 +266,14 @@
         },
         {
             "dates": "22",
-            "schedule": []
+            "schedule": [
+                {
+                    "title" : "라이브",
+                    "detail" : "주간아이돌",
+                    "time" : "14:30",
+                    "member" : "신위"
+                }
+            ]
         },
         {
             "dates": "23",
