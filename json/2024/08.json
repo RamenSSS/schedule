@@ -131,9 +131,9 @@
             "dates": "20",
             "schedule": [
                 {
-                    "title": "팬싸",
-                    "detail": "imini.tv (대면, 영통)",
-                    "time": "0",
+                    "title": "공연",
+                    "detail": "홍콩 팬미팅",
+                    "time": "15:00",
                     "member": "채연, 나경, 니엔, 신위, 하연, 채원"
                 }
             ]
@@ -179,7 +179,14 @@
         },
         {
             "dates": "29",
-            "schedule": []
+            "schedule": [
+                {
+                    "title": "행사",
+                    "detail": "IGC 2024",
+                    "time": "18:00",
+                    "member": "혜린, 유연, 수민, 카에데, 다현, 린, 하연, 지연"
+                }
+            ]
         },
         {
             "dates": "30",
