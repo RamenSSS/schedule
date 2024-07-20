@@ -70,7 +70,20 @@
         },
         {
             "dates": "14",
-            "schedule": []
+            "schedule": [
+                {
+                    "title": "공연",
+                    "detail": "### 쇼케이스",
+                    "time": "14:30",
+                    "member": "S1 ~ S24"
+                },
+                {
+                    "title": "공연",
+                    "detail": "### 쇼케이스",
+                    "time": "18:30",
+                    "member": "S1 ~ S24"
+                }
+            ]
         },
         {
             "dates": "15",
