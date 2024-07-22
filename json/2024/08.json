@@ -41,7 +41,14 @@
         },
         {
             "dates": "5",
-            "schedule": []
+            "schedule": [
+                {
+                    "title": "방송",
+                    "detail": "2024 추석 아육대 녹화",
+                    "time": "0",
+                    "member": "0"
+                }
+            ]
         },
         {
             "dates": "6",
