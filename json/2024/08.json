@@ -107,7 +107,14 @@
         },
         {
             "dates": "13",
-            "schedule": []
+            "schedule": [
+                {
+                    "title": "행사",
+                    "detail": "2024 울산 서머 페스티벌",
+                    "time": "19:30",
+                    "member": "S1 ~ S24"
+                }
+            ]
         },
         {
             "dates": "14",
@@ -128,7 +135,7 @@
                     "title": "기념일",
                     "detail": "LOVElution 데뷔 1주년",
                     "time": "0",
-                    "member": "0"
+                    "member": "LOVElution (서연, 혜린, 유빈, 카에데, 다현, 니엔, 소현, 신위)"
                 }
             ]
         },
