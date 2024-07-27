@@ -30,6 +30,37 @@
             }
         }
     ],
-    "photo": [],
+    "photo": [
+        {
+            "twitter": {
+                "status": [
+                    true
+                ],
+                "tweets": [
+                    "hampuppy806/status/1816805732052009399"
+                ],
+                "tags": [
+                    "같이_사진찍자_햄햄 ",
+                    "LoveHam_Studio"
+                ],
+                "imageLinks": [
+                    "GTaXLlsbkAAAUpl",
+                    "GTaXLluagAAmGRo"
+                ]
+            },
+            "startDate": 4,
+            "endDate": 6,
+            "locate": {
+                "name": "폴라스튜디오 서울압구정점",
+                "address": "서울 강남구 도산대로51길 37 1층 104호",
+                "kakaoMap": {
+                    "timestamp": "1711735475270",
+                    "key": "2iqgk"
+                },
+                "googleMap": "!1m18!1m12!1m3!1d3164.246175261704!2d127.03312888453885!3d37.525693854415!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x357ca3887a874a97%3A0x16f80f7681c2055f!2z7Y-065287Iqk7Yqc65SU7Jik7JWV6rWs7KCV7KCQ!5e0!3m2!1sko!2skr!4v1711735403611!5m2!1sko!2skr",
+                "naverMap": "5BxyTFDu"
+            }
+        }
+    ],
     "ad": []
 }
