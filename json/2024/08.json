@@ -93,14 +93,7 @@
         },
         {
             "dates": "10",
-            "schedule": [
-                {
-                    "title": "행사",
-                    "detail": "드림콘서트 월드 인 재팬 2024",
-                    "time": "0",
-                    "member": "0"
-                }
-            ]
+            "schedule": []
         },
         {
             "dates": "11",
