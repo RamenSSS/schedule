@@ -159,11 +159,25 @@
         },
         {
             "dates": "14",
-            "schedule": []
+            "schedule": [
+                {
+                    "title": "라이브",
+                    "detail": "유튜브",
+                    "time": "22:00",
+                    "member": "채연, 설린"
+                }
+            ]
         },
         {
             "dates": "15",
-            "schedule": []
+            "schedule": [
+                {
+                    "title": "라이브",
+                    "detail": "인스타",
+                    "time": "22:00",
+                    "member": "하연"
+                }
+            ]
         },
         {
             "dates": "16",
