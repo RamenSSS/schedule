@@ -27,7 +27,14 @@
         },
         {
             "dates": "5",
-            "schedule": []
+            "schedule": [
+                {
+                    "title": "행사",
+                    "detail": "대전 동구동락 축제",
+                    "time": "11:00",
+                    "member": "0"
+                }
+            ]
         },
         {
             "dates": "6",
