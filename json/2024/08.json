@@ -344,12 +344,25 @@
                     "detail": "IGC 2024",
                     "time": "18:00",
                     "member": "혜린, 유연, 수민, 카에데, 다현, 린, 하연, 지연"
+                },
+                {
+                    "title": "라이브",
+                    "detail": "인스타",
+                    "time": "22:00",
+                    "member": "시온"
                 }
             ]
         },
         {
             "dates": "30",
-            "schedule": []
+            "schedule": [
+                {
+                    "title": "라이브",
+                    "detail": "유튜브",
+                    "time": "22:00",
+                    "member": "다현, 채원"
+                }
+            ]
         },
         {
             "dates": "31",
