@@ -26,7 +26,14 @@
         },
         {
             "dates": "3",
-            "schedule": []
+            "schedule": [
+                {
+                    "title": "라이브",
+                    "detail": "인스타",
+                    "time": "22:00",
+                    "member": "주빈"
+                }
+            ]
         },
         {
             "dates": "4",
@@ -59,6 +66,12 @@
                     "detail": "아이돌 라디오 스페셜 DJ",
                     "time": "21:00",
                     "member": "서연, 지우"
+                },
+                {
+                    "title": "라이브",
+                    "detail": "웨이보",
+                    "time": "22:00",
+                    "member": "채연, 마유, 채원"
                 }
             ]
         },
