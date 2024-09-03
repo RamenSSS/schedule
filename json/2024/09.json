@@ -62,12 +62,6 @@
             "dates": "5",
             "schedule": [
                 {
-                    "title": "라디오",
-                    "detail": "아이돌 라디오 스페셜 DJ",
-                    "time": "21:00",
-                    "member": "서연, 지우"
-                },
-                {
                     "title": "라이브",
                     "detail": "웨이보",
                     "time": "22:00",
