@@ -133,7 +133,14 @@
         },
         {
             "dates": "10",
-            "schedule": []
+            "schedule": [
+                {
+                    "title": "라이브",
+                    "detail": "유튜브",
+                    "time": "22:00",
+                    "member": "수민, 설린"
+                }
+            ]
         },
         {
             "dates": "11",
@@ -278,7 +285,14 @@
         },
         {
             "dates": "28",
-            "schedule": []
+            "schedule": [
+                {
+                    "title": "행사",
+                    "detail": "국립경국대 미리캠퍼스 초청 공연",
+                    "time": "0",
+                    "member": "0"
+                }
+            ]
         },
         {
             "dates": "29",
