@@ -296,7 +296,14 @@
         },
         {
             "dates": "29",
-            "schedule": []
+            "schedule": [
+                {
+                    "title": "행사",
+                    "detail": "신촌 글로벌 대학문화 축제",
+                    "time": "0",
+                    "member": "0"
+                }
+            ]
         },
         {
             "dates": "30",
