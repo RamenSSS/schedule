@@ -204,11 +204,25 @@
         },
         {
             "dates": "16",
-            "schedule": []
+            "schedule": [
+                {
+                    "title": "방송",
+                    "detail": "2024 추석 아육대",
+                    "time": "0",
+                    "member": "S1 ~ S24"
+                }
+            ]
         },
         {
             "dates": "17",
-            "schedule": []
+            "schedule": [
+                {
+                    "title": "방송",
+                    "detail": "청소광 브라이언",
+                    "time": "21:00",
+                    "member": "혜린, 유연, 나경, 유빈, 코토네, 연지, 니엔, 신위, 린, 지연"
+                }
+            ]
         },
         {
             "dates": "18",
@@ -307,7 +321,14 @@
         },
         {
             "dates": "30",
-            "schedule": []
+            "schedule": [
+                {
+                    "title": "방송",
+                    "detail": "불후의 명곡 녹화",
+                    "time": "18:30",
+                    "member": "0"
+                }
+            ]
         }
     ]
 }
