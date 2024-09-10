@@ -8,7 +8,14 @@
         },
         {
             "dates": "2",
-            "schedule": []
+            "schedule": [
+                {
+                    "title": "행사",
+                    "detail": "호서대",
+                    "time": "0",
+                    "member": "서연, 지우, 수민, 다현, 마유, 주빈, 하연, ?"
+                }
+            ]
         },
         {
             "dates": "3",
