@@ -200,7 +200,14 @@
         },
         {
             "dates": "15",
-            "schedule": []
+            "schedule": [
+                {
+                    "title": "방송",
+                    "detail": "복면가왕",
+                    "time": "18:05",
+                    "member": "채연, 유연"
+                }
+            ]
         },
         {
             "dates": "16",
@@ -208,18 +215,32 @@
                 {
                     "title": "방송",
                     "detail": "2024 추석 아육대",
-                    "time": "0",
+                    "time": "18:00",
                     "member": "S1 ~ S24"
                 }
             ]
         },
         {
             "dates": "17",
-            "schedule": []
+            "schedule": [
+                {
+                    "title": "방송",
+                    "detail": "2024 추석 아육대",
+                    "time": "17:30",
+                    "member": "S1 ~ S24"
+                }
+            ]
         },
         {
             "dates": "18",
-            "schedule": []
+            "schedule": [
+                {
+                    "title": "방송",
+                    "detail": "2024 추석 아육대",
+                    "time": "17:30",
+                    "member": "S1 ~ S24"
+                }
+            ]
         },
         {
             "dates": "19",
@@ -238,7 +259,14 @@
         },
         {
             "dates": "21",
-            "schedule": []
+            "schedule": [
+                {
+                    "title": "행사",
+                    "detail": "청년의 날 기념식 축하 공연",
+                    "time": "0",
+                    "member": "0"
+                }
+            ]
         },
         {
             "dates": "22",

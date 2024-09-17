@@ -1,8 +1,11 @@
 {
     "upcoming": [
-        [2024,"seoyeon"]
+        [2024,"sohyun"],
+        [2024,"nakyoung"],
+        [2024,"soomin"]
     ],
     "past": [
+        [2024,"seoyeon"],
         [2024,"hayeon"],
         [2024,"seoah"],
         [2024,"nien"],
@@ -98,7 +101,7 @@
         },
         "nakyoung": {
             "order": 7,
-            "fileName": "nakyoun",
+            "fileName": "nakyoung",
             "koreanName": "김나경",
             "color": {
                 "bgColor": "6799a0",
