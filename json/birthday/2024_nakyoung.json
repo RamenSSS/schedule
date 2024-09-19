@@ -16,7 +16,9 @@
                 ],
                 "imageLinks": [
                     "GXmJ01CaYAATdFD",
-                    "GXmJ1JNagAAdGLd"
+                    "GXmJ1JNagAAdGLd",
+                    "GXmJ1lnbwAATgBo",
+                    "GXmJ18Ib0AAv1jV"
                 ]
             },
             "startDate": 12,
@@ -30,6 +32,36 @@
                 },
                 "googleMap": "!1m18!1m12!1m3!1d2862.4708236924544!2d126.91926201089663!3d37.55192482485011!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x357c997291cfb735%3A0x60b101ca36044af9!2z7Lm07Y6YIOq8rOuqqA!5e1!3m2!1sko!2skr!4v1726549212945!5m2!1sko!2skr",
                 "naverMap": "GSiEtWh3"
+            }
+        },
+        {
+            "twitter": {
+                "status": [
+                    true
+                ],
+                "tweets": [
+                    "knduxisnx/status/1836036904468574625"
+                ],
+                "tags": [
+                    "17171771X1013EQUALS",
+                    "ILUVNAKY"
+                ],
+                "imageLinks": [
+                    "backup/2024_S7_1.jpg",
+                    "GXrp0jXakAA0alV"
+                ]
+            },
+            "startDate": 12,
+            "endDate": 14,
+            "locate": {
+                "name": "EOD",
+                "address": "서울 마포구 와우산로 51-9 2층",
+                "kakaoMap": {
+                    "timestamp": "1726753793029",
+                    "key": "2koq2"
+                },
+                "googleMap": "!1m18!1m12!1m3!1d1431.2874147648517!2d126.92145494641989!3d37.54921677023946!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x357c99c77967f4c7%3A0xf3368063736c80b!2z7Lm07Y6YIEVPRA!5e1!3m2!1sko!2skr!4v1726753842835!5m2!1sko!2skr",
+                "naverMap": "GsP0sm4L"
             }
         }
     ],
