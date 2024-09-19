@@ -12,10 +12,9 @@
                     "유빈이는_나의_가슴에_남아_있는_보석",
                     "내_최애_유빈이"
                 ],
-                "imageLinks": [],
-                "backups": [
-                    "2023_S8_1.jpg",
-                    "2023_S8_2.jpg"
+                "imageLinks": [
+                    "backup/2023_S8_1.jpg",
+                    "backup/2023_S8_2.jpg"
                 ]
             },
             "startDate": 3,

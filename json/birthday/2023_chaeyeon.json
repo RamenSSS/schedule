@@ -12,10 +12,9 @@
                     "김채연의_모든날_모든순간",
                     "빛나는_20대의_시작을_응원해"
                 ],
-                "imageLinks": [],
-                "backups": [
-                    "2023_S4_1.jpeg",
-                    "2023_S4_2.jpeg"
+                "imageLinks": [
+                    "backup/2023_S4_1.jpeg",
+                    "backup/2023_S4_2.jpeg"
                 ]
             },
             "startDate": 2,

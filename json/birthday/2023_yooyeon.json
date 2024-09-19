@@ -71,10 +71,9 @@
                 "tags": [
                     "새하얀_첫눈사이_반짝이는_우리"
                 ],
-                "imageLinks": [],
-                "backups": [
-                    "2023_S5_1.jpg",
-                    "2023_S5_2.jpg"
+                "imageLinks": [
+                    "backup/2023_S5_1.jpg",
+                    "backup/2023_S5_2.jpg"
                 ]
             },
             "startDate": 6,
