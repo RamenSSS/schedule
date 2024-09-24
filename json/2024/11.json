@@ -32,7 +32,14 @@
         },
         {
             "dates": "8",
-            "schedule": []
+            "schedule": [
+                {
+                    "title": "행사",
+                    "detail": "Drama Original Sounds Korea",
+                    "time": "18:30",
+                    "member": "다현"
+                }
+            ]
         },
         {
             "dates": "9",
