@@ -68,5 +68,35 @@
         }
     ],
     "photo": [],
-    "ad": []
+    "ad": [
+        {
+            "twitter": {
+                "status": [
+                    true
+                ],
+                "tweets": [
+                    "gemgemYYYY/status/1837056951274065942"
+                ],
+                "tags": [
+                ],
+                "imageLinks": [
+                    "GX6JitqaUAUGz2y",
+                    "GX6JitvaUAIGn5W",
+                    "GX6JitqaUAQBaCG"
+                ]
+            },
+            "startDate": 7,
+            "endDate": 13,
+            "locate": {
+                "name": "홍대입구역 2호선-공항철도 환승통로 2번 스크린",
+                "address": "하단 세번째 사진 참고",
+                "kakaoMap": {
+                    "timestamp": "1727329582561",
+                    "key": "2kqwc"
+                },
+                "googleMap": "!1m18!1m12!1m3!1d2027.7214871282158!2d126.9238939230815!3d37.55784403481044!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x357c98e9e0918997%3A0xb5d0acffa0df0f3!2z7ISc7Jq47Yq567OE7IucIOuniO2PrOq1rCDrj5nqtZDrj5kgMTY3LTM4!5e0!3m2!1sko!2skr!4v1727329717097!5m2!1sko!2skr",
+                "naverMap": "IgJiywEb"
+            }
+        }
+    ]
 }
