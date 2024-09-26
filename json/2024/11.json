@@ -8,7 +8,14 @@
         },
         {
             "dates": "2",
-            "schedule": []
+            "schedule": [
+                {
+                    "title": "행사",
+                    "detail": "WannaLand Music Festival",
+                    "time": "19:00 UTC+7",
+                    "member": "0"
+                }
+            ]
         },
         {
             "dates": "3",
