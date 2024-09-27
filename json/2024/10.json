@@ -42,7 +42,14 @@
         },
         {
             "dates": "4",
-            "schedule": []
+            "schedule": [
+                {
+                    "title": "라디오",
+                    "detail": "친한친구",
+                    "time": "00:00",
+                    "member": "채연, 다현"
+                }
+            ]
         },
         {
             "dates": "5",
@@ -92,7 +99,14 @@
         },
         {
             "dates": "10",
-            "schedule": []
+            "schedule": [
+                {
+                    "title": "행사",
+                    "detail": "교통대 철도대학",
+                    "time": "0",
+                    "member": "서연, 지우, 채연, 수민, 다현, 마유, 주빈, 채원"
+                }
+            ]
         },
         {
             "dates": "11",
@@ -102,6 +116,12 @@
                     "detail": "EVOLution 데뷔 1주년",
                     "time": "0",
                     "member": "EVOLution (지우, 채연, 유연, 수민, 나경, 코토네, 연지, 마유)"
+                },
+                {
+                    "title": "라디오",
+                    "detail": "친한친구",
+                    "time": "00:00",
+                    "member": "채연, 다현"
                 }
             ]
         },
@@ -144,7 +164,14 @@
         },
         {
             "dates": "18",
-            "schedule": []
+            "schedule": [
+                {
+                    "title": "라디오",
+                    "detail": "친한친구",
+                    "time": "00:00",
+                    "member": "채연, 다현"
+                }
+            ]
         },
         {
             "dates": "19",
@@ -164,7 +191,14 @@
         },
         {
             "dates": "23",
-            "schedule": []
+            "schedule": [
+                {
+                    "title": "방송",
+                    "detail": "주간아이돌",
+                    "time": "18:20",
+                    "member": "VV(혜린, 유연, 나경, 유빈, 카에데, 코토네, 연지, 니엔, 소현, 신위, 린, 지연)"
+                }
+            ]
         },
         {
             "dates": "24",
@@ -174,12 +208,25 @@
                     "detail": "지우 생일",
                     "time": "0",
                     "member": "0"
+                },
+                {
+                    "title": "방송",
+                    "detail": "주간아이돌",
+                    "time": "00:00",
+                    "member": "VV(혜린, 유연, 나경, 유빈, 카에데, 코토네, 연지, 니엔, 소현, 신위, 린, 지연)"
                 }
             ]
         },
         {
             "dates": "25",
-            "schedule": []
+            "schedule": [
+                {
+                    "title": "라디오",
+                    "detail": "친한친구",
+                    "time": "00:00",
+                    "member": "채연, 다현"
+                }
+            ]
         },
         {
             "dates": "26",
