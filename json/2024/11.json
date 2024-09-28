@@ -113,7 +113,14 @@
         },
         {
             "dates": "23",
-            "schedule": []
+            "schedule": [
+                {
+                    "title": "공연",
+                    "detail": "마카오 팬미팅",
+                    "time": "17:00 UTC+8",
+                    "member": "서연, 나경, 소현, 신위"
+                }
+            ]
         },
         {
             "dates": "24",
