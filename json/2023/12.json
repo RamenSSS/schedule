@@ -210,7 +210,7 @@
                 },
                 {
                     "title": "공연",
-                    "detail": "멜버른",
+                    "detail": "EVOLution in Australia 멜버른",
                     "time": "19:00 UTC+11",
                     "member": "EVOLution (지우, 채연, 유연, 수민, 나경, 코토네, 연지, 마유)"
                 }
@@ -221,7 +221,7 @@
             "schedule": [
                 {
                     "title": "공연",
-                    "detail": "시드니",
+                    "detail": "EVOLution in Australia 시드니",
                     "time": "19:00 UTC+11",
                     "member": "EVOLution (지우, 채연, 유연, 수민, 나경, 코토네, 연지, 마유)"
                 }
@@ -261,7 +261,7 @@
                 },
                 {
                     "title": "공연",
-                    "detail": "브리즈번",
+                    "detail": "EVOLution in Australia 브리즈번",
                     "time": "19:00 UTC+10",
                     "member": "EVOLution (지우, 채연, 유연, 수민, 나경, 코토네, 연지, 마유)"
                 }

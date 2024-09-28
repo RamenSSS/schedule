@@ -101,7 +101,14 @@
         },
         {
             "dates": "20",
-            "schedule": []
+            "schedule": [
+                {
+                    "title": "음반",
+                    "detail": "〈アンタイトル〉 발매",
+                    "time": "0",
+                    "member": "Hatchi (지우, 채연, 유연, 수민, 코토네, 마유, 시온, 채원)"
+                }
+            ]
         },
         {
             "dates": "21",
@@ -132,7 +139,14 @@
         },
         {
             "dates": "26",
-            "schedule": []
+            "schedule": [
+                {
+                    "title": "공연",
+                    "detail": "오사카",
+                    "time": "18:30",
+                    "member": "Hatchi (지우, 채연, 유연, 수민, 코토네, 마유, 시온, 채원)"
+                }
+            ]
         },
         {
             "dates": "27",
@@ -140,7 +154,14 @@
         },
         {
             "dates": "28",
-            "schedule": []
+            "schedule": [
+                {
+                    "title": "공연",
+                    "detail": "도쿄",
+                    "time": "18:30",
+                    "member": "Hatchi (지우, 채연, 유연, 수민, 코토네, 마유, 시온, 채원)"
+                }
+            ]
         },
         {
             "dates": "29",

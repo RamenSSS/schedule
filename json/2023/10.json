@@ -7,7 +7,7 @@
             "schedule": [
                 {
                     "title": "공연",
-                    "detail": "뉴욕",
+                    "detail": "LOVElution in US 뉴욕",
                     "time": "19:30 UTC-4",
                     "member": "LOVElution (서연, 혜린, 유빈, 카에데, 다현, 니엔, 소현, 신위)"
                 }
@@ -28,7 +28,7 @@
                 },
                 {
                     "title": "공연",
-                    "detail": "타이슨스",
+                    "detail": "LOVElution in US 타이슨스",
                     "time": "19:30 UTC-4",
                     "member": "LOVElution (서연, 혜린, 유빈, 카에데, 다현, 니엔, 소현, 신위)"
                 }
@@ -43,7 +43,7 @@
             "schedule": [
                 {
                     "title": "공연",
-                    "detail": "애크런",
+                    "detail": "LOVElution in US 애크런",
                     "time": "19:30 UTC-4",
                     "member": "LOVElution (서연, 혜린, 유빈, 카에데, 다현, 니엔, 소현, 신위)"
                 }
@@ -58,7 +58,7 @@
             "schedule": [
                 {
                     "title": "공연",
-                    "detail": "캔자스시티",
+                    "detail": "LOVElution in US 캔자스시티",
                     "time": "19:30 UTC-5",
                     "member": "LOVElution (서연, 혜린, 유빈, 카에데, 다현, 니엔, 소현, 신위)"
                 }
@@ -73,7 +73,7 @@
             "schedule": [
                 {
                     "title": "공연",
-                    "detail": "휴스턴",
+                    "detail": "LOVElution in US 휴스턴",
                     "time": "19:30 UTC-5",
                     "member": "LOVElution (서연, 혜린, 유빈, 카에데, 다현, 니엔, 소현, 신위)"
                 }
