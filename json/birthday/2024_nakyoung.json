@@ -63,6 +63,35 @@
                 "googleMap": "!1m18!1m12!1m3!1d1431.2874147648517!2d126.92145494641989!3d37.54921677023946!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x357c99c77967f4c7%3A0xf3368063736c80b!2z7Lm07Y6YIEVPRA!5e1!3m2!1sko!2skr!4v1726753842835!5m2!1sko!2skr",
                 "naverMap": "GsP0sm4L"
             }
+        },
+        {
+            "twitter": {
+                "status": [
+                    true
+                ],
+                "tweets": [
+                    "MOMENT_1013/status/1838567310019219703"
+                ],
+                "tags": [
+                    "찰나의_나경"
+                ],
+                "imageLinks": [
+                    "GYPkXx2akAMMmuu",
+                    "GYPkYmPa4AA0bl4"
+                ]
+            },
+            "startDate": 12,
+            "endDate": 13,
+            "locate": {
+                "name": "100디그리",
+                "address": "서울 마포구 와우산로11길 9-10 2층",
+                "kakaoMap": {
+                    "timestamp": "1727684389110",
+                    "key": "2ks75"
+                },
+                "googleMap": "!1m18!1m12!1m3!1d3163.279822205576!2d126.91969271089636!3d37.54847062504814!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x357c99d8692b0f03%3A0x19aaf5936c38bacf!2zMTAw65SU6re466as!5e0!3m2!1sko!2skr!4v1727684417824!5m2!1sko!2skr",
+                "naverMap": "GEukL1zr"
+            }
         }
     ],
     "photo": [],
