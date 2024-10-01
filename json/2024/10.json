@@ -4,7 +4,14 @@
     "results": [
         {
             "dates": "1",
-            "schedule": []
+            "schedule": [
+                {
+                    "title": "행사",
+                    "detail": "강릉원주대 강릉캠퍼스",
+                    "time": "21:00",
+                    "member": "서연, 나경, 다현, 연지, 린, 주빈, 하연, 지연"
+                }
+            ]
         },
         {
             "dates": "2",
