@@ -119,7 +119,14 @@
         },
         {
             "dates": "21",
-            "schedule": []
+            "schedule": [
+                {
+                    "title": "방송",
+                    "detail": "tripleS ∞! : Debut in Japan",
+                    "time": "23:00",
+                    "member": "Hatchi (지우, 채연, 유연, 수민, 코토네, 마유, 시온, 채원)"
+                }
+            ]
         },
         {
             "dates": "22",
