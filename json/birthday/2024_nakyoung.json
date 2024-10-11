@@ -125,5 +125,29 @@
         }
     ],
     "photo": [],
-    "ad": []
+    "ad": [
+        {
+            "twitter": {
+                "status": [],
+                "tweets": [],
+                "tags": [],
+                "imageLinks": [
+                    "backup/2024_S7_2.png",
+                    "backup/2024_S7_3.png"
+                ]
+            },
+            "startDate": 16,
+            "endDate": 30,
+            "locate": {
+                "name": "합정역 지하 1층 8번 출구 방면 CM보드 1번기둥",
+                "address": "하단 첫번째 사진 참고",
+                "kakaoMap": {
+                    "timestamp": "1728660017242",
+                    "key": "2kvdi"
+                },
+                "googleMap": "!1m17!1m12!1m3!1d3163.23974012858!2d126.91203818385313!3d37.54941509807302!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zMzfCsDMyJzU3LjQiTiAxMjbCsDU0JzQ3LjgiRQ!5e0!3m2!1sko!2skr!4v1728660232856!5m2!1sko!2skr",
+                "naverMap": "Fk7EJBt8"
+            }
+        }
+    ]
 }
