@@ -31,5 +31,39 @@
         }
     ],
     "photo": [],
-    "ad": []
+    "ad": [
+        {
+            "twitter": {
+                "status": [
+                    true
+                ],
+                "tweets": [
+                    "lmcd1024/status/1845480173887729931"
+                ],
+                "tags": [
+                    "지우랑_행복한_이야기를_써내려가자",
+                    "BdayJournalwithJiwoo"
+                ],
+                "imageLinks": [
+                    "GZx17vDbQAAEQnR",
+                    "GZx17vsb0AAmmPG",
+                    "GZx17vFaEAARDgu",
+                    "backup/2024_S3_2.jpg",
+                    "backup/2024_S3_3.jpg"
+                ]
+            },
+            "startDate": 15,
+            "endDate": 28,
+            "locate": {
+                "name": "3호선 동대입구역 B타입 2ea, C타입 4ea, D타입 1ea",
+                "address": "하단 다섯번째 사진의 아날로그 타입 제외 모든 스크린",
+                "kakaoMap": {
+                    "timestamp": "1728915030879",
+                    "key": "2kw2b"
+                },
+                "googleMap": "!1m18!1m12!1m3!1d896.9122514635653!2d127.00429777720707!3d37.55883686100076!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x357ca31baa57941f%3A0xc4fa55f3a134facd!2z64-Z64yA7J6F6rWs!5e0!3m2!1sko!2skr!4v1728915071475!5m2!1sko!2skr",
+                "naverMap": "xvt78WNi"
+            }
+        }
+    ]
 }
