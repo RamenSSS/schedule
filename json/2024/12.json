@@ -39,7 +39,20 @@
         },
         {
             "dates": "8",
-            "schedule": []
+            "schedule": [
+                {
+                    "title": "팬싸",
+                    "detail": "Objekt Cafe in Taipei",
+                    "time": "15:00 UTC+8",
+                    "member": "혜린, 나경, 유빈, 연지, 니엔"
+                },
+                {
+                    "title": "팬싸",
+                    "detail": "K-MONSTER",
+                    "time": "17:00 UTC+8",
+                    "member": "혜린, 나경, 유빈, 연지, 니엔"
+                }
+            ]
         },
         {
             "dates": "9",
