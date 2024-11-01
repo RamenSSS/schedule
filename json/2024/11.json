@@ -97,6 +97,12 @@
             "dates": "8",
             "schedule": [
                 {
+                    "title": "라디오",
+                    "detail": "친한친구",
+                    "time": "00:00",
+                    "member": "채연, ?"
+                },
+                {
                     "title": "행사",
                     "detail": "Drama Original Sounds Korea",
                     "time": "18:30",
@@ -173,6 +179,12 @@
             "dates": "15",
             "schedule": [
                 {
+                    "title": "라디오",
+                    "detail": "친한친구",
+                    "time": "00:00",
+                    "member": "채연, ?"
+                },
+                {
                     "title": "팬싸",
                     "detail": "점프업이엔티 (대면, 영통)",
                     "time": "19:00",
@@ -227,7 +239,14 @@
         },
         {
             "dates": "22",
-            "schedule": []
+            "schedule": [
+                {
+                    "title": "라디오",
+                    "detail": "친한친구",
+                    "time": "00:00",
+                    "member": "채연, ?"
+                }
+            ]
         },
         {
             "dates": "23",
@@ -276,7 +295,14 @@
         },
         {
             "dates": "29",
-            "schedule": []
+            "schedule": [
+                {
+                    "title": "라디오",
+                    "detail": "친한친구",
+                    "time": "00:00",
+                    "member": "채연, ?"
+                }
+            ]
         },
         {
             "dates": "30",
@@ -286,6 +312,12 @@
                     "detail" : "설린 생일",
                     "time" : "0",
                     "member" : "0"
+                },
+                {
+                    "title": "팬싸",
+                    "detail": "교토 (사인회, 악수회, 하이터치회, 영통)",
+                    "time": "0",
+                    "member": "Hatchi (지우, 채연, 유연, 수민, 코토네, 마유, 시온, 채원)"
                 }
             ]
         }
