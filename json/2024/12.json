@@ -42,7 +42,14 @@
         },
         {
             "dates": "7",
-            "schedule": []
+            "schedule": [
+                {
+                    "title": "행사",
+                    "detail": "Strawberry Music Festival",
+                    "time": "0",
+                    "member": "카에데, 코토네, 신위, 린"
+                }
+            ]
         },
         {
             "dates": "8",
