@@ -257,7 +257,14 @@
         },
         {
             "dates": "16",
-            "schedule": []
+            "schedule": [
+                {
+                    "title": "방송",
+                    "detail": "아는 형님",
+                    "time": "20:50",
+                    "member": "유연"
+                }
+            ]
         },
         {
             "dates": "17",
