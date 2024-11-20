@@ -67,7 +67,7 @@
         {
             "twitter": {
                 "status": [
-                    true
+                    false
                 ],
                 "tweets": [
                     "MOMENT_1013/status/1838567310019219703"
@@ -76,8 +76,8 @@
                     "찰나의_나경"
                 ],
                 "imageLinks": [
-                    "GYPkXx2akAMMmuu",
-                    "GYPkYmPa4AA0bl4"
+                    "2024_S7_4.jpg",
+                    "2024_S7_5.jpg"
                 ]
             },
             "startDate": 12,

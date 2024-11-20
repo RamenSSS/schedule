@@ -72,7 +72,7 @@
         {
             "twitter": {
                 "status": [
-                    true
+                    false
                 ],
                 "tweets": [
                     "gemgemYYYY/status/1837056951274065942"
@@ -80,16 +80,14 @@
                 "tags": [
                 ],
                 "imageLinks": [
-                    "GX6JitqaUAUGz2y",
-                    "GX6JitvaUAIGn5W",
-                    "GX6JitqaUAQBaCG"
+                    "2024_S14_3.jpeg"
                 ]
             },
             "startDate": 7,
             "endDate": 13,
             "locate": {
                 "name": "홍대입구역 2호선-공항철도 환승통로 2번 스크린",
-                "address": "하단 세번째 사진 참고",
+                "address": "하단 사진 참고",
                 "kakaoMap": {
                     "timestamp": "1727329582561",
                     "key": "2kqwc"
