@@ -413,7 +413,14 @@
         },
         {
             "dates": "27",
-            "schedule": []
+            "schedule": [
+                {
+                    "title": "방송",
+                    "detail": "ヒルナンデス",
+                    "time": "11:55",
+                    "member": "코토네, 마유"
+                }
+            ]
         },
         {
             "dates": "28",
