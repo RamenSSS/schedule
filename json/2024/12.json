@@ -199,7 +199,14 @@
         },
         {
             "dates": "31",
-            "schedule": []
+            "schedule": [
+                {
+                    "title": "행사",
+                    "detail": "World K-POP Festival",
+                    "time": "19:00",
+                    "member": "0"
+                }
+            ]
         }
     ]
 }
