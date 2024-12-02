@@ -44,7 +44,14 @@
         },
         {
             "dates": "6",
-            "schedule": []
+            "schedule": [
+                {
+                    "title": "라이브",
+                    "detail": "유튜브",
+                    "time": "22:00",
+                    "member": "수민, 마유, 시온, 채원"
+                }
+            ]
         },
         {
             "dates": "7",
