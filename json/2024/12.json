@@ -106,6 +106,12 @@
             "dates": "11",
             "schedule": [
                 {
+                    "title": "행사",
+                    "detail": "Abu Dhabi Finance Week",
+                    "time": "12:30 UTC+4",
+                    "member": "서연, 다현, 주빈, 하연"
+                },
+                {
                     "title": "팬싸",
                     "detail": "마뮤테 (영통)",
                     "time": "19:00",
