@@ -92,5 +92,34 @@
         }
     ],
     "photo": [],
-    "ad": []
+    "ad": [
+        {
+            "twitter": {
+                "status": [
+                    true
+                ],
+                "tweets": [
+                    "S5_0209/status/1750488721089331583"
+                ],
+                "tags": [
+                    ""
+                ],
+                "imageLinks": [
+                    "GEr8AFNaUAAymDI"
+                ]
+            },
+            "startDate": 3,
+            "endDate": 29,
+            "locate": {
+                "name": "청담동 주민센터",
+                "address": "정류장 23-166",
+                "kakaoMap": {
+                    "timestamp": "1734189226029",
+                    "key": "2mi2w"
+                },
+                "googleMap": "!1m18!1m12!1m3!1d544.9375566697688!2d127.0490042924402!3d37.524800119672065!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x357ca47b22e43a0f%3A0x83fc5fd075473157!2z7ZSE66as66eI7Zi47YWU!5e0!3m2!1sko!2skr!4v1734189292479!5m2!1sko!2skr",
+                "naverMap": "xFLKc2IC"
+            }
+        }
+    ]
 }
