@@ -261,7 +261,14 @@
         },
         {
             "dates": "24",
-            "schedule": []
+            "schedule": [
+                {
+                    "title": "방송",
+                    "detail": "한문철의 블랙박스 리뷰",
+                    "time": "20:50",
+                    "member": "유연"
+                }
+            ]
         },
         {
             "dates": "25",
