@@ -1,0 +1,37 @@
+{
+    "cafe": [
+        {
+            "twitter": {
+                "status": [
+                    true,
+                    true
+                ],
+                "tweets": [
+                    "Antoine_030108/status/1870424808112152761",
+                    "boan_9424/status/1870430601293283384"
+                ],
+                "tags": [
+                    "다현공주님_생일_축하핑"
+                ],
+                "imageLinks": [
+                    "GfUVb5Sb0AAltxn",
+                    "GfUVceZakAA2vi8"
+                ]
+            },
+            "startDate": 7,
+            "endDate": 8,
+            "locate": {
+                "name": "카페 하무모카",
+                "address": "서울 마포구 연남로 10 2층",
+                "kakaoMap": {
+                    "timestamp": "1726996053298",
+                    "key": "2kp8h"
+                },
+                "googleMap": "!1m18!1m12!1m3!1d3162.7591657264134!2d126.92080391089713!3d37.56073752434492!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x357c990047e2d9ad%3A0xe5a6adfaac511449!2z7Lm07Y6Y7ZWY66y066qo7Lm0!5e0!3m2!1sko!2skr!4v1726996099656!5m2!1sko!2skr",
+                "naverMap": "FsqCDw8Y"
+            }
+        }
+    ],
+    "photo": [],
+    "ad": []
+}
