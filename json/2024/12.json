@@ -263,6 +263,12 @@
             "dates": "24",
             "schedule": [
                 {
+                    "title": "라이브",
+                    "detail": "유튜브",
+                    "time": "18:00",
+                    "member": "다현"
+                },
+                {
                     "title": "방송",
                     "detail": "한문철의 블랙박스 리뷰",
                     "time": "20:50",
@@ -276,11 +282,25 @@
         },
         {
             "dates": "26",
-            "schedule": []
+            "schedule": [
+                {
+                    "title": "라이브",
+                    "detail": "유튜브",
+                    "time": "22:00",
+                    "member": "서연, 나경, 소현"
+                }
+            ]
         },
         {
             "dates": "27",
-            "schedule": []
+            "schedule": [
+                {
+                    "title": "라이브",
+                    "detail": "유튜브",
+                    "time": "22:00",
+                    "member": "설린"
+                }
+            ]
         },
         {
             "dates": "28",
