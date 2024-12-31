@@ -159,14 +159,7 @@
         },
         {
             "dates": "18",
-            "schedule": [
-                {
-                    "title": "공연",
-                    "detail": "〈tripleS Come True〉 자카르타",
-                    "time": "19:00 UTC+7",
-                    "member": "서연, 나경, 다현, 니엔, 주빈, 하연, 설린, 서아"
-                }
-            ]
+            "schedule": []
         },
         {
             "dates": "19",
