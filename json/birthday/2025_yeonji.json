@@ -118,6 +118,34 @@
                 "googleMap": "!1m17!1m12!1m3!1d3163.23974012858!2d126.91203818385313!3d37.54941509807302!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zMzfCsDMyJzU3LjQiTiAxMjbCsDU0JzQ3LjgiRQ!5e0!3m2!1sko!2skr!4v1728660232856!5m2!1sko!2skr",
                 "naverMap": "Fk7EJBt8"
             }
+        },
+        {
+            "twitter": {
+                "status": [
+                    true
+                ],
+                "tweets": [
+                    "S12_support/status/1873944298938618285"
+                ],
+                "tags": [
+                    "YeonJi_the_Sunshine_of_WAV"
+                ],
+                "imageLinks": [
+                    "GgGWVTpbYAMUmTM"
+                ]
+            },
+            "startDate": 1,
+            "endDate": 31,
+            "locate": {
+                "name": "청담역 7호선",
+                "address": "12번 출구",
+                "kakaoMap": {
+                    "timestamp": "1735623893986",
+                    "key": "2mnwp"
+                },
+                "googleMap": "!1m17!1m12!1m3!1d197.78069715917607!2d127.0550803874888!3d37.51991786275124!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zMzfCsDMxJzExLjQiTiAxMjfCsDAzJzE5LjEiRQ!5e0!3m2!1sko!2skr!4v1735623836246!5m2!1sko!2skr",
+                "naverMap": "GoDX0w87"
+            }
         }
     ]
 }
