@@ -87,6 +87,36 @@
                 "googleMap": "!1m18!1m12!1m3!1d3164.609162850939!2d127.01556198453613!3d37.51713525491113!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x357ca3b54628afc9%3A0xc91da6519c4c4446!2z7Lm07Y6YIOuhnOyWhOuniOy5tOuhsSDsi6Dsgqzsl63soJA!5e0!3m2!1sko!2skr!4v1710680964833!5m2!1sko!2skr",
                 "naverMap": "GaMTVszl"
             }
+        },
+        {
+            "twitter": {
+                "status": [
+                    true
+                ],
+                "tweets": [
+                    "Biscuit_0108/status/1875227441524044224"
+                ],
+                "tags": [
+                    "PINKPINK_YEONJIDAY",
+                    "핑크핑크한큐티연지"
+                ],
+                "imageLinks": [
+                    "GgYlak9bMAALUPo",
+                    "GgYlak8bEAAV9Qi"
+                ]
+            },
+            "startDate": 7,
+            "endDate": 8,
+            "locate": {
+                "name": "헤르츠",
+                "address": "서울 마포구 와우산로 148 드림빌딩 1층",
+                "kakaoMap": {
+                    "timestamp": "1720511304940",
+                    "key": "2jyn4"
+                },
+                "googleMap": "!1m17!1m12!1m3!1d790.7601989150987!2d126.92974266749924!3d37.55410262139704!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2s!5e0!3m2!1sko!2skr!4v1720511425733!5m2!1sko!2skr",
+                "naverMap": "GcnNUwX1"
+            }
         }
     ],
     "photo": [],
