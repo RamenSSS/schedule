@@ -3,7 +3,7 @@
         {
             "twitter": {
                 "status": [
-                    true
+                    false
                 ],
                 "tweets": [
                     "triplesss_s6/status/1700793910644322773"
@@ -12,8 +12,8 @@
                     "숨쉬듯_폴인러브"
                 ],
                 "imageLinks": [
-                    "F5ps5FDbMAARHJ1",
-                    "F5ps6g9agAAqMjW"
+                    "backup/2023_S6_1.jpeg",
+                    "backup/2023_S6_2.jpeg"
                 ]
             },
             "startDate": 2,
