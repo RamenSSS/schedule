@@ -39,7 +39,14 @@
         },
         {
             "dates": "6",
-            "schedule": []
+            "schedule": [
+                {
+                    "title": "팬싸",
+                    "detail": "Everline (영통)",
+                    "time": "0",
+                    "member": "S1 ~ S24"
+                }
+            ]
         },
         {
             "dates": "7",
