@@ -11,7 +11,7 @@
                     "S5_0209/status/1877264049223971300"
                 ],
                 "tags": [
-                    "유연한_구름위에_귤더랜드 "
+                    "유연한_구름위에_귤더랜드"
                 ],
                 "imageLinks": [
                     "Gg1hvoHaMAESTCx",
@@ -29,6 +29,64 @@
                 },
                 "googleMap": "!1m18!1m12!1m3!1d3163.121326135978!2d126.91196607571183!3d37.552205224950015!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x357c98d764db01c7%3A0x8b032630c1c11103!2z7IWJ7Yq4KHNlcHQp!5e0!3m2!1sko!2skr!4v1736429747699!5m2!1sko!2skr",
                 "naverMap": "52R5dDbn"
+            }
+        },
+        {
+            "twitter": {
+                "status": [
+                    true
+                ],
+                "tweets": [
+                    "fluer0209/status/1877635672057749580"
+                ],
+                "tags": [
+                    "even_after_209hours"
+                ],
+                "imageLinks": [
+                    "Gg6zr6VakAAUZDO",
+                    "Gg6zr6WaAAAR9z-"
+                ]
+            },
+            "startDate": 8,
+            "endDate": 9,
+            "locate": {
+                "name": "테뉴에",
+                "address": "서울 강남구 도산대로55길 16-4 B1",
+                "kakaoMap": {
+                    "timestamp": "1736839452191",
+                    "key": "2mrwm"
+                },
+                "googleMap": "!1m18!1m12!1m3!1d3164.2931984026895!2d127.03821707571046!3d37.52458522653284!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x357ca515f6879a9f%3A0xf32f54843b6ac6a4!2z7YWM64m07JeQ!5e0!3m2!1sko!2skr!4v1736839473023!5m2!1sko!2skr",
+                "naverMap": "F884ZlK2"
+            }
+        },
+        {
+            "twitter": {
+                "status": [
+                    true
+                ],
+                "tweets": [
+                    "yoniworld_S5/status/1878412867705471052"
+                ],
+                "tags": [
+                    "안녕웰컴_요니월드"
+                ],
+                "imageLinks": [
+                    "GhF2QmrbcAAGvlC",
+                    "GhF2RBPbMAACJjr"
+                ]
+            },
+            "startDate": 8,
+            "endDate": 9,
+            "locate": {
+                "name": "비데이 홍대점",
+                "address": "서울 마포구 와우산로29라길 22 2층",
+                "kakaoMap": {
+                    "timestamp": "1736839644769",
+                    "key": "2mrwp"
+                },
+                "googleMap": "!1m18!1m12!1m3!1d3163.005172319079!2d126.92414627571196!3d37.55494192479316!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x357c999157a253bd%3A0xa569ab65cc3bd0ec!2z67mE642w7J20IO2ZjeuMgOygkCAoQidEQVkp!5e0!3m2!1sko!2skr!4v1736839656157!5m2!1sko!2skr",
+                "naverMap": "FN7ZD5Dm"
             }
         }
     ],
