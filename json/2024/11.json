@@ -223,6 +223,12 @@
             "dates": "11",
             "schedule": [
                 {
+                    "title": "라디오",
+                    "detail": "스포왕 고영배 본방송",
+                    "time": "00:00",
+                    "member": "소현"
+                },
+                {
                     "title": "팬싸",
                     "detail": "KPOPMERCH (영통)",
                     "time": "20:00",
