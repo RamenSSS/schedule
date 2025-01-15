@@ -294,7 +294,14 @@
         },
         {
             "dates": "25",
-            "schedule": []
+            "schedule": [
+                {
+                    "title": "방송",
+                    "detail": "아는 형님",
+                    "time": "20:50",
+                    "member": "나경"
+                }
+            ]
         },
         {
             "dates": "26",
