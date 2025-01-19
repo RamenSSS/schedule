@@ -175,7 +175,14 @@
         },
         {
             "dates": "19",
-            "schedule": []
+            "schedule": [
+                {
+                    "title": "행사",
+                    "detail": "Token of Love Music Festival",
+                    "time": "18:00 UTC+8",
+                    "member": "유빈, 연지, 신위, 지연"
+                }
+            ]
         },
         {
             "dates": "20",
