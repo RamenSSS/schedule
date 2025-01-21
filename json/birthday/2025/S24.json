@@ -29,6 +29,37 @@
                 "googleMap": "!1m18!1m12!1m3!1d1431.2874147648517!2d126.92145494641989!3d37.54921677023946!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x357c99c77967f4c7%3A0xf3368063736c80b!2z7Lm07Y6YIEVPRA!5e1!3m2!1sko!2skr!4v1726753842835!5m2!1sko!2skr",
                 "naverMap": "GsP0sm4L"
             }
+        },
+        {
+            "twitter": {
+                "status": [
+                    true
+                ],
+                "tweets": [
+                    "Refrain_0213/status/1881698365257449751"
+                ],
+                "tags": [
+                    "대장토끼_생일이지연",
+                    "HAPPY_JIYEON_DAY",
+                    "Scene_Number_S24"
+                ],
+                "imageLinks": [
+                    "Gh0hUCsbgAAz5N8",
+                    "Gh0hUZLbwAAgDiA"
+                ]
+            },
+            "startDate": 13,
+            "endDate": 14,
+            "locate": {
+                "name": "카페 로얄마카롱 신사역점",
+                "address": "서울 강남구 도산대로1길 6 지하1층",
+                "kakaoMap": {
+                    "timestamp": "1710680951544",
+                    "key": "2ijte"
+                },
+                "googleMap": "!1m18!1m12!1m3!1d3164.609162850939!2d127.01556198453613!3d37.51713525491113!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x357ca3b54628afc9%3A0xc91da6519c4c4446!2z7Lm07Y6YIOuhnOyWhOuniOy5tOuhsSDsi6Dsgqzsl63soJA!5e0!3m2!1sko!2skr!4v1710680964833!5m2!1sko!2skr",
+                "naverMap": "GaMTVszl"
+            }
         }
     ],
     "photo": [
