@@ -55,7 +55,14 @@
         },
         {
             "dates": "4",
-            "schedule": []
+            "schedule": [
+                {
+                    "title": "라이브",
+                    "detail": "유튜브",
+                    "time": "22:00",
+                    "member": "코토네, 연지, 지연"
+                }
+            ]
         },
         {
             "dates": "5",
@@ -65,12 +72,25 @@
                     "detail": "〈tripleS Come True〉 몬트리올",
                     "time": "19:30 UTC-5",
                     "member": "서연, 나경, 다현, 니엔, 주빈, 하연, 설린, 서아"
+                },
+                {
+                    "title": "라이브",
+                    "detail": "유튜브",
+                    "time": "22:00",
+                    "member": "유빈"
                 }
             ]
         },
         {
             "dates": "6",
-            "schedule": []
+            "schedule": [
+                {
+                    "title": "라이브",
+                    "detail": "유튜브",
+                    "time": "22:00",
+                    "member": "카에데, 린"
+                }
+            ]
         },
         {
             "dates": "7",
