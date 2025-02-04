@@ -198,7 +198,14 @@
         },
         {
             "dates": "15",
-            "schedule": []
+            "schedule": [
+                {
+                    "title": "행사",
+                    "detail": "한터 뮤직 어워즈",
+                    "time": "0",
+                    "member": "0"
+                }
+            ]
         },
         {
             "dates": "16",
