@@ -62,7 +62,7 @@
         {
             "twitter": {
                 "status": [
-                    true
+                    false
                 ],
                 "tweets": [
                     "KKKWAKYJ/status/1869698894323662910"
@@ -71,8 +71,8 @@
                     "연지의_어드벤처에_놀러올래"
                 ],
                 "imageLinks": [
-                    "2025_S12_1.jpeg",
-                    "2025_S12_2.jpeg"
+                    "backup/2025_S12_1.jpeg",
+                    "backup/2025_S12_2.jpeg"
                 ]
             },
             "startDate": 7,

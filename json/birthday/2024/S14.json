@@ -38,7 +38,7 @@
             "twitter": {
                 "status": [
                     true,
-                    true
+                    false
                 ],
                 "tweets": [
                     "joeywerepyre/status/1837453853757002220",
