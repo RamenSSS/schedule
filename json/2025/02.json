@@ -151,6 +151,12 @@
             "dates": "11",
             "schedule": [
                 {
+                    "title": "라디오",
+                    "detail": "친한친구",
+                    "time": "00:00",
+                    "member": "채연"
+                },
+                {
                     "title": "공연",
                     "detail": "〈tripleS Come True〉 휴스턴",
                     "time": "18:00 UTC-6",
