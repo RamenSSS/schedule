@@ -131,7 +131,14 @@
         },
         {
             "dates": "26",
-            "schedule": []
+            "schedule": [
+                {
+                    "title": "행사",
+                    "detail": "K-FLOW3 CONCERT in TAIWAN",
+                    "time": "17:00 UTC+8",
+                    "member": "지우, 유연, 나경, 카에데, 코토네, 니엔, 린, 지연"
+                }
+            ]
         },
         {
             "dates": "27",
