@@ -248,7 +248,14 @@
         },
         {
             "dates": "18",
-            "schedule": []
+            "schedule": [
+                {
+                    "title": "라이브",
+                    "detail": "유튜브",
+                    "time": "22:00",
+                    "member": "카에데, 시온"
+                }
+            ]
         },
         {
             "dates": "19",
@@ -263,7 +270,14 @@
         },
         {
             "dates": "20",
-            "schedule": []
+            "schedule": [
+                {
+                    "title": "라이브",
+                    "detail": "유튜브",
+                    "time": "22:00",
+                    "member": "유연, 토네"
+                }
+            ]
         },
         {
             "dates": "21",
