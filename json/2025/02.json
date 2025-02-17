@@ -250,6 +250,12 @@
             "dates": "18",
             "schedule": [
                 {
+                    "title": "라디오",
+                    "detail": "친한친구",
+                    "time": "00:00",
+                    "member": "채연"
+                },
+                {
                     "title": "라이브",
                     "detail": "유튜브",
                     "time": "22:00",
