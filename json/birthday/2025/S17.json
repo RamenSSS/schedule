@@ -29,6 +29,35 @@
                 "googleMap": "!1m18!1m12!1m3!1d3163.0217128051822!2d126.92120617571199!3d37.554552224815495!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x357c99644890da1f%3A0x7088a2fb1ca5325a!2z7Lm07Y6Y7Jik7IaM!5e0!3m2!1sko!2skr!4v1739604626384!5m2!1sko!2skr",
                 "naverMap": "GfCkVeHB"
             }
+        },
+        {
+            "twitter": {
+                "status": [
+                    true
+                ],
+                "tweets": [
+                    "9924boan/status/1892484497909719354"
+                ],
+                "tags": [
+                    "트레이너_린_배틀스타트"
+                ],
+                "imageLinks": [
+                    "GkN0nePXoAA1k41",
+                    "GkN0ndwbUAArSEd"
+                ]
+            },
+            "startDate": 11,
+            "endDate": 13,
+            "locate": {
+                "name": "카페 플루",
+                "address": "서울 마포구 와우산로33길 12 지하 1층",
+                "kakaoMap": {
+                    "timestamp": "1740039163703",
+                    "key": "2n4qy"
+                },
+                "googleMap": "!1m18!1m12!1m3!1d3162.9853804186264!2d126.92716867571201!3d37.555408224766424!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x357c99002973eb97%3A0x19b621f5ac1e305d!2z7Lm07Y6YIO2UjOujqA!5e0!3m2!1sko!2skr!4v1740039182813!5m2!1sko!2skr",
+                "naverMap": "FEUOiS94"
+            }
         }
     ],
     "photo": [],
