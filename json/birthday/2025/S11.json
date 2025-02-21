@@ -117,6 +117,33 @@
                 "googleMap": "!1m18!1m12!1m3!1d3163.066982989581!2d126.91270027571186!3d37.553485624876714!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x357c990051a541eb%3A0x335d92ff3208eda9!2scafe%20ovo!5e0!3m2!1sko!2skr!4v1739719050377!5m2!1sko!2skr",
                 "naverMap": "5mI0JQz0"
             }
+        },
+        {
+            "twitter": {
+                "status": [
+                    true
+                ],
+                "tweets": [
+                    "love_sohyuntri/status/1892908633136255444"
+                ],
+                "tags": [],
+                "imageLinks": [
+                    "GkT2W0wbEAAVBlL",
+                    "GkT2W0wbEAAVBlL"
+                ]
+            },
+            "startDate": 8,
+            "endDate": 10,
+            "locate": {
+                "name": "카페퓨",
+                "address": "서울 강남구 논현로105길 13",
+                "kakaoMap": {
+                    "timestamp": "1710659062011",
+                    "key": "2ijru"
+                },
+                "googleMap": "!1m18!1m12!1m3!1d791.2726997593421!2d127.03257786959024!3d37.50577656214126!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x357ca3fb947a74f9%3A0x44a23cb50f43f48!2z7ZOo!5e0!3m2!1sko!2skr!4v1710659123665!5m2!1sko!2skr",
+                "naverMap": "GEAIAFcZ"
+            }
         }
     ],
     "photo": [],
