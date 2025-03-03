@@ -40,7 +40,14 @@
         },
         {
             "dates": "5",
-            "schedule": []
+            "schedule": [
+                {
+                    "title": "라이브",
+                    "detail": "유튜브",
+                    "time": "22:00",
+                    "member": "지우, 채연, 유빈"
+                }
+            ]
         },
         {
             "dates": "6",
