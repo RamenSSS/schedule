@@ -150,7 +150,14 @@
         },
         {
             "dates": "22",
-            "schedule": []
+            "schedule": [
+                {
+                    "title": "공연",
+                    "detail": "First Contact！",
+                    "time": "17:00 UTC+8",
+                    "member": "카에데, 코토네, 신위, 린"
+                }
+            ]
         },
         {
             "dates": "23",
