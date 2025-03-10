@@ -137,6 +137,12 @@
             "dates": "12",
             "schedule": [
                 {
+                    "title": "라이브",
+                    "detail": "깜짝 라이브",
+                    "time": "0",
+                    "member": "서연, 나경, 다현, 니엔, 주빈, 하연, 설린, 서아"
+                },
+                {
                     "title": "팬싸",
                     "detail": "Everline (대면, 영통)",
                     "time": "13:00",
