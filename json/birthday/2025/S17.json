@@ -60,6 +60,35 @@
             }
         }
     ],
-    "photo": [],
+    "photo": [
+        {
+            "twitter": {
+                "status": [
+                    true
+                ],
+                "tweets": [
+                    "O6LYNN/status/1899656706868793480"
+                ],
+                "tags": [
+                    "마법사_프린세스_린짱"
+                ],
+                "imageLinks": [
+                    "GlzvtFqXgAAhpbh"
+                ]
+            },
+            "startDate": 3,
+            "endDate": 17,
+            "locate": {
+                "name": "7호선 강남구청역 CM보드 1번",
+                "address": "4번 출구 방면 지하 2층",
+                "kakaoMap": {
+                    "timestamp": "1741754181734",
+                    "key": "2nba3"
+                },
+                "googleMap": "!1m17!1m12!1m3!1d1151.6433403636431!2d127.04119851189793!3d37.51713691275694!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zMzfCsDMxJzAyLjIiTiAxMjfCsDAyJzMwLjQiRQ!5e0!3m2!1sko!2skr!4v1741755114668!5m2!1sko!2skr",
+                "naverMap": "55r90njP"
+            }
+        }
+    ],
     "ad": []
 }
