@@ -60,7 +60,8 @@
             }
         }
     ],
-    "photo": [
+    "photo": [],
+    "ad": [
         {
             "twitter": {
                 "status": [
@@ -89,6 +90,5 @@
                 "naverMap": "55r90njP"
             }
         }
-    ],
-    "ad": []
+    ]
 }
