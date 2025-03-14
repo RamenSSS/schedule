@@ -73,8 +73,8 @@
                 },
                 {
                     "title": "행사",
-                    "detail": "KCON JAPAN",
-                    "time": "16:00",
+                    "detail": "KCON JAPAN (M COUNTDOWN STAGE, M&G STAGE)",
+                    "time": "0",
                     "member": "0"
                 }
             ]
@@ -84,7 +84,7 @@
             "schedule": [
                 {
                     "title": "행사",
-                    "detail": "KCON JAPAN",
+                    "detail": "KCON JAPAN (ARTIST STAGE)",
                     "time": "0",
                     "member": "0"
                 }
