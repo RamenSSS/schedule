@@ -1,0 +1,38 @@
+{
+    "cafe": [
+        {
+            "twitter": {
+                "status": [
+                    true,
+                    true
+                ],
+                "tweets": [
+                    "S2_HRz/status/1900564686237782236",
+                    "wav_chan/status/1900564890743407054"
+                ],
+                "tags": [
+                    "혠니없이못살아",
+                    "리네밖에없어"
+                ],
+                "imageLinks": [
+                    "GmAmJP9bcAAWA_A",
+                    "GmAmJSXagAAAe84"
+                ]
+            },
+            "startDate": 11,
+            "endDate": 13,
+            "locate": {
+                "name": "카페 위밋데얼",
+                "address": "서울 마포구 양화로16길 30 3층",
+                "kakaoMap": {
+                    "timestamp": "1741965480909",
+                    "key": "2ncab"
+                },
+                "googleMap": "!1m18!1m12!1m3!1d3163.0923764261875!2d126.91853967571188!3d37.552887324910905!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x357c9908fa43666f%3A0xc5ff1bb907381021!2z7Lm07Y6YIOychOuwi-uNsOyWvA!5e0!3m2!1sko!2skr!4v1741965502030!5m2!1sko!2skr",
+                "naverMap": "57VuQsxB"
+            }
+        }
+    ],
+    "photo": [],
+    "ad": []
+}
