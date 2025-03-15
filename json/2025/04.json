@@ -109,7 +109,20 @@
         },
         {
             "dates": "19",
-            "schedule": []
+            "schedule": [
+                {
+                    "title": "팬싸",
+                    "detail": "Objekt Cafe in Singapore",
+                    "time": "15:00 UTC+8",
+                    "member": "유연, 나경, 니엔, 지연"
+                },
+                {
+                    "title": "팬싸",
+                    "detail": "Infinity Kpop (대면)",
+                    "time": "17:30 UTC+8",
+                    "member": "유연, 나경, 니엔, 지연"
+                }
+            ]
         },
         {
             "dates": "20",
