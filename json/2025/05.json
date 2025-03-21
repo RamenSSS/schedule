@@ -21,6 +21,12 @@
                     "detail": "채원 생일",
                     "time": "0",
                     "member": "0"
+                },
+                {
+                    "title": "행사",
+                    "detail": "둥관 Strawberry Music Festival",
+                    "time": "0",
+                    "member": "코토네, 니엔, 신위, 마유"
                 }
             ]
         },
@@ -39,7 +45,7 @@
                 },
                 {
                     "title": "행사",
-                    "detail": "Strawberry Music Festival",
+                    "detail": "베이징 Strawberry Music Festival",
                     "time": "0",
                     "member": "카에데, 코토네, 니엔, 신위, 마유, 린, 설린"
                 }
