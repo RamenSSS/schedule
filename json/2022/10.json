@@ -16,8 +16,8 @@
                 {
                     "title": "기념일",
                     "detail": "수민 생일",
-                    "time": "0",
-                    "member": "0"
+                    "member": [6],
+                    "hideMember": true
                 }
             ]
         },
@@ -28,7 +28,7 @@
                     "title": "라이브",
                     "detail": "유튜브",
                     "time": "22:00",
-                    "member": "수민"
+                    "member": [6]
                 }
             ]
         },
@@ -43,7 +43,7 @@
                     "title": "라이브",
                     "detail": "유튜브",
                     "time": "22:00",
-                    "member": "서연, 지우"
+                    "member": [1,3]
                 }
             ]
         },
@@ -70,7 +70,7 @@
                     "title": "라이브",
                     "detail": "유튜브",
                     "time": "22:00",
-                    "member": "지우, 채연"
+                    "member": [3,4]
                 }
             ]
         },
@@ -84,14 +84,14 @@
                 {
                     "title": "기념일",
                     "detail": "나경 생일",
-                    "time": "0",
-                    "member": "0"
+                    "member": [7],
+                    "hideMember": true
                 },
                 {
                     "title": "라이브",
                     "detail": "유튜브",
                     "time": "22:00",
-                    "member": "수민"
+                    "member": [6]
                 }
             ]
         },
@@ -102,13 +102,13 @@
                     "title": "팬싸",
                     "detail": "오브젝트 (영통)",
                     "time": "19:00",
-                    "member": "서연, 지우, 유연, 유빈"
+                    "member": [1,3,5,8]
                 },
                 {
                     "title": "팬싸",
                     "detail": "오브젝트 (영통)",
                     "time": "21:00",
-                    "member": "혜린, 채연, 수민, 나경"
+                    "member": [2,4,6,7]
                 }
             ]
         },
@@ -119,13 +119,13 @@
                     "title": "팬싸",
                     "detail": "오브젝트 (영통)",
                     "time": "14:00",
-                    "member": "서연, 지우, 유연, 유빈"
+                    "member": [1,3,5,8]
                 },
                 {
                     "title": "팬싸",
                     "detail": "오브젝트 (영통)",
                     "time": "16:00",
-                    "member": "혜린, 채연, 수민, 나경"
+                    "member": [2,4,6,7]
                 }
             ]
         },
@@ -136,13 +136,13 @@
                     "title": "팬싸",
                     "detail": "오브젝트 (대면)",
                     "time": "14:00",
-                    "member": "서연, 지우, 유연, 유빈"
+                    "member": [1,3,5,8]
                 },
                 {
                     "title": "팬싸",
                     "detail": "오브젝트 (대면)",
                     "time": "17:00",
-                    "member": "혜린, 채연, 수민, 나경"
+                    "member": [2,4,6,7]
                 }
             ]
         },
@@ -157,7 +157,7 @@
                     "title": "라이브",
                     "detail": "유튜브",
                     "time": "22:00",
-                    "member": "지우"
+                    "member": [3]
                 }
             ]
         },
@@ -172,7 +172,7 @@
                     "title": "라이브",
                     "detail": "유튜브",
                     "time": "22:00",
-                    "member": "채연"
+                    "member": [4]
                 }
             ]
         },
@@ -187,13 +187,13 @@
                     "title": "팬싸",
                     "detail": "포토북 (영통)",
                     "time": "14:00",
-                    "member": "서연"
+                    "member": [1]
                 },
                 {
                     "title": "팬싸",
                     "detail": "포토북 (영통)",
                     "time": "18:00",
-                    "member": "서연"
+                    "member": [1]
                 }
             ]
         },
@@ -204,7 +204,7 @@
                     "title": "팬싸",
                     "detail": "포토북 (대면)",
                     "time": "15:00",
-                    "member": "서연, 유연"
+                    "member": [1,5]
                 }
             ]
         },
@@ -214,8 +214,8 @@
                 {
                     "title": "기념일",
                     "detail": "지우 생일",
-                    "time": "0",
-                    "member": "0"
+                    "member": [3],
+                    "hideMember": true
                 }
             ]
         },
@@ -238,25 +238,29 @@
                     "title": "뮤비",
                     "detail": "Generation 공개",
                     "time": "00:00",
-                    "member": "AAA (혜린, 유연, 나경, 유빈)"
+                    "member": [2,5,7,8],
+                    "unit": "AAA"
                 },
                 {
                     "title": "음방",
                     "detail": "뮤직뱅크",
                     "time": "17:15",
-                    "member": "AAA (혜린, 유연, 나경, 유빈)"
+                    "member": [2,5,7,8],
+                    "unit": "AAA"
                 },
                 {
                     "title": "음반",
                     "detail": "〈ACCESS〉 발매",
                     "time": "18:00",
-                    "member": "AAA (혜린, 유연, 나경, 유빈)"
+                    "member": [2,5,7,8],
+                    "unit": "AAA"
                 },
                 {
                     "title": "라디오",
                     "detail": "The First Stage",
                     "time": "21:00",
-                    "member": "AAA (혜린, 유연, 나경, 유빈)"
+                    "member": [2,5,7,8],
+                    "unit": "AAA"
                 }
             ]
         },
@@ -267,19 +271,22 @@
                     "title": "음방",
                     "detail": "음악중심",
                     "time": "15:15",
-                    "member": "AAA (혜린, 유연, 나경, 유빈)"
+                    "member": [2,5,7,8],
+                    "unit": "AAA"
                 },
                 {
                     "title": "라디오",
                     "detail": "NEXTREND",
                     "time": "21:00",
-                    "member": "AAA (혜린, 유연, 나경, 유빈)"
+                    "member": [2,5,7,8],
+                    "unit": "AAA"
                 },
                 {
                     "title": "라디오",
                     "detail": "VIBE 파티룸",
                     "time": "22:30",
-                    "member": "AAA (혜린, 유연, 나경, 유빈)"
+                    "member": [2,5,7,8],
+                    "unit": "AAA"
                 }
             ]
         },

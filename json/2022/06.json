@@ -32,8 +32,8 @@
                 {
                     "title": "기념일",
                     "detail": "지우 입주",
-                    "time": "0",
-                    "member": "0"
+                    "member": [3],
+                    "hideMember": true
                 }
             ]
         },
@@ -44,7 +44,7 @@
                     "title": "라이브",
                     "detail": "유튜브",
                     "time": "22:00",
-                    "member": "서연, 혜린, 지우"
+                    "member": [1,2,3]
                 }
             ]
         },
@@ -79,7 +79,7 @@
                     "title": "라이브",
                     "detail": "유튜브",
                     "time": "22:00",
-                    "member": "서연, 혜린, 지우"
+                    "member": [1,2,3]
                 }
             ]
         },
@@ -114,7 +114,7 @@
                     "title": "라이브",
                     "detail": "유튜브",
                     "time": "22:00",
-                    "member": "서연, 혜린, 지우"
+                    "member": [1,2,3]
                 }
             ]
         },
@@ -148,14 +148,14 @@
                 {
                     "title": "기념일",
                     "detail": "채연 입주",
-                    "time": "0",
-                    "member": "0"
+                    "member": [4],
+                    "hideMember": true
                 },
                 {
                     "title": "라이브",
                     "detail": "유튜브",
                     "time": "22:00",
-                    "member": "채연"
+                    "member": [4]
                 }
             ]
         },

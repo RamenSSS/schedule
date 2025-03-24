@@ -52,8 +52,8 @@
                 {
                     "title": "기념일",
                     "detail": "유빈 3주년",
-                    "time": "0",
-                    "member": "0"
+                    "member": [8],
+                    "hideMember": true
                 }
             ]
         },

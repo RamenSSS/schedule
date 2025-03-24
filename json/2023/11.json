@@ -17,7 +17,8 @@
                     "title": "팬싸",
                     "detail": "디마뮤 (대면, 영통)",
                     "time": "19:00",
-                    "member": "LOVElution (서연, 혜린, 유빈, 카에데, 다현, 니엔, 소현, 신위)"
+                    "member": [1,2,8,9,10,13,14,15],
+                    "unit": "LOVElution"
                 }
             ]
         },
@@ -28,7 +29,8 @@
                     "title": "팬싸",
                     "detail": "사웨 (대면, 영통)",
                     "time": "18:00",
-                    "member": "LOVElution (서연, 혜린, 유빈, 카에데, 다현, 니엔, 소현, 신위)"
+                    "member": [1,2,8,9,10,13,14,15],
+                    "unit": "LOVElution"
                 }
             ]
         },
@@ -39,7 +41,8 @@
                     "title": "팬싸",
                     "detail": "위드뮤 (대면, 영통)",
                     "time": "18:00",
-                    "member": "LOVElution (서연, 혜린, 유빈, 카에데, 다현, 니엔, 소현, 신위)"
+                    "member": [1,2,8,9,10,13,14,15],
+                    "unit": "LOVElution"
                 }
             ]
         },
@@ -58,7 +61,8 @@
                     "title": "팬싸",
                     "detail": "Namil Music (영통)",
                     "time": "20:00",
-                    "member": "EVOLution (지우, 채연, 유연, 수민, 나경, 코토네, 연지, 마유)"
+                    "member": [3,4,5,6,7,11,12,16],
+                    "unit": "EVOLution"
                 }
             ]
         },
@@ -73,7 +77,8 @@
                     "title": "팬싸",
                     "detail": "디마뮤 (대면, 영통)",
                     "time": "19:00",
-                    "member": "EVOLution (지우, 채연, 유연, 수민, 나경, 코토네, 연지, 마유)"
+                    "member": [3,4,5,6,7,11,12,16],
+                    "unit": "EVOLution"
                 }
             ]
         },
@@ -84,7 +89,8 @@
                     "title": "팬싸",
                     "detail": "메이크스타 (대면, 영통)",
                     "time": "13:00",
-                    "member": "EVOLution (지우, 채연, 유연, 수민, 나경, 코토네, 연지, 마유)"
+                    "member": [3,4,5,6,7,11,12,16],
+                    "unit": "EVOLution"
                 }
             ]
         },
@@ -95,7 +101,8 @@
                     "title": "팬싸",
                     "detail": "마뮤테 (대면, 영통)",
                     "time": "13:00",
-                    "member": "EVOLution (지우, 채연, 유연, 수민, 나경, 코토네, 연지, 마유)"
+                    "member": [3,4,5,6,7,11,12,16],
+                    "unit": "EVOLution"
                 }
             ]
         },
@@ -109,8 +116,8 @@
                 {
                     "title": "기념일",
                     "detail": "카에데 1주년",
-                    "time": "0",
-                    "member": "0"
+                    "member": [9],
+                    "hideMember": true
                 }
             ]
         },
@@ -121,7 +128,7 @@
                     "title": "라이브",
                     "detail": "유튜브",
                     "time": "22:00",
-                    "member": "혜린, 채연, 코토네"
+                    "member": [2,4,11]
                 }
             ]
         },
@@ -132,13 +139,14 @@
                     "title": "팬싸",
                     "detail": "메이크스타 (대면)",
                     "time": "20:00",
-                    "member": "LOVElution (서연, 혜린, 카에데, 다현, 니엔, 소현, 신위)"
+                    "member": [1,2,9,10,13,14,15],
+                    "unit": "LOVElution"
                 },
                 {
                     "title": "라이브",
                     "detail": "웨이보",
                     "time": "22:00",
-                    "member": "수민, 연지"
+                    "member": [6,12]
                 }
             ]
         },
@@ -149,7 +157,8 @@
                     "title": "팬싸",
                     "detail": "디마뮤 (대면, 영통)",
                     "time": "20:00",
-                    "member": "LOVElution (서연, 혜린, 유빈, 카에데, 다현, 니엔, 소현, 신위)"
+                    "member": [1,2,8,9,10,13,14,15],
+                    "unit": "LOVElution"
                 }
             ]
         },
@@ -160,7 +169,8 @@
                     "title": "팬싸",
                     "detail": "케타포 (대면, 영통)",
                     "time": "17:00",
-                    "member": "LOVElution (서연, 혜린, 유빈, 카에데, 다현, 니엔, 소현, 신위)"
+                    "member": [1,2,8,9,10,13,14,15],
+                    "unit": "LOVElution"
                 }
             ]
         },
@@ -171,7 +181,8 @@
                     "title": "팬싸",
                     "detail": "위드뮤 (대면, 영통)",
                     "time": "14:00",
-                    "member": "LOVElution (서연, 혜린, 유빈, 카에데, 다현, 니엔, 소현, 신위)"
+                    "member": [1,2,8,9,10,13,14,15],
+                    "unit": "LOVElution"
                 }
             ]
         },
@@ -182,7 +193,8 @@
                     "title": "라이브",
                     "detail": "FLNK LIVE POP",
                     "time": "19:00",
-                    "member": "LOVElution (서연, 혜린, 유빈, 카에데, 다현, 니엔, 소현, 신위)"
+                    "member": [1,2,8,9,10,13,14,15],
+                    "unit": "LOVElution"
                 }
             ]
         },
@@ -193,13 +205,16 @@
                     "title": "팬싸",
                     "detail": "FLNK (영통)",
                     "time": "19:00",
-                    "member": "EVOLution (지우, 채연, 유연, 수민, 나경, 코토네, 연지, 마유)"
+                    "member": [3,4,5,6,7,11,12,16],
+                    "unit": "EVOLution"
                 },
                 {
                     "title": "라이브",
                     "detail": "유튜브",
                     "time": "22:00",
-                    "member": "S1 ~ S16"
+                    "member": [1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16],
+                    "hideMember": true,
+                    "unit": "S1 ~ S16"
                 }
             ]
         },
@@ -214,7 +229,7 @@
                     "title": "라이브",
                     "detail": "유튜브",
                     "time": "22:00",
-                    "member": "다현"
+                    "member": [10]
                 }
             ]
         },
@@ -225,7 +240,8 @@
                     "title": "팬싸",
                     "detail": "마뮤테 (영통)",
                     "time": "19:00",
-                    "member": "EVOLution (지우, 채연, 유연, 수민, 나경, 코토네, 연지, 마유)"
+                    "member": [3,4,5,6,7,11,12,16],
+                    "unit": "EVOLution"
                 }
             ]
         },
@@ -236,7 +252,8 @@
                     "title": "팬싸",
                     "detail": "디마뮤 (대면, 영통)",
                     "time": "14:00",
-                    "member": "EVOLution (지우, 채연, 유연, 수민, 나경, 코토네, 연지, 마유)"
+                    "member": [3,4,5,6,7,11,12,16],
+                    "unit": "EVOLution"
                 }
             ]
         },
@@ -247,7 +264,8 @@
                     "title": "팬싸",
                     "detail": "위드뮤 (대면, 영통)",
                     "time": "14:00",
-                    "member": "EVOLution (지우, 채연, 유연, 수민, 나경, 코토네, 연지, 마유)"
+                    "member": [3,4,5,6,7,11,12,16],
+                    "unit": "EVOLution"
                 }
             ]
         },
@@ -262,7 +280,7 @@
                     "title": "라이브",
                     "detail": "유튜브",
                     "time": "22:00",
-                    "member": "유연"
+                    "member": [5]
                 }
             ]
         },
@@ -277,13 +295,16 @@
                     "title": "팬싸",
                     "detail": "마뮤테 (대면, 영통)",
                     "time": "19:00",
-                    "member": "LOVElution (서연, 혜린, 유빈, 카에데, 다현, 니엔, 소현, 신위)"
+                    "member": [1,2,8,9,10,13,14,15],
+                    "unit": "LOVElution"
                 },
                 {
                     "title": "라이브",
                     "detail": "유튜브",
                     "time": "22:00",
-                    "member": "S1 ~ S16"
+                    "member": [1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16],
+                    "hideMember": true,
+                    "unit": "S1 ~ S16"
                 }
             ]
         }

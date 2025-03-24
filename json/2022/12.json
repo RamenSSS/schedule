@@ -17,7 +17,8 @@
                     "title": "팬싸",
                     "detail": "케타포 (대면)",
                     "time": "13:00",
-                    "member": "AAA (혜린, 유연, 나경, 유빈)"
+                    "member": [2,5,7,8],
+                    "unit": "AAA"
                 }
             ]
         },
@@ -27,14 +28,15 @@
                 {
                     "title": "기념일",
                     "detail": "채연 생일",
-                    "time": "0",
-                    "member": "0"
+                    "member": [4],
+                    "hideMember": true
                 },
                 {
                     "title": "팬싸",
                     "detail": "사웨 (대면, 영통)",
                     "time": "13:00",
-                    "member": "AAA (혜린, 유연, 나경, 유빈)"
+                    "member": [2,5,7,8],
+                    "unit": "AAA"
                 }
             ]
         },
@@ -49,7 +51,7 @@
                     "title": "라이브",
                     "detail": "유튜브",
                     "time": "22:00",
-                    "member": "서연, 채연"
+                    "member": [1,4]
                 }
             ]
         },
@@ -64,7 +66,7 @@
                     "title": "라이브",
                     "detail": "유튜브",
                     "time": "22:00",
-                    "member": "혜린, 나경"
+                    "member": [2,7]
                 }
             ]
         },
@@ -75,7 +77,8 @@
                     "title": "팬싸",
                     "detail": "마뮤테 (영통)",
                     "time": "19:00",
-                    "member": "AAA (혜린, 유연, 나경, 유빈)"
+                    "member": [2,5,7,8],
+                    "unit": "AAA"
                 }
             ]
         },
@@ -86,7 +89,8 @@
                     "title": "팬싸",
                     "detail": "메이크스타 (대면, 영통)",
                     "time": "12:00",
-                    "member": "AAA (혜린, 유연, 나경, 유빈)"
+                    "member": [2,5,7,8],
+                    "unit": "AAA"
                 }
             ]
         },
@@ -97,7 +101,8 @@
                     "title": "팬싸",
                     "detail": "디마뮤 (대면, 영통)",
                     "time": "18:30",
-                    "member": "AAA (혜린, 유연, 나경, 유빈)"
+                    "member": [2,5,7,8],
+                    "unit": "AAA"
                 }
             ]
         },
@@ -107,14 +112,16 @@
                 {
                     "title": "기념일",
                     "detail": "다현 입주",
-                    "time": "0",
-                    "member": "0"
+                    "member": [10],
+                    "hideMember": true
                 },
                 {
                     "title": "라디오",
                     "detail": "비투비의 키스 더 라디오",
                     "time": "22:00",
-                    "member": "S1 ~ S9"
+                    "member": [1,2,3,4,5,6,7,8,9],
+                    "hideMember": true,
+                    "unit": "S1 ~ S9"
                 }
             ]
         },
@@ -125,7 +132,7 @@
                     "title": "라이브",
                     "detail": "유튜브",
                     "time": "22:00",
-                    "member": "나경, 다현"
+                    "member": [7,10]
                 }
             ]
         },
@@ -144,7 +151,7 @@
                     "title": "라이브",
                     "detail": "유튜브",
                     "time": "18:00",
-                    "member": "지우, 채연, 유빈"
+                    "member": [3,4,8]
                 }
             ]
         },
@@ -166,8 +173,8 @@
                 {
                     "title": "기념일",
                     "detail": "카에데 생일",
-                    "time": "0",
-                    "member": "0"
+                    "member": [9],
+                    "hideMember": true
                 }
             ]
         },
@@ -186,7 +193,7 @@
                     "title": "라이브",
                     "detail": "유튜브",
                     "time": "18:00",
-                    "member": "S1 ~ S10"
+                    "member": [0]
                 }
             ]
         },
@@ -209,7 +216,7 @@
                     "title": "라이브",
                     "detail": "유튜브",
                     "time": "22:00",
-                    "member": "카에데, 다현"
+                    "member": [9,10]
                 }
             ]
         },
@@ -220,7 +227,7 @@
                     "title": "방송",
                     "detail": "김구라의 라떼9",
                     "time": "21:20",
-                    "member": "지우, 유빈"
+                    "member": [3,8]
                 }
             ]
         },
@@ -231,7 +238,7 @@
                     "title": "라이브",
                     "detail": "유튜브",
                     "time": "18:00",
-                    "member": "채연, 유연"
+                    "member": [4,5]
                 }
             ]
         },

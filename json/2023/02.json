@@ -9,7 +9,7 @@
                     "title": "라이브",
                     "detail": "디스코드",
                     "time": "12:00",
-                    "member": "채연, 다현"
+                    "member": [4,10]
                 }
             ]
         },
@@ -20,13 +20,13 @@
                     "title": "라이브",
                     "detail": "디스코드",
                     "time": "12:00",
-                    "member": "혜린, 나경"
+                    "member": [2,7]
                 },
                 {
                     "title": "라이브",
                     "detail": "유튜브",
                     "time": "22:00",
-                    "member": "코토네, 곽연지"
+                    "member": [11,12]
                 }
             ]
         },
@@ -37,13 +37,13 @@
                     "title": "라이브",
                     "detail": "디스코드",
                     "time": "12:00",
-                    "member": "수민, 카에데"
+                    "member": [6,9]
                 },
                 {
                     "title": "기념일",
                     "detail": "유빈 생일",
-                    "time": "0",
-                    "member": "0"
+                    "member": [8],
+                    "hideMember": true
                 }
             ]
         },
@@ -62,7 +62,7 @@
                     "title": "라이브",
                     "detail": "디스코드",
                     "time": "12:00",
-                    "member": "코토네, 곽연지"
+                    "member": [11,12]
                 }
             ]
         },
@@ -73,7 +73,7 @@
                     "title": "라이브",
                     "detail": "유튜브",
                     "time": "22:00",
-                    "member": "지우, 나경, 카에데, 다현"
+                    "member": [3,7,9,10]
                 }
             ]
         },
@@ -87,8 +87,8 @@
                 {
                     "title": "기념일",
                     "detail": "유연 생일",
-                    "time": "0",
-                    "member": "0"
+                    "member": [5],
+                    "hideMember": true
                 }
             ]
         },
@@ -111,19 +111,25 @@
                     "title": "뮤비",
                     "detail": "Rising 공개",
                     "time": "00:00",
-                    "member": "S1 ~ S10"
+                    "member": [1,2,3,4,5,6,7,8,9,10],
+                    "hideMember": true,
+                    "unit": "S1 ~ S10"
                 },
                 {
                     "title": "음반",
                     "detail": "〈ASSEMBLE〉 발매",
                     "time": "18:00",
-                    "member": "S1 ~ S10"
+                    "member": [1,2,3,4,5,6,7,8,9,10],
+                    "hideMember": true,
+                    "unit": "S1 ~ S10"
                 },
                 {
                     "title": "공연",
                     "detail": "Pre-Con 〈ASSEMBLE〉",
                     "time": "19:30",
-                    "member": "S1 ~ S10"
+                    "member": [1,2,3,4,5,6,7,8,9,10],
+                    "hideMember": true,
+                    "unit": "S1 ~ S10"
                 }
             ]
         },
@@ -134,7 +140,9 @@
                     "title": "라디오",
                     "detail": "아이키의 Thumbs Up",
                     "time": "21:00",
-                    "member": "S1 ~ S10"
+                    "member": [1,2,3,4,5,6,7,8,9,10],
+                    "hideMember": true,
+                    "unit": "S1 ~ S10"
                 }
             ]
         },
@@ -145,7 +153,9 @@
                     "title": "라디오",
                     "detail": "VIBE 파티룸",
                     "time": "20:00",
-                    "member": "S1 ~ S10"
+                    "member": [1,2,3,4,5,6,7,8,9,10],
+                    "hideMember": true,
+                    "unit": "S1 ~ S10"
                 }
             ]
         },
@@ -156,7 +166,9 @@
                     "title": "음방",
                     "detail": "엠카운트다운",
                     "time": "18:00",
-                    "member": "S1 ~ S10"
+                    "member": [1,2,3,4,5,6,7,8,9,10],
+                    "hideMember": true,
+                    "unit": "S1 ~ S10"
                 }
             ]
         },
@@ -167,7 +179,9 @@
                     "title": "음방",
                     "detail": "뮤직뱅크",
                     "time": "17:15",
-                    "member": "S1 ~ S10"
+                    "member": [1,2,3,4,5,6,7,8,9,10],
+                    "hideMember": true,
+                    "unit": "S1 ~ S10"
                 }
             ]
         },
@@ -175,22 +189,28 @@
             "dates": "18",
             "schedule": [
                 {
-                    "title" : "음방",
-                    "detail" : "음악중심 사전녹화",
-                    "time" : "08:50",
-                    "member" : "S1 ~ S10"
+                    "title": "음방",
+                    "detail": "음악중심 사전녹화",
+                    "time": "08:50",
+                    "member": [1,2,3,4,5,6,7,8,9,10],
+                    "hideMember": true,
+                    "unit": "S1 ~ S10"
                 },
                 {
                     "title": "음방",
                     "detail": "음악중심",
                     "time": "15:15",
-                    "member": "S1 ~ S10"
+                    "member": [1,2,3,4,5,6,7,8,9,10],
+                    "hideMember": true,
+                    "unit": "S1 ~ S10"
                 },
                 {
                     "title": "팬싸",
                     "detail": "디마뮤 (대면, 영통)",
                     "time": "19:00",
-                    "member": "S1 ~ S10"
+                    "member": [1,2,3,4,5,6,7,8,9,10],
+                    "hideMember": true,
+                    "unit": "S1 ~ S10"
                 }
             ]
         },
@@ -198,22 +218,28 @@
             "dates": "19",
             "schedule": [
                 {
-                    "title" : "음방",
-                    "detail" : "인기가요 사전녹화",
-                    "time" : "10:00",
-                    "member" : "S1 ~ S10"
+                    "title": "음방",
+                    "detail": "인기가요 사전녹화",
+                    "time": "10:00",
+                    "member": [1,2,3,4,5,6,7,8,9,10],
+                    "hideMember": true,
+                    "unit": "S1 ~ S10"
                 },
                 {
                     "title": "음방",
                     "detail": "인기가요",
                     "time": "15:40",
-                    "member": "S1 ~ S10"
+                    "member": [1,2,3,4,5,6,7,8,9,10],
+                    "hideMember": true,
+                    "unit": "S1 ~ S10"
                 },
                 {
                     "title": "팬싸",
                     "detail": "메이크스타 (영통, 이벤트)",
                     "time": "19:00",
-                    "member": "S1 ~ S10"
+                    "member": [1,2,3,4,5,6,7,8,9,10],
+                    "hideMember": true,
+                    "unit": "S1 ~ S10"
                 }
             ]
         },
@@ -221,22 +247,28 @@
             "dates": "20",
             "schedule": [
                 {
-                    "title" : "음방",
-                    "detail" : "심플리케이팝 사전녹화",
-                    "time" : "15:00",
-                    "member" : "S1 ~ S10"
+                    "title": "음방",
+                    "detail": "심플리케이팝 사전녹화",
+                    "time": "15:00",
+                    "member": [1,2,3,4,5,6,7,8,9,10],
+                    "hideMember": true,
+                    "unit": "S1 ~ S10"
                 },
                 {
                     "title": "음방",
                     "detail": "심플리케이팝 생녹방",
                     "time": "19:00",
-                    "member": "S1 ~ S10"
+                    "member": [1,2,3,4,5,6,7,8,9,10],
+                    "hideMember": true,
+                    "unit": "S1 ~ S10"
                 },
                 {
                     "title": "라디오",
                     "detail": "아이돌 라디오",
                     "time": "21:00",
-                    "member": "S1 ~ S10"
+                    "member": [1,2,3,4,5,6,7,8,9,10],
+                    "hideMember": true,
+                    "unit": "S1 ~ S10"
                 }
             ]
         },
@@ -244,16 +276,20 @@
             "dates": "21",
             "schedule": [
                 {
-                    "title" : "음방",
-                    "detail" : "더쇼 사전녹화",
-                    "time" : "10:30",
-                    "member" : "S1 ~ S10"
+                    "title": "음방",
+                    "detail": "더쇼 사전녹화",
+                    "time": "10:30",
+                    "member": [1,2,3,4,5,6,7,8,9,10],
+                    "hideMember": true,
+                    "unit": "S1 ~ S10"
                 },
                 {
                     "title": "음방",
                     "detail": "더쇼",
                     "time": "18:00",
-                    "member": "S1 ~ S10"
+                    "member": [1,2,3,4,5,6,7,8,9,10],
+                    "hideMember": true,
+                    "unit": "S1 ~ S10"
                 }
             ]
         },
@@ -261,22 +297,26 @@
             "dates": "22",
             "schedule": [
                 {
-                    "title" : "음방",
-                    "detail" : "쇼챔피언 사전녹화",
-                    "time" : "09:30",
-                    "member" : "S1 ~ S10"
+                    "title": "음방",
+                    "detail": "쇼챔피언 사전녹화",
+                    "time": "09:30",
+                    "member": [1,2,3,4,5,6,7,8,9,10],
+                    "hideMember": true,
+                    "unit": "S1 ~ S10"
                 },
                 {
                     "title": "음방",
                     "detail": "쇼챔피언",
                     "time": "18:00",
-                    "member": "S1 ~ S10"
+                    "member": [1,2,3,4,5,6,7,8,9,10],
+                    "hideMember": true,
+                    "unit": "S1 ~ S10"
                 },
                 {
                     "title": "라이브",
                     "detail": "유튜브",
                     "time": "22:00",
-                    "member": "서연, 혜린, 지우"
+                    "member": [1,2,3]
                 }
             ]
         },
@@ -287,13 +327,17 @@
                     "title": "음방",
                     "detail": "엠카운트다운",
                     "time": "18:00",
-                    "member": "S1 ~ S10"
+                    "member": [1,2,3,4,5,6,7,8,9,10],
+                    "hideMember": true,
+                    "unit": "S1 ~ S10"
                 },
                 {
                     "title": "라디오",
                     "detail": "정오의 희망곡",
                     "time": "13:00",
-                    "member": "S1 ~ S10"
+                    "member": [1,2,3,4,5,6,7,8,9,10],
+                    "hideMember": true,
+                    "unit": "S1 ~ S10"
                 }
             ]
         },
@@ -304,19 +348,25 @@
                     "title": "음방",
                     "detail": "심플리케이팝 본방송",
                     "time": "13:00",
-                    "member": "S1 ~ S10"
+                    "member": [1,2,3,4,5,6,7,8,9,10],
+                    "hideMember": true,
+                    "unit": "S1 ~ S10"
                 },
                 {
-                    "title" : "음방",
-                    "detail" : "뮤직뱅크 사전녹화",
-                    "time" : "15:00",
-                    "member" : "S1 ~ S10"
+                    "title": "음방",
+                    "detail": "뮤직뱅크 사전녹화",
+                    "time": "15:00",
+                    "member": [1,2,3,4,5,6,7,8,9,10],
+                    "hideMember": true,
+                    "unit": "S1 ~ S10"
                 },
                 {
                     "title": "음방",
                     "detail": "뮤직뱅크",
                     "time": "17:15",
-                    "member": "S1 ~ S10"
+                    "member": [1,2,3,4,5,6,7,8,9,10],
+                    "hideMember": true,
+                    "unit": "S1 ~ S10"
                 }
             ]
         },
@@ -324,22 +374,28 @@
             "dates": "25",
             "schedule": [
                 {
-                    "title" : "음방",
-                    "detail" : "음악중심 사전녹화",
-                    "time" : "08:50",
-                    "member" : "S1 ~ S10"
+                    "title": "음방",
+                    "detail": "음악중심 사전녹화",
+                    "time": "08:50",
+                    "member": [1,2,3,4,5,6,7,8,9,10],
+                    "hideMember": true,
+                    "unit": "S1 ~ S10"
                 },
                 {
                     "title": "음방",
                     "detail": "음악중심",
                     "time": "15:15",
-                    "member": "S1 ~ S10"
+                    "member": [1,2,3,4,5,6,7,8,9,10],
+                    "hideMember": true,
+                    "unit": "S1 ~ S10"
                 },
                 {
                     "title": "팬싸",
                     "detail": "마뮤테 (대면, 영통)",
                     "time": "19:00",
-                    "member": "S1 ~ S10"
+                    "member": [1,2,3,4,5,6,7,8,9,10],
+                    "hideMember": true,
+                    "unit": "S1 ~ S10"
                 }
             ]
         },
@@ -347,22 +403,28 @@
             "dates": "26",
             "schedule": [
                 {
-                    "title" : "음방",
-                    "detail" : "인기가요 사전녹화",
-                    "time" : "09:25",
-                    "member" : "S1 ~ S10"
+                    "title": "음방",
+                    "detail": "인기가요 사전녹화",
+                    "time": "09:25",
+                    "member": [1,2,3,4,5,6,7,8,9,10],
+                    "hideMember": true,
+                    "unit": "S1 ~ S10"
                 },
                 {
                     "title": "음방",
                     "detail": "인기가요",
                     "time": "15:40",
-                    "member": "S1 ~ S10"
+                    "member": [1,2,3,4,5,6,7,8,9,10],
+                    "hideMember": true,
+                    "unit": "S1 ~ S10"
                 },
                 {
                     "title": "팬싸",
                     "detail": "사웨 (대면, 영통)",
                     "time": "19:00",
-                    "member": "S1 ~ S10"
+                    "member": [1,2,3,4,5,6,7,8,9,10],
+                    "hideMember": true,
+                    "unit": "S1 ~ S10"
                 }
             ]
         },
@@ -374,16 +436,20 @@
             "dates": "28",
             "schedule": [
                 {
-                    "title" : "음방",
-                    "detail" : "더쇼 사전녹화",
-                    "time" : "09:40",
-                    "member" : "S1 ~ S10"
+                    "title": "음방",
+                    "detail": "더쇼 사전녹화",
+                    "time": "09:40",
+                    "member": [1,2,3,4,5,6,7,8,9,10],
+                    "hideMember": true,
+                    "unit": "S1 ~ S10"
                 },
                 {
                     "title": "음방",
                     "detail": "더쇼",
                     "time": "18:00",
-                    "member": "S1 ~ S10"
+                    "member": [1,2,3,4,5,6,7,8,9,10],
+                    "hideMember": true,
+                    "unit": "S1 ~ S10"
                 }
             ]
         }

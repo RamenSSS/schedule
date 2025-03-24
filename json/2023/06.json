@@ -9,7 +9,7 @@
                     "title": "라이브",
                     "detail": "유튜브",
                     "time": "22:00",
-                    "member": "니엔"
+                    "member": [13]
                 }
             ]
         },
@@ -19,14 +19,15 @@
                 {
                     "title": "기념일",
                     "detail": "니엔 생일",
-                    "time": "0",
-                    "member": "0"
+                    "member": [13],
+                    "hideMember": true
                 },
                 {
                     "title": "팬싸",
                     "detail": "케타포 (대면, 영통)",
                     "time": "18:00",
-                    "member": "KRE (서연, 지우, 채연, 수민)"
+                    "member": [1,3,4,6],
+                    "unit": "KRE"
                 }
             ]
         },
@@ -37,7 +38,8 @@
                     "title": "팬싸",
                     "detail": "디마뮤 (영통)",
                     "time": "18:00",
-                    "member": "KRE (서연, 지우, 채연, 수민), 소현"
+                    "member": [1,3,4,6,14],
+                    "unit": "KRE"
                 }
             ]
         },
@@ -48,7 +50,8 @@
                     "title": "팬싸",
                     "detail": "메이크스타 (대면, 영통)",
                     "time": "18:00",
-                    "member": "KRE (서연, 지우, 채연, 수민)"
+                    "member": [1,3,4,6],
+                    "unit": "KRE"
                 }
             ]
         },
@@ -63,13 +66,16 @@
                     "title": "방송",
                     "detail": "After School Club",
                     "time": "13:00",
-                    "member": "KRE (서연, 지우, 채연, 수민)"
+                    "member": [1,3,4,6],
+                    "unit": "KRE"
                 },
                 {
                     "title": "음반",
                     "detail": "〈Cherry Gene 'Baddest Mix'〉 발매",
                     "time": "18:00",
-                    "member": "S1 ~ S8"
+                    "member": [1,2,3,4,5,6,7,8],
+                    "hideMember": true,
+                    "unit": "S1 ~ S8"
                 }
             ]
         },
@@ -79,14 +85,14 @@
                 {
                     "title": "기념일",
                     "detail": "지우 1주년",
-                    "time": "0",
-                    "member": "0"
+                    "member": [3],
+                    "hideMember": true
                 },
                 {
                     "title": "라이브",
                     "detail": "유튜브",
                     "time": "22:00",
-                    "member": "카에데, 니엔"
+                    "member": [9,13]
                 }
             ]
         },
@@ -101,7 +107,8 @@
                     "title": "팬싸",
                     "detail": "마뮤테 (대면, 영통)",
                     "time": "20:00",
-                    "member": "KRE (서연, 지우, 채연, 수민)"
+                    "member": [1,3,4,6],
+                    "unit": "KRE"
                 }
             ]
         },
@@ -112,7 +119,8 @@
                     "title": "팬싸",
                     "detail": "Everline (대면, 영통)",
                     "time": "18:00",
-                    "member": "KRE (서연, 지우, 채연, 수민)"
+                    "member": [1,3,4,6],
+                    "unit": "KRE"
                 }
             ]
         },
@@ -123,7 +131,8 @@
                     "title": "팬싸",
                     "detail": "사웨 (대면, 영통)",
                     "time": "18:00",
-                    "member": "KRE (서연, 지우, 채연, 수민)"
+                    "member": [1,3,4,6],
+                    "unit": "KRE"
                 }
             ]
         },
@@ -138,7 +147,7 @@
                     "title": "방송",
                     "detail": "퀸덤퍼즐",
                     "time": "22:00",
-                    "member": "서연, 지우"
+                    "member": [1,3]
                 }
             ]
         },
@@ -148,14 +157,13 @@
                 {
                     "title": "라디오",
                     "detail": "영스트리트 사전녹음",
-                    "time": "0",
-                    "member": "서연, 지우, 채연"
+                    "member": [1,3,4]
                 },
                 {
                     "title": "라이브",
                     "detail": "유튜브",
                     "time": "22:00",
-                    "member": "서연, 지우"
+                    "member": [1,3]
                 }
             ]
         },
@@ -170,7 +178,8 @@
                     "title": "팬싸",
                     "detail": "디마뮤 (대면, 영통, 이벤트)",
                     "time": "20:00",
-                    "member": "KRE (서연, 지우, 채연, 수민)"
+                    "member": [1,3,4,6],
+                    "unit": "KRE"
                 }
             ]
         },
@@ -181,19 +190,20 @@
                     "title": "팬싸",
                     "detail": "메이크스타 (대면, 영통)",
                     "time": "19:00",
-                    "member": "KRE (서연, 지우, 채연, 수민), 소현"
+                    "member": [1,3,4,6,14],
+                    "unit": "KRE"
                 },
                 {
                     "title": "라디오",
                     "detail": "영스트리트 본방송",
                     "time": "20:30",
-                    "member": "서연, 지우, 채연"
+                    "member": [1,3,4]
                 },
                 {
                     "title": "라이브",
                     "detail": "디스코드",
                     "time": "22:00",
-                    "member": "코토네"
+                    "member": [11]
                 }
             ]
         },
@@ -204,7 +214,8 @@
                     "title": "팬싸",
                     "detail": "마뮤테 (대면, 영통)",
                     "time": "18:00",
-                    "member": "KRE (서연, 지우, 채연, 수민)"
+                    "member": [1,3,4,6],
+                    "unit": "KRE"
                 }
             ]
         },
@@ -219,7 +230,7 @@
                     "title": "방송",
                     "detail": "퀸덤퍼즐",
                     "time": "22:00",
-                    "member": "서연, 지우"
+                    "member": [1,3]
                 }
             ]
         },
@@ -230,7 +241,7 @@
                     "title": "라이브",
                     "detail": "유튜브",
                     "time": "22:00",
-                    "member": "수민, 연지"
+                    "member": [6,12]
                 }
             ]
         },
@@ -241,13 +252,14 @@
                     "title": "뮤비",
                     "detail": "Touch+ 공개",
                     "time": "00:00",
-                    "member": "KRE (서연, 지우, 채연, 수민), 소현"
+                    "member": [1,3,4,6,14],
+                    "unit": "KRE"
                 },
                 {
                     "title": "라이브",
                     "detail": "웨이보",
                     "time": "22:00",
-                    "member": "나경, 니엔"
+                    "member": [7,13]
                 }
             ]
         },
@@ -258,13 +270,16 @@
                     "title": "음방",
                     "detail": "뮤직뱅크",
                     "time": "17:15",
-                    "member": "KRE (서연, 지우, 채연, 수민)"
+                    "member": [1,3,4,6],
+                    "unit": "KRE"
                 },
                 {
                     "title": "팬싸",
                     "detail": "Objekt Cafe",
                     "time": "19:00",
-                    "member": "S1 ~ S4, S6 ~ S10, S12 ~ S14"
+                    "member": [1,2,3,4,6,7,8,9,10,12,13,14],
+                    "hideMember": true,
+                    "unit": "S1 ~ S4, S6 ~ S10, S12 ~ S14"
                 }
             ]
         },
@@ -272,22 +287,25 @@
             "dates": "24",
             "schedule": [
                 {
-                    "title" : "음방",
-                    "detail" : "음악중심 사전녹화",
-                    "time" : "09:30",
-                    "member" : "KRE (서연, 지우, 채연, 수민)"
+                    "title": "음방",
+                    "detail": "음악중심 사전녹화",
+                    "time": "09:30",
+                    "member": [1,3,4,6],
+                    "unit": "KRE"
                 },
                 {
                     "title": "음방",
                     "detail": "음악중심",
                     "time": "15:15",
-                    "member": "KRE (서연, 지우, 채연, 수민)"
+                    "member": [1,3,4,6],
+                    "unit": "KRE"
                 },
                 {
                     "title": "팬싸",
                     "detail": "Everline (대면, 영통)",
                     "time": "18:00",
-                    "member": "KRE (서연, 지우, 채연, 수민)"
+                    "member": [1,3,4,6],
+                    "unit": "KRE"
                 }
             ]
         },
@@ -297,14 +315,14 @@
                 {
                     "title": "행사",
                     "detail": "워터밤 서울",
-                    "time": "0",
-                    "member": "서연, 채연, 나경, 다현"
+                    "member": [1,4,7,10]
                 },
                 {
                     "title": "팬싸",
                     "detail": "디마뮤 (대면, 영통)",
                     "time": "18:00",
-                    "member": "KRE (서연, 지우, 채연, 수민)"
+                    "member": [1,3,4,6],
+                    "unit": "KRE"
                 }
             ]
         },
@@ -316,34 +334,36 @@
             "dates": "27",
             "schedule": [
                 {
-                    "title" : "음방",
-                    "detail" : "더쇼 사전녹화",
-                    "time" : "09:10",
-                    "member" : "KRE (서연, 지우, 채연, 수민)"
+                    "title": "음방",
+                    "detail": "더쇼 사전녹화",
+                    "time": "09:10",
+                    "member": [1,3,4,6],
+                    "unit": "KRE"
                 },
                 {
                     "title": "음방",
                     "detail": "더쇼",
                     "time": "18:00",
-                    "member": "KRE (서연, 지우, 채연, 수민)"
+                    "member": [1,3,4,6],
+                    "unit": "KRE"
                 },
                 {
                     "title": "음반",
                     "detail": "〈Touch+〉 발매",
                     "time": "18:00",
-                    "member": "KRE (서연, 지우, 채연, 수민), 소현"
+                    "member": [1,3,4,6,14],
+                    "unit": "KRE"
                 },
                 {
                     "title": "방송",
                     "detail": "퀸덤퍼즐",
                     "time": "22:00",
-                    "member": "서연, 지우"
+                    "member": [1,3]
                 },
                 {
-                    "title": "기타",
+                    "title": "방송",
                     "detail": "퀸덤퍼즐 녹화",
-                    "time": "0",
-                    "member": "서연, 지우"
+                    "member": [1,3]
                 }
             ]
         },
@@ -354,7 +374,7 @@
                     "title": "라이브",
                     "detail": "유튜브",
                     "time": "22:00",
-                    "member": "다현, 소현"
+                    "member": [10,14]
                 }
             ]
         },
@@ -364,20 +384,22 @@
                 {
                     "title": "기념일",
                     "detail": "채연 1주년",
-                    "time": "0",
-                    "member": "0"
+                    "member": [4],
+                    "hideMember": true
                 },
                 {
-                    "title" : "음방",
-                    "detail" : "더쇼 사전녹화",
-                    "time" : "10:30",
-                    "member" : "KRE (서연, 지우, 채연, 수민)"
+                    "title": "음방",
+                    "detail": "더쇼 사전녹화",
+                    "time": "10:30",
+                    "member": [1,3,4,6],
+                    "unit": "KRE"
                 },
                 {
                     "title": "음방",
                     "detail": "엠카운트다운",
                     "time": "18:00",
-                    "member": "KRE (서연, 지우, 채연, 수민)"
+                    "member": [1,3,4,6],
+                    "unit": "KRE"
                 }
             ]
         },
@@ -388,7 +410,8 @@
                     "title": "팬싸",
                     "detail": "메이크스타 (단체 영통, 1:1 영통)",
                     "time": "20:00",
-                    "member": "KRE (서연, 지우, 채연, 수민)"
+                    "member": [1,3,4,6],
+                    "unit": "KRE"
                 }
             ]
         }

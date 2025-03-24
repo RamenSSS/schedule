@@ -13,7 +13,9 @@
                     "title": "팬싸",
                     "detail": "마뮤테 (대면)",
                     "time": "13:00",
-                    "member": "S1 ~ S10"
+                    "member": [1,2,3,4,5,6,7,8,9,10],
+                    "hideMember": true,
+                    "unit": "S1 ~ S10"
                 }
             ]
         },
@@ -32,7 +34,7 @@
                     "title": "라이브",
                     "detail": "유튜브",
                     "time": "22:00",
-                    "member": "혜린, 다현"
+                    "member": [2,10]
                 }
             ]
         },
@@ -66,14 +68,14 @@
                 {
                     "title": "기념일",
                     "detail": "혜린 생일",
-                    "time": "0",
-                    "member": "0"
+                    "member": [2],
+                    "hideMember": true
                 },
                 {
                     "title": "라이브",
                     "detail": "유튜브",
                     "time": "22:00",
-                    "member": "카에데, 코토네"
+                    "member": [9,11]
                 }
             ]
         },
@@ -88,7 +90,9 @@
                     "title": "팬싸",
                     "detail": "FLNK (대면)",
                     "time": "19:00",
-                    "member": "S1 ~ S10"
+                    "member": [1,2,3,4,5,6,7,8,9,10],
+                    "hideMember": true,
+                    "unit": "S1 ~ S10"
                 }
             ]
         },
@@ -99,7 +103,9 @@
                     "title": "팬싸",
                     "detail": "Everline (대면, 영통)",
                     "time": "13:30",
-                    "member": "S1 ~ S10"
+                    "member": [1,2,3,4,5,6,7,8,9,10],
+                    "hideMember": true,
+                    "unit": "S1 ~ S10"
                 }
             ]
         },
@@ -110,7 +116,9 @@
                     "title": "팬싸",
                     "detail": "사웨 (대면, 영통)",
                     "time": "19:00",
-                    "member": "S1 ~ S10"
+                    "member": [1,2,3,4,5,6,7,8,9,10],
+                    "hideMember": true,
+                    "unit": "S1 ~ S10"
                 }
             ]
         },
@@ -124,8 +132,8 @@
                 {
                     "title": "기념일",
                     "detail": "소현 입주",
-                    "time": "0",
-                    "member": "0"
+                    "member": [14],
+                    "hideMember": true
                 }
             ]
         },
@@ -136,7 +144,7 @@
                     "title": "행사",
                     "detail": "키움 히어로즈 식전 행사",
                     "time": "18:30",
-                    "member": "채연, 나경, 다현"
+                    "member": [4,7,10]
                 }
             ]
         },
@@ -155,13 +163,13 @@
                     "title": "팬싸",
                     "detail": "오브젝트 (대면, 영통)",
                     "time": "14:00",
-                    "member": "서연, 지우, 유연, 수민, 카에데, 다현, 니엔"
+                    "member": [1,3,5,6,9,10,13]
                 },
                 {
                     "title": "팬싸",
                     "detail": "오브젝트 (대면, 영통)",
                     "time": "18:00",
-                    "member": "혜린, 채연, 나경, 유빈, 코토네, 연지"
+                    "member": [2,4,7,8,11,12]
                 }
             ]
         },

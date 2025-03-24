@@ -12,20 +12,22 @@
                 {
                     "title": "음반",
                     "detail": "〈4study 4work 4inst Vol.1〉 발매",
-                    "time": "18:00",
-                    "member": "0"
+                    "time": "18:00"
                 },
                 {
                     "title": "음방",
                     "detail": "심플리케이팝 본방송",
                     "time": "19:00",
-                    "member": "Aria (지우, 채연, 카에데, 다현, 니엔)"
+                    "member": [3,4,9,10,13],
+                    "unit": "Aria"
                 },
                 {
                     "title": "공연",
                     "detail": "Authentic in Seoul Eve-Con",
                     "time": "20:00",
-                    "member": "S1 ~ S16"
+                    "member": [1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16],
+                    "hideMember": true,
+                    "unit": "S1 ~ S16"
                 }
             ]
         },
@@ -35,26 +37,28 @@
                 {
                     "title": "기념일",
                     "detail": "유빈 생일",
-                    "time": "0",
-                    "member": "0"
+                    "member": [8],
+                    "hideMember": true
                 },
                 {
                     "title": "공연",
                     "detail": "Authentic in Seoul",
                     "time": "15:00",
-                    "member": "LOVElution (서연, 혜린, 유빈, 카에데, 다현, 니엔, 소현, 신위)"
+                    "member": [1,2,8,9,10,13,14,15],
+                    "unit": "LOVElution"
                 },
                 {
                     "title": "공연",
                     "detail": "Authentic in Seoul",
                     "time": "19:00",
-                    "member": "EVOLution (지우, 채연, 유연, 수민, 나경, 코토네, 연지, 마유)"
+                    "member": [3,4,5,6,7,11,12,16],
+                    "unit": "EVOLution"
                 },
                 {
                     "title": "라디오",
                     "detail": "영스트리트 본방송",
                     "time": "20:00",
-                    "member": "지우, 채연, 다현"
+                    "member": [3,4,10]
                 }
             ]
         },
@@ -65,7 +69,9 @@
                     "title": "공연",
                     "detail": "Authentic in Seoul",
                     "time": "18:00",
-                    "member": "S1 ~ S20"
+                    "member": [1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20],
+                    "hideMember": true,
+                    "unit": "S1 ~ S20"
                 }
             ]
         },
@@ -84,7 +90,7 @@
                     "title": "라이브",
                     "detail": "유튜브",
                     "time": "22:00",
-                    "member": "서연, 유연, 수민, 소현, 린"
+                    "member": [1,5,6,14,17]
                 }
             ]
         },
@@ -98,8 +104,8 @@
                 {
                     "title": "기념일",
                     "detail": "유연 생일",
-                    "time": "0",
-                    "member": "0"
+                    "member": [5],
+                    "hideMember": true
                 }
             ]
         },
@@ -121,8 +127,14 @@
                 {
                     "title": "기념일",
                     "detail": "데뷔 1주년",
-                    "time": "0",
-                    "member": "0"
+                    "member": [1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20],
+                    "hideMember": true
+                },
+                {
+                    "title": "기념일",
+                    "detail": "〈ASSEMBLE〉 발매 1주년",
+                    "member": [1,2,3,4,5,6,7,8,9,10],
+                    "hideMember": true
                 }
             ]
         },
@@ -133,7 +145,7 @@
                     "title": "라이브",
                     "detail": "유튜브",
                     "time": "22:00",
-                    "member": "지우, 채연, 수민, 연지, 주빈"
+                    "member": [3,4,6,12,18]
                 }
             ]
         },
@@ -144,19 +156,19 @@
                     "title": "팬싸",
                     "detail": "헬로라이브 (영통)",
                     "time": "17:00",
-                    "member": "서연, 나경, 연지, 마유"
+                    "member": [1,7,12,16]
                 },
                 {
                     "title": "팬싸",
                     "detail": "헬로라이브 (영통)",
                     "time": "20:00",
-                    "member": "혜린, 유연, 코토네, 니엔"
+                    "member": [2,5,11,13]
                 },
                 {
                     "title": "라이브",
                     "detail": "웨이보",
                     "time": "22:00",
-                    "member": "소현, 신위"
+                    "member": [14,15]
                 }
             ]
         },
@@ -175,7 +187,9 @@
                     "title": "행사",
                     "detail": "한터 뮤직 어워즈",
                     "time": "19:00",
-                    "member": "S1 ~ S20"
+                    "member": [1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20],
+                    "hideMember": true,
+                    "unit": "S1 ~ S20"
                 }
             ]
         },
@@ -186,13 +200,13 @@
                     "title": "팬싸",
                     "detail": "헬로라이브 (영통)",
                     "time": "17:00",
-                    "member": "채연, 수민, 카에데, 소현"
+                    "member": [4,6,9,14]
                 },
                 {
                     "title": "팬싸",
                     "detail": "헬로라이브 (영통)",
                     "time": "20:00",
-                    "member": "지우, 유빈, 다현, 신위"
+                    "member": [3,8,10,15]
                 }
             ]
         },
@@ -203,7 +217,7 @@
                     "title": "라이브",
                     "detail": "유튜브",
                     "time": "22:00",
-                    "member": "마유, 린, 주빈"
+                    "member": [16,17,18]
                 }
             ]
         },
@@ -218,7 +232,7 @@
                     "title": "라이브",
                     "detail": "유튜브",
                     "time": "22:00",
-                    "member": "나경, 다현, 코토네, 니엔, 하연"
+                    "member": [7,10,11,13,19]
                 }
             ]
         },
@@ -245,13 +259,13 @@
                     "title": "라이브",
                     "detail": "유튜브",
                     "time": "22:00",
-                    "member": "카에데, 코토네, 마유, 린"
+                    "member": [9,11,16,17]
                 },
                 {
                     "title": "방송",
                     "detail": "PD가 사라졌다",
                     "time": "23:30",
-                    "member": "서연"
+                    "member": [1]
                 }
             ]
         },
@@ -262,7 +276,7 @@
                     "title": "라이브",
                     "detail": "유튜브",
                     "time": "22:00",
-                    "member": "유연, 수민"
+                    "member": [5,6]
                 }
             ]
         },
@@ -273,13 +287,14 @@
                     "title": "음방",
                     "detail": "MY STAGE",
                     "time": "21:00",
-                    "member": "LOVElution (서연, 혜린, 유빈, 카에데, 다현, 니엔, 소현, 신위)"
+                    "member": [1,2,8,9,10,13,14,15],
+                    "unit": "LOVElution"
                 },
                 {
                     "title": "라이브",
                     "detail": "웨이보",
                     "time": "22:00",
-                    "member": "채연, 신위, 린"
+                    "member": [4,15,17]
                 }
             ]
         }

@@ -12,8 +12,8 @@
                 {
                     "title": "기념일",
                     "detail": "니엔 생일",
-                    "time": "0",
-                    "member": "0"
+                    "member": [13],
+                    "hideMember": true
                 }
             ]
         },
@@ -39,8 +39,8 @@
                 {
                     "title": "기념일",
                     "detail": "지우 3주년",
-                    "time": "0",
-                    "member": "0"
+                    "member": [3],
+                    "hideMember": true
                 }
             ]
         },
@@ -62,8 +62,8 @@
                 {
                     "title": "기념일",
                     "detail": "서아 생일",
-                    "time": "0",
-                    "member": "0"
+                    "member": [23],
+                    "hideMember": true
                 }
             ]
         },
@@ -109,8 +109,8 @@
                 {
                     "title": "기념일",
                     "detail": "Glow 데뷔 1주년",
-                    "time": "0",
-                    "member": "Glow (채원, 설린, 서아, 지연)"
+                    "member": [21,22,23,24],
+                    "unit": "Glow"
                 }
             ]
         },
@@ -148,8 +148,8 @@
                 {
                     "title": "기념일",
                     "detail": "채연 3주년",
-                    "time": "0",
-                    "member": "0"
+                    "member": [4],
+                    "hideMember": true
                 }
             ]
         },

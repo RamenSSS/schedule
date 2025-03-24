@@ -8,8 +8,8 @@
                 {
                     "title": "기념일",
                     "detail": "하연 생일",
-                    "time": "0",
-                    "member": "0"
+                    "member": [19],
+                    "hideMember": true
                 }
             ]
         },
@@ -35,8 +35,8 @@
                 {
                     "title": "기념일",
                     "detail": "서연 생일",
-                    "time": "0",
-                    "member": "0"
+                    "member": [1],
+                    "hideMember": true
                 }
             ]
         },
@@ -62,8 +62,8 @@
                 {
                     "title": "기념일",
                     "detail": "수민 3주년",
-                    "time": "0",
-                    "member": "0"
+                    "member": [6],
+                    "hideMember": true
                 }
             ]
         },
@@ -93,8 +93,8 @@
                 {
                     "title": "기념일",
                     "detail": "LOVElution 데뷔 2주년",
-                    "time": "0",
-                    "member": "LOVElution (서연, 혜린, 유빈, 카에데, 다현, 니엔, 소현, 신위)"
+                    "member": [1,2,8,9,10,13,14,15],
+                    "unit": "LOVElution"
                 }
             ]
         },
@@ -132,8 +132,8 @@
                 {
                     "title": "기념일",
                     "detail": "나경 3주년",
-                    "time": "0",
-                    "member": "0"
+                    "member": [7],
+                    "hideMember": true
                 }
             ]
         },

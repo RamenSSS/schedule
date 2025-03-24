@@ -24,8 +24,8 @@
                 {
                     "title": "기념일",
                     "detail": "코토네 1주년",
-                    "time": "0",
-                    "member": "0"
+                    "member": [11],
+                    "hideMember": true
                 }
             ]
         },
@@ -36,7 +36,8 @@
                     "title": "팬싸",
                     "detail": "마뮤테 (대면, 영통)",
                     "time": "18:30",
-                    "member": "EVOLution (지우, 채연, 유연, 수민, 나경, 코토네, 연지, 마유)"
+                    "member": [3,4,5,6,7,11,12,16],
+                    "unit": "EVOLution"
                 }
             ]
         },
@@ -47,7 +48,8 @@
                     "title": "팬싸",
                     "detail": "디마뮤 (대면, 영통)",
                     "time": "17:00",
-                    "member": "EVOLution (지우, 채연, 유연, 수민, 나경, 연지, 마유)"
+                    "member": [3,4,5,6,7,12,16],
+                    "unit": "EVOLution"
                 }
             ]
         },
@@ -57,14 +59,14 @@
                 {
                     "title": "기념일",
                     "detail": "다현 생일",
-                    "time": "0",
-                    "member": "0"
+                    "member": [10],
+                    "hideMember": true
                 },
                 {
                     "title": "기념일",
                     "detail": "연지 생일",
-                    "time": "0",
-                    "member": "0"
+                    "member": [12],
+                    "hideMember": true
                 }
             ]
         },
@@ -75,13 +77,14 @@
                     "title": "팬싸",
                     "detail": "위드뮤 (대면, 영통)",
                     "time": "19:00",
-                    "member": "EVOLution (지우, 채연, 유연, 수민, 나경, 코토네, 연지, 마유)"
+                    "member": [3,4,5,6,7,11,12,16],
+                    "unit": "EVOLution"
                 },
                 {
                     "title": "라이브",
                     "detail": "유튜브",
                     "time": "22:00",
-                    "member": "린, 하연"
+                    "member": [17,19]
                 }
             ]
         },
@@ -96,7 +99,7 @@
                     "title": "라이브",
                     "detail": "웨이보",
                     "time": "22:00",
-                    "member": "소현, 신위"
+                    "member": [14,15]
                 }
             ]
         },
@@ -107,13 +110,14 @@
                     "title": "팬싸",
                     "detail": "마뮤테 (대면, 영통)",
                     "time": "19:00",
-                    "member": "EVOLution (지우, 채연, 유연, 수민, 나경, 코토네, 연지, 마유)"
+                    "member": [3,4,5,6,7,11,12,16],
+                    "unit": "EVOLution"
                 },
                 {
                     "title": "라이브",
                     "detail": "유튜브",
                     "time": "22:00",
-                    "member": "주빈, 시온"
+                    "member": [18,20]
                 }
             ]
         },
@@ -128,7 +132,8 @@
                     "title": "팬싸",
                     "detail": "위드뮤 (대면, 영통)",
                     "time": "14:00",
-                    "member": "EVOLution (지우, 채연, 유연, 수민, 나경, 코토네, 연지, 마유)"
+                    "member": [3,4,5,6,7,11,12,16],
+                    "unit": "EVOLution"
                 }
             ]
         },
@@ -139,13 +144,15 @@
                     "title": "음반",
                     "detail": "〈Structure of Sadness〉 발매",
                     "time": "18:00",
-                    "member": "Aria (지우, 채연, 카에데, 다현, 니엔)"
+                    "member": [3,4,9,10,13],
+                    "unit": "Aria"
                 },
                 {
                     "title": "뮤비",
                     "detail": "Door 공개",
                     "time": "18:00",
-                    "member": "Aria (지우, 채연, 카에데, 다현, 니엔)"
+                    "member": [3,4,9,10,13],
+                    "unit": "Aria"
                 }
             ]
         },
@@ -155,20 +162,21 @@
                 {
                     "title": "기념일",
                     "detail": "린 입주",
-                    "time": "0",
-                    "member": "0"
+                    "member": [17],
+                    "hideMember": true
                 },
                 {
-                    "title" : "기념일",
-                    "detail" : "주빈 생일",
-                    "time" : "0",
-                    "member" : "0"
+                    "title": "기념일",
+                    "detail": "주빈 생일",
+                    "member": [18],
+                    "hideMember": true
                 },
                 {
                     "title": "라이브",
                     "detail": "유튜브",
                     "time": "22:00",
-                    "member": "Aria (지우, 채연, 카에데, 다현, 니엔)"
+                    "member": [3,4,9,10,13],
+                    "unit": "Aria"
                 }
             ]
         },
@@ -178,8 +186,8 @@
                 {
                     "title": "기념일",
                     "detail": "주빈 입주",
-                    "time": "0",
-                    "member": "0"
+                    "member": [18],
+                    "hideMember": true
                 }
             ]
         },
@@ -190,7 +198,7 @@
                     "title": "라이브",
                     "detail": "유튜브",
                     "time": "22:00",
-                    "member": "린, 주빈"
+                    "member": [17,18]
                 }
             ]
         },
@@ -201,7 +209,9 @@
                     "title": "행사",
                     "detail": "강원 동계 청소년 올림픽 개회식",
                     "time": "20:00",
-                    "member": "S1 ~ S16"
+                    "member": [1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16],
+                    "hideMember": true,
+                    "unit": "S1 ~ S16"
                 }
             ]
         },
@@ -211,8 +221,8 @@
                 {
                     "title": "기념일",
                     "detail": "연지 1주년",
-                    "time": "0",
-                    "member": "0"
+                    "member": [12],
+                    "hideMember": true
                 }
             ]
         },
@@ -226,8 +236,8 @@
                 {
                     "title": "기념일",
                     "detail": "하연 입주",
-                    "time": "0",
-                    "member": "0"
+                    "member": [19],
+                    "hideMember": true
                 }
             ]
         },
@@ -237,14 +247,14 @@
                 {
                     "title": "기념일",
                     "detail": "시온 입주",
-                    "time": "0",
-                    "member": "0"
+                    "member": [20],
+                    "hideMember": true
                 },
                 {
                     "title": "라이브",
                     "detail": "유튜브",
                     "time": "22:00",
-                    "member": "혜린, 하연"
+                    "member": [2,19]
                 }
             ]
         },
@@ -259,13 +269,14 @@
                     "title": "음방",
                     "detail": "엠카운트다운",
                     "time": "18:00",
-                    "member": "Aria (지우, 채연, 카에데, 다현, 니엔)"
+                    "member": [3,4,9,10,13],
+                    "unit": "Aria"
                 },
                 {
                     "title": "라이브",
                     "detail": "웨이보",
                     "time": "22:00",
-                    "member": "나경, 유빈"
+                    "member": [7,8]
                 }
             ]
         },
@@ -276,19 +287,21 @@
                     "title": "음방",
                     "detail": "뮤직뱅크",
                     "time": "17:15",
-                    "member": "Aria (지우, 채연, 카에데, 다현, 니엔)"
+                    "member": [3,4,9,10,13],
+                    "unit": "Aria"
                 },
                 {
                     "title": "팬싸",
                     "detail": "마뮤테 (대면, 영통)",
                     "time": "20:30",
-                    "member": "Aria (지우, 채연, 카에데, 다현, 니엔)"
+                    "member": [3,4,9,10,13],
+                    "unit": "Aria"
                 },
                 {
                     "title": "라이브",
                     "detail": "유튜브",
                     "time": "22:00",
-                    "member": "서연, 시온"
+                    "member": [1,20]
                 }
             ]
         },
@@ -299,7 +312,8 @@
                     "title": "음방",
                     "detail": "음악중심",
                     "time": "15:15",
-                    "member": "Aria (지우, 채연, 카에데, 다현, 니엔)"
+                    "member": [3,4,9,10,13],
+                    "unit": "Aria"
                 }
             ]
         },
@@ -310,13 +324,15 @@
                     "title": "음방",
                     "detail": "인기가요",
                     "time": "15:40",
-                    "member": "Aria (지우, 채연, 카에데, 다현, 니엔)"
+                    "member": [3,4,9,10,13],
+                    "unit": "Aria"
                 },
                 {
                     "title": "팬싸",
                     "detail": "위드뮤 (대면, 영통)",
                     "time": "18:00",
-                    "member": "Aria (지우, 채연, 카에데, 다현, 니엔)"
+                    "member": [3,4,9,10,13],
+                    "unit": "Aria"
                 }
             ]
         },
@@ -327,7 +343,8 @@
                     "title": "음방",
                     "detail": "심플리케이팝 생녹방",
                     "time": "19:00",
-                    "member": "Aria (지우, 채연, 카에데, 다현, 니엔)"
+                    "member": [3,4,9,10,13],
+                    "unit": "Aria"
                 }
             ]
         },
@@ -342,7 +359,8 @@
                     "title": "음방",
                     "detail": "쇼챔피언",
                     "time": "18:00",
-                    "member": "Aria (지우, 채연, 카에데, 다현, 니엔)"
+                    "member": [3,4,9,10,13],
+                    "unit": "Aria"
                 }
             ]
         }

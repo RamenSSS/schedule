@@ -8,8 +8,7 @@
                 {
                     "title": "기념일",
                     "detail": "tripleS 공개",
-                    "time": "0",
-                    "member": "0"
+                    "member": []
                 }
             ]
         },
@@ -47,8 +46,11 @@
                 {
                     "title": "기념일",
                     "detail": "서연 입주",
-                    "time": "0",
-                    "member": "0"
+                    "member": [1],
+                    "hideMember": true,
+                    "link": [
+                        "https://youtu.be/YKKxeYi9V5U"
+                    ]
                 }
             ]
         },
@@ -63,7 +65,7 @@
                     "title": "라이브",
                     "detail": "인스타그램",
                     "time": "22:00",
-                    "member": "서연"
+                    "member": [1]
                 }
             ]
         },
@@ -90,7 +92,7 @@
                     "title": "라이브",
                     "detail": "유튜브",
                     "time": "22:00",
-                    "member": "서연"
+                    "member": [1]
                 }
             ]
         },
@@ -124,8 +126,8 @@
                 {
                     "title": "기념일",
                     "detail": "혜린 입주",
-                    "time": "0",
-                    "member": "0"
+                    "member": [2],
+                    "hideMember": true
                 }
             ]
         },
@@ -136,7 +138,7 @@
                     "title": "라이브",
                     "detail": "유튜브",
                     "time": "22:00",
-                    "member": "서연, 혜린"
+                    "member": [1,2]
                 }
             ]
         },
@@ -151,7 +153,7 @@
                     "title": "라이브",
                     "detail": "유튜브",
                     "time": "22:00",
-                    "member": "서연, 혜린"
+                    "member": [1,2]
                 }
             ]
         },
@@ -178,7 +180,7 @@
                     "title": "라이브",
                     "detail": "유튜브",
                     "time": "22:00",
-                    "member": "서연, 혜린"
+                    "member": [1,2]
                 }
             ]
         }

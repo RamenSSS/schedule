@@ -20,8 +20,8 @@
                 {
                     "title": "기념일",
                     "detail": "신위 2주년",
-                    "time": "0",
-                    "member": "0"
+                    "member": [15],
+                    "hideMember": true
                 }
             ]
         },
@@ -83,8 +83,8 @@
                 {
                     "title": "기념일",
                     "detail": "유연 3주년",
-                    "time": "0",
-                    "member": "0"
+                    "member": [5],
+                    "hideMember": true
                 }
             ]
         },
@@ -114,8 +114,8 @@
                 {
                     "title": "기념일",
                     "detail": "마유 2주년",
-                    "time": "0",
-                    "member": "0"
+                    "member": [16],
+                    "hideMember": true
                 }
             ]
         },

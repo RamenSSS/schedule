@@ -16,8 +16,8 @@
                 {
                     "title": "기념일",
                     "detail": "수민 생일",
-                    "time": "0",
-                    "member": "0"
+                    "member": [6],
+                    "hideMember": true
                 }
             ]
         },
@@ -55,8 +55,8 @@
                 {
                     "title": "기념일",
                     "detail": "EVOLution 데뷔 2주년",
-                    "time": "0",
-                    "member": "EVOLution (지우, 채연, 유연, 수민, 나경, 코토네, 연지, 마유)"
+                    "member": [3,4,5,6,7,11,12,16],
+                    "unit": "EVOLution"
                 }
             ]
         },
@@ -70,14 +70,14 @@
                 {
                     "title": "기념일",
                     "detail": "나경 생일",
-                    "time": "0",
-                    "member": "0"
+                    "member": [7],
+                    "hideMember": true
                 },
                 {
                     "title": "기념일",
                     "detail": "소현 생일",
-                    "time": "0",
-                    "member": "0"
+                    "member": [14],
+                    "hideMember": true
                 }
             ]
         },
@@ -123,8 +123,8 @@
                 {
                     "title": "기념일",
                     "detail": "VV 데뷔 1주년",
-                    "time": "0",
-                    "member": "VV (혜린, 유연, 나경, 유빈, 카에데, 코토네, 연지, 니엔, 소현, 신위, 린, 지연)"
+                    "member": [2,5,7,8,9,11,12,13,14,15,17,24],
+                    "unit": "VV"
                 }
             ]
         },
@@ -134,8 +134,8 @@
                 {
                     "title": "기념일",
                     "detail": "지우 생일",
-                    "time": "0",
-                    "member": "0"
+                    "member": [3],
+                    "hideMember": true
                 }
             ]
         },
@@ -157,8 +157,8 @@
                 {
                     "title": "기념일",
                     "detail": "AAA 데뷔 3주년",
-                    "time": "0",
-                    "member": "AAA (혜린, 유연, 나경, 유빈)"
+                    "member": [2,5,7,8],
+                    "unit": "AAA"
                 }
             ]
         },

@@ -29,19 +29,22 @@
                     "title": "음방",
                     "detail": "심플리케이팝 본방송",
                     "time": "13:00",
-                    "member": "AAA (혜린, 유연, 나경, 유빈)"
+                    "member": [2,5,7,8],
+                    "unit": "AAA"
                 },
                 {
                     "title": "음방",
                     "detail": "인기가요",
                     "time": "15:40",
-                    "member": "AAA (혜린, 유연, 나경, 유빈)"
+                    "member": [2,5,7,8],
+                    "unit": "AAA"
                 },
                 {
                     "title": "팬싸",
                     "detail": "디마뮤 (대면, 영통)",
                     "time": "18:00",
-                    "member": "AAA (혜린, 유연, 나경, 유빈)"
+                    "member": [2,5,7,8],
+                    "unit": "AAA"
                 }
             ]
         },
@@ -60,13 +63,15 @@
                     "title": "팬싸",
                     "detail": "케타포 (영통)",
                     "time": "19:00",
-                    "member": "AAA (혜린, 유연, 나경, 유빈)"
+                    "member": [2,5,7,8],
+                    "unit": "AAA"
                 },
                 {
                     "title": "라이브",
                     "detail": "유튜브",
                     "time": "22:00",
-                    "member": "AAA (혜린, 유연, 나경, 유빈)"
+                    "member": [2,5,7,8],
+                    "unit": "AAA"
                 }
             ]
         },
@@ -77,7 +82,8 @@
                     "title": "라디오",
                     "detail": "재찬의 꿈이야",
                     "time": "21:00",
-                    "member": "AAA (혜린, 유연, 나경, 유빈)"
+                    "member": [2,5,7,8],
+                    "unit": "AAA"
                 }
             ]
         },
@@ -88,7 +94,8 @@
                     "title": "팬싸",
                     "detail": "마뮤테 (대면)",
                     "time": "20:00",
-                    "member": "AAA (혜린, 유연, 나경, 유빈)"
+                    "member": [2,5,7,8],
+                    "unit": "AAA"
                 }
             ]
         },
@@ -99,13 +106,15 @@
                     "title": "음방",
                     "detail": "음악중심",
                     "time": "15:15",
-                    "member": "AAA (혜린, 유연, 나경, 유빈)"
+                    "member": [2,5,7,8],
+                    "unit": "AAA"
                 },
                 {
                     "title": "팬싸",
                     "detail": "디마뮤 (대면, 영통)",
                     "time": "19:30",
-                    "member": "AAA (혜린, 유연, 나경, 유빈)"
+                    "member": [2,5,7,8],
+                    "unit": "AAA"
                 }
             ]
         },
@@ -116,7 +125,8 @@
                     "title": "팬싸",
                     "detail": "마뮤테 (대면, 영통)",
                     "time": "19:00",
-                    "member": "AAA (혜린, 유연, 나경, 유빈)"
+                    "member": [2,5,7,8],
+                    "unit": "AAA"
                 }
             ]
         },
@@ -126,8 +136,8 @@
                 {
                     "title": "기념일",
                     "detail": "카에데 입주",
-                    "time": "0",
-                    "member": "0"
+                    "member": [9],
+                    "hideMember": true
                 }
             ]
         },
@@ -138,13 +148,15 @@
                     "title": "음방",
                     "detail": "더쇼",
                     "time": "18:00",
-                    "member": "AAA (혜린, 유연, 나경,  유빈)"
+                    "member": [2,5,7,0],
+                    "unit": "AAA"
                 },
                 {
                     "title": "팬싸",
                     "detail": "마뮤테 (대면)",
                     "time": "20:00",
-                    "member": "AAA (혜린, 유연, 나경, 유빈)"
+                    "member": [2,5,7,8],
+                    "unit": "AAA"
                 }
             ]
         },
@@ -155,13 +167,14 @@
                     "title": "음방",
                     "detail": "쇼챔피언",
                     "time": "18:00",
-                    "member": "AAA (혜린, 유연, 나경, 유빈)"
+                    "member": [2,5,7,8],
+                    "unit": "AAA"
                 },
                 {
                     "title": "라이브",
                     "detail": "유튜브",
                     "time": "22:00",
-                    "member": "지우, 카에데"
+                    "member": [3,9]
                 }
             ]
         },
@@ -176,13 +189,15 @@
                     "title": "팬싸",
                     "detail": "케타포 (영통)",
                     "time": "19:00",
-                    "member": "AAA (혜린, 유연, 나경, 유빈)"
+                    "member": [2,5,7,8],
+                    "unit": "AAA"
                 },
                 {
                     "title": "라디오",
                     "detail": "재찬의 꿈이야",
                     "time": "21:00",
-                    "member": "AAA (혜린, 유연, 나경, 유빈)"
+                    "member": [2,5,7,8],
+                    "unit": "AAA"
                 }
             ]
         },
@@ -193,7 +208,8 @@
                     "title": "팬싸",
                     "detail": "사웨 (대면, 영통)",
                     "time": "13:00",
-                    "member": "AAA (혜린, 유연, 나경, 유빈)"
+                    "member": [2,5,7,8],
+                    "unit": "AAA"
                 }
             ]
         },
@@ -212,13 +228,15 @@
                     "title": "팬싸",
                     "detail": "위드뮤 (영통)",
                     "time": "19:00",
-                    "member": "AAA (혜린, 유연, 나경, 유빈)"
+                    "member": [2,5,7,8],
+                    "unit": "AAA"
                 },
                 {
                     "title": "라이브",
                     "detail": "유튜브",
                     "time": "22:00",
-                    "member": "AAA (혜린, 유연, 나경, 유빈)"
+                    "member": [2,5,7,8],
+                    "unit": "AAA"
                 }
             ]
         },
@@ -233,7 +251,8 @@
                     "title": "팬싸",
                     "detail": "hello82 (영통)",
                     "time": "19:00",
-                    "member": "AAA (혜린, 유연, 나경, 유빈)"
+                    "member": [2,5,7,8],
+                    "unit": "AAA"
                 }
             ]
         },
@@ -248,7 +267,8 @@
                     "title": "팬싸",
                     "detail": "디마뮤 (1:1 영통, 단체 영통)",
                     "time": "14:00",
-                    "member": "AAA (혜린, 유연, 나경, 유빈)"
+                    "member": [2,5,7,8],
+                    "unit": "AAA"
                 }
             ]
         },
@@ -259,7 +279,8 @@
                     "title": "팬싸",
                     "detail": "메이크스타 (대면, 영통)",
                     "time": "14:00",
-                    "member": "AAA (혜린, 유연, 나경, 유빈)"
+                    "member": [2,5,7,8],
+                    "unit": "AAA"
                 }
             ]
         },
@@ -274,7 +295,7 @@
                     "title": "라이브",
                     "detail": "유튜브",
                     "time": "22:00",
-                    "member": "수민, 카에데"
+                    "member": [6,9]
                 }
             ]
         },
@@ -285,7 +306,8 @@
                     "title": "팬싸",
                     "detail": "사웨 (영통)",
                     "time": "19:00",
-                    "member": "AAA (혜린, 유연, 나경, 유빈)"
+                    "member": [2,5,7,8],
+                    "unit": "AAA"
                 }
             ]
         }

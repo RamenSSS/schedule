@@ -20,8 +20,8 @@
                 {
                     "title": "기념일",
                     "detail": "채연 생일",
-                    "time": "0",
-                    "member": "0"
+                    "member": [4],
+                    "hideMember": true
                 }
             ]
         },
@@ -59,8 +59,8 @@
                 {
                     "title": "기념일",
                     "detail": "다현 3주년",
-                    "time": "0",
-                    "member": "0"
+                    "member": [10],
+                    "hideMember": true
                 }
             ]
         },
@@ -98,8 +98,8 @@
                 {
                     "title": "기념일",
                     "detail": "카에데 생일",
-                    "time": "0",
-                    "member": "0"
+                    "member": [9],
+                    "hideMember": true
                 }
             ]
         },
@@ -117,8 +117,8 @@
                 {
                     "title": "기념일",
                     "detail": "NXT 데뷔 2주년",
-                    "time": "0",
-                    "member": "NXT (린, 주빈, 하연, 시온)"
+                    "member": [17,18,19,20],
+                    "unit": "NXT"
                 }
             ]
         },

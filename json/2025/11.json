@@ -60,8 +60,8 @@
                 {
                     "title": "기념일",
                     "detail": "카에데 3주년",
-                    "time": "0",
-                    "member": "0"
+                    "member": [9],
+                    "hideMember": true
                 }
             ]
         },
@@ -91,8 +91,8 @@
                 {
                     "title": "기념일",
                     "detail": "∞! 데뷔 1주년",
-                    "time": "0",
-                    "member": "Hatchi (지우, 채연, 유연, 수민, 코토네, 마유, 시온, 채원)"
+                    "member": [3,4,5,6,11,16,20,21],
+                    "unit": "Hatchi"
                 }
             ]
         },
@@ -138,8 +138,8 @@
                 {
                     "title": "기념일",
                     "detail": "설린 생일",
-                    "time": "0",
-                    "member": "0"
+                    "member": [22],
+                    "hideMember": true
                 }
             ]
         }

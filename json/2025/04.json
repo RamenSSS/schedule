@@ -13,7 +13,7 @@
                     "title": "행사",
                     "detail": "Southeast Asia Blockchain Week",
                     "time": "11:00 UTC+7",
-                    "member": "카에데, 니엔, 시온, 설린"
+                    "member": [9,13,20,22]
                 }
             ]
         },
@@ -23,14 +23,14 @@
                 {
                     "title": "기념일",
                     "detail": "시온 생일",
-                    "time": "0",
-                    "member": "0"
+                    "member": [20],
+                    "hideMember": true
                 },
                 {
                     "title": "팬싸",
                     "detail": "Objekt Trading in SEABW",
                     "time": "11:00 UTC+7",
-                    "member": "카에데, 니엔, 시온, 설린"
+                    "member": [9,13,20,22]
                 }
             ]
         },
@@ -49,7 +49,8 @@
                     "title": "팬싸",
                     "detail": "에버라인 (대면, 단체 영상통화)",
                     "time": "13:00",
-                    "member": "VV (혜린, 유연, 나경, 유빈, 카에데, 코토네, 연지, 니엔, 소현, 신위, 린, 지연)"
+                    "member": [2,5,7,8,9,11,12,13,14,15,17,24],
+                    "unit": "VV"
                 }
             ]
         },
@@ -79,20 +80,22 @@
                 {
                     "title": "기념일",
                     "detail": "혜린 생일",
-                    "time": "0",
-                    "member": "0"
+                    "member": [2],
+                    "hideMember": true
                 },
                 {
                     "title": "기념일",
                     "detail": "린 생일",
-                    "time": "0",
-                    "member": "0"
+                    "member": [17],
+                    "hideMember": true
                 },
                 {
                     "title": "공연",
                     "detail": "서핑 동아리 1기 발대식",
                     "time": "18:00",
-                    "member": "S1 ~ S24"
+                    "member": [1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24],
+                    "hideMember": true,
+                    "unit": "S1 ~ S24"
                 }
             ]
         },
@@ -122,8 +125,8 @@
                 {
                     "title": "기념일",
                     "detail": "소현 2주년",
-                    "time": "0",
-                    "member": "0"
+                    "member": [14],
+                    "hideMember": true
                 }
             ]
         },
@@ -134,13 +137,13 @@
                     "title": "팬싸",
                     "detail": "Objekt Cafe in Singapore",
                     "time": "15:00 UTC+8",
-                    "member": "유연, 나경, 니엔, 지연"
+                    "member": [5,7,13,24]
                 },
                 {
                     "title": "팬싸",
                     "detail": "Infinity Kpop (대면)",
                     "time": "17:30 UTC+8",
-                    "member": "유연, 나경, 니엔, 지연"
+                    "member": [5,7,13,24]
                 }
             ]
         },
@@ -175,7 +178,7 @@
                     "title": "행사",
                     "detail": "K-FLOW3 CONCERT in TAIWAN",
                     "time": "17:00 UTC+8",
-                    "member": "지우, 유연, 나경, 카에데, 코토네, 니엔, 린, 지연"
+                    "member": [3,5,7,9,11,13,17,24]
                 }
             ]
         },

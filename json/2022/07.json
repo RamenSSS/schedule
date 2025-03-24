@@ -25,7 +25,7 @@
                     "title": "라이브",
                     "detail": "유튜브",
                     "time": "22:00",
-                    "member": "서연, 혜린"
+                    "member": [1,2]
                 }
             ]
         },
@@ -35,8 +35,8 @@
                 {
                     "title": "행사",
                     "detail": "GS리테일 협약식",
-                    "time": "0",
-                    "member": "서연, 혜린, 지우, 채연"
+                    "time": null,
+                    "member": [1,2,3,4]
                 }
             ]
         },
@@ -67,7 +67,7 @@
                     "title": "라이브",
                     "detail": "유튜브",
                     "time": "22:00",
-                    "member": "채연"
+                    "member": [4]
                 }
             ]
         },
@@ -82,7 +82,7 @@
                     "title": "라이브",
                     "detail": "유튜브",
                     "time": "18:00",
-                    "member": "서연, 혜린, 지우, 채연"
+                    "member": [1,2,3,4]
                 }
             ]
         },
@@ -104,8 +104,8 @@
                 {
                     "title": "기념일",
                     "detail": "유연 입주",
-                    "time": "0",
-                    "member": "0"
+                    "member": [5],
+                    "hideMember": true
                 }
             ]
         },
@@ -116,7 +116,7 @@
                     "title": "라이브",
                     "detail": "유튜브",
                     "time": "22:00",
-                    "member": "지우, 유연"
+                    "member": [3,5]
                 }
             ]
         },
@@ -131,7 +131,7 @@
                     "title": "라이브",
                     "detail": "유튜브",
                     "time": "22:00",
-                    "member": "서연, 채연, 유연"
+                    "member": [1,4,5]
                 }
             ]
         },
@@ -158,7 +158,7 @@
                     "title": "라이브",
                     "detail": "유튜브",
                     "time": "22:00",
-                    "member": "지우"
+                    "member": [3]
                 }
             ]
         },
@@ -170,16 +170,15 @@
             "dates": "28",
             "schedule": [
                 {
-                    "title": "기타",
+                    "title": "비공식",
                     "detail": "GS Pay 광고 촬영",
-                    "time": "0",
-                    "member": "채연, 유연"
+                    "member": [4,5]
                 },
                 {
                     "title": "라이브",
                     "detail": "유튜브",
                     "time": "22:00",
-                    "member": "혜린"
+                    "member": [2]
                 }
             ]
         },

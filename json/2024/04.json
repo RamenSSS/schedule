@@ -16,8 +16,8 @@
                 {
                     "title": "기념일",
                     "detail": "시온 생일",
-                    "time": "0",
-                    "member": "0"
+                    "member": [20],
+                    "hideMember": true
                 }
             ]
         },
@@ -45,10 +45,10 @@
             "dates": "9",
             "schedule": [
                 {
-                    "title" : "라이브",
-                    "detail" : "유튜브",
-                    "time" : "22:00",
-                    "member" : "하연, 채원"
+                    "title": "라이브",
+                    "detail": "유튜브",
+                    "time": "22:00",
+                    "member": [19,21]
                 }
             ]
         },
@@ -56,10 +56,10 @@
             "dates": "10",
             "schedule": [
                 {
-                    "title" : "라이브",
-                    "detail" : "유튜브",
-                    "time" : "22:00",
-                    "member" : "소현"
+                    "title": "라이브",
+                    "detail": "유튜브",
+                    "time": "22:00",
+                    "member": [14]
                 }
             ]
         },
@@ -67,10 +67,10 @@
             "dates": "11",
             "schedule": [
                 {
-                    "title" : "라이브",
-                    "detail" : "웨이보",
-                    "time" : "22:00",
-                    "member" : "서연, 유연, 니엔, 신위"
+                    "title": "라이브",
+                    "detail": "웨이보",
+                    "time": "22:00",
+                    "member": [1,5,13,15]
                 }
             ]
         },
@@ -80,14 +80,14 @@
                 {
                     "title": "기념일",
                     "detail": "혜린 생일",
-                    "time": "0",
-                    "member": "0"
+                    "member": [2],
+                    "hideMember": true
                 },
                 {
                     "title": "기념일",
                     "detail": "린 생일",
-                    "time": "0",
-                    "member": "0"
+                    "member": [17],
+                    "hideMember": true
                 }
             ]
         },
@@ -95,10 +95,10 @@
             "dates": "13",
             "schedule": [
                 {
-                    "title" : "팬싸",
-                    "detail" : "imini.tv (영통)",
-                    "time" : "16:00",
-                    "member" : "서연, 유연, 수민, 나경, 유빈, 니엔, 소현, 신위"
+                    "title": "팬싸",
+                    "detail": "imini.tv (영통)",
+                    "time": "16:00",
+                    "member": [1,5,6,7,8,13,14,15]
                 }
             ]
         },
@@ -114,10 +114,10 @@
             "dates": "16",
             "schedule": [
                 {
-                    "title" : "라이브",
-                    "detail" : "유튜브",
-                    "time" : "22:00",
-                    "member" : "서연, 서아, 지연"
+                    "title": "라이브",
+                    "detail": "유튜브",
+                    "time": "22:00",
+                    "member": [1,23,24]
                 }
             ]
         },
@@ -125,10 +125,10 @@
             "dates": "17",
             "schedule": [
                 {
-                    "title" : "라이브",
-                    "detail" : "유튜브",
-                    "time" : "22:00",
-                    "member" : "유연, 니엔, 신위, 린"
+                    "title": "라이브",
+                    "detail": "유튜브",
+                    "time": "22:00",
+                    "member": [5,13,15,17]
                 }
             ]
         },
@@ -138,20 +138,20 @@
                 {
                     "title": "기념일",
                     "detail": "소현 1주년",
-                    "time": "0",
-                    "member": "0"
+                    "member": [14],
+                    "hideMember": true
                 },
                 {
-                    "title" : "라이브",
-                    "detail" : "웨이보",
-                    "time" : "22:00",
-                    "member" : "신위"
+                    "title": "라이브",
+                    "detail": "웨이보",
+                    "time": "22:00",
+                    "member": [15]
                 },
                 {
-                    "title" : "행사",
-                    "detail" : "TOKEN2049 DUBAI",
-                    "time" : "20:00 UTC+4",
-                    "member" : "유연, 유빈, 카에데, 코토네"
+                    "title": "행사",
+                    "detail": "TOKEN2049 DUBAI",
+                    "time": "20:00 UTC+4",
+                    "member": [5,8,9,11]
                 }
             ]
         },
@@ -163,10 +163,9 @@
             "dates": "20",
             "schedule": [
                 {
-                    "title" : "팬싸",
-                    "detail" : "imini.tv (대면)",
-                    "time" : "0",
-                    "member" : "신위"
+                    "title": "팬싸",
+                    "detail": "imini.tv (대면)",
+                    "member": [15]
                 }
             ]
         },
@@ -186,10 +185,10 @@
             "dates": "24",
             "schedule": [
                 {
-                    "title" : "라이브",
-                    "detail" : "유튜브",
-                    "time" : "22:00",
-                    "member" : "하연"
+                    "title": "라이브",
+                    "detail": "유튜브",
+                    "time": "22:00",
+                    "member": [19]
                 }
             ]
         },
@@ -197,16 +196,15 @@
             "dates": "25",
             "schedule": [
                 {
-                    "title" : "라이브",
-                    "detail" : "웨이보",
-                    "time" : "22:00",
-                    "member" : "혜린, 수민, 연지"
+                    "title": "라이브",
+                    "detail": "웨이보",
+                    "time": "22:00",
+                    "member": [2,6,12]
                 },
                 {
-                    "title" : "행사",
-                    "detail" : "Southeast Asia Blockchain Week",
-                    "time" : "0",
-                    "member" : "서연, 채연, 나경, 다현, 니엔, 소현, 신위, 마유, 설린"
+                    "title": "행사",
+                    "detail": "Southeast Asia Blockchain Week",
+                    "member": [1,4,7,10,13,14,15,16,22]
                 }
             ]
         },
@@ -226,10 +224,12 @@
             "dates": "29",
             "schedule": [
                 {
-                    "title" : "라이브",
-                    "detail" : "주간아이돌",
-                    "time" : "10:30",
-                    "member" : "S1 ~ S24"
+                    "title": "라이브",
+                    "detail": "주간아이돌",
+                    "time": "10:30",
+                    "member": [1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24],
+                    "hideMember": true,
+                    "unit": "S1 ~ S24"
                 }
             ]
         },
