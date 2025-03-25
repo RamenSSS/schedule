@@ -268,15 +268,15 @@
             "dates": "23",
             "schedule": [
                 {
-                    "title": "음반",
-                    "detail": "〈Performante〉 발매",
+                    "title": "발매",
+                    "detail": "앨범 〈Performante〉",
                     "time": "18:00",
                     "member": [2,5,7,8,9,11,12,13,14,15,17,24],
                     "unit": "VV"
                 },
                 {
-                    "title": "뮤비",
-                    "detail": "Hit the Floor 공개",
+                    "title": "발매",
+                    "detail": "MV \"Hit the Floor\"",
                     "time": "18:00",
                     "member": [2,5,7,8,9,11,12,13,14,15,17,24],
                     "unit": "VV"

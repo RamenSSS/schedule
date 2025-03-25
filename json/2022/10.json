@@ -235,8 +235,8 @@
             "dates": "28",
             "schedule": [
                 {
-                    "title": "뮤비",
-                    "detail": "Generation 공개",
+                    "title": "발매",
+                    "detail": "MV \"Generation\"",
                     "time": "00:00",
                     "member": [2,5,7,8],
                     "unit": "AAA"
@@ -249,8 +249,8 @@
                     "unit": "AAA"
                 },
                 {
-                    "title": "음반",
-                    "detail": "〈ACCESS〉 발매",
+                    "title": "발매",
+                    "detail": "앨범 〈ACCESS〉",
                     "time": "18:00",
                     "member": [2,5,7,8],
                     "unit": "AAA"

@@ -255,8 +255,8 @@
             "dates": "21",
             "schedule": [
                 {
-                    "title": "음반",
-                    "detail": "〈Inner Dance〉 발매",
+                    "title": "발매",
+                    "detail": "앨범 〈Inner Dance〉",
                     "time": "18:00",
                     "member": [21,22,23,24],
                     "unit": "Glow"

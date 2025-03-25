@@ -39,7 +39,14 @@
         },
         {
             "dates": "4",
-            "schedule": []
+            "schedule": [
+                {
+                    "title": "발매",
+                    "detail": "OST \"Paindrop\"",
+                    "time": "12:00",
+                    "member": [1,3,8,14]
+                }
+            ]
         },
         {
             "dates": "5",

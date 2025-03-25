@@ -10,9 +10,12 @@
             "dates": "2",
             "schedule": [
                 {
-                    "title": "음반",
-                    "detail": "〈4study 4work 4inst Vol.1〉 발매",
-                    "time": "18:00"
+                    "title": "발매",
+                    "detail": "앨범 〈4study4work4inst Vol.1〉",
+                    "time": "18:00",
+                    "member": [1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20],
+                    "hideMember": true,
+                    "unit": "S1 ~ S20"
                 },
                 {
                     "title": "음방",
@@ -65,6 +68,12 @@
         {
             "dates": "4",
             "schedule": [
+                {
+                    "title": "발매",
+                    "detail": "OST \"바램\"",
+                    "time": "12:00",
+                    "member": [10]
+                },
                 {
                     "title": "공연",
                     "detail": "Authentic in Seoul",

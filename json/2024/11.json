@@ -293,6 +293,12 @@
                     "member": [4,19]
                 },
                 {
+                    "title": "발매",
+                    "detail": "OST \"Polaroid\"",
+                    "time": "18:00",
+                    "member": [7,16,20,21]
+                },
+                {
                     "title": "팬싸",
                     "detail": "점프업이엔티 (대면, 영통)",
                     "time": "19:00",
@@ -335,8 +341,8 @@
             "dates": "18",
             "schedule": [
                 {
-                    "title": "뮤비",
-                    "detail": "アンタイトル 공개",
+                    "title": "발매",
+                    "detail": "MV \"アンタイトル\"",
                     "time": "21:00",
                     "member": [3,4,5,6,11,16,20,21],
                     "unit": "∞!"
@@ -359,8 +365,8 @@
             "dates": "20",
             "schedule": [
                 {
-                    "title": "음반",
-                    "detail": "〈アンタイトル〉 발매",
+                    "title": "발매",
+                    "detail": "앨범 〈アンタイトル〉",
                     "time": "00:00",
                     "member": [3,4,5,6,11,16,20,21],
                     "unit": "∞!"
@@ -439,6 +445,12 @@
         {
             "dates": "26",
             "schedule": [
+                {
+                    "title": "발매",
+                    "detail": "OST \"Dreaming\"",
+                    "time": "12:00",
+                    "member": [5,8,10,20]
+                },
                 {
                     "title": "공연",
                     "detail": "오사카",

@@ -92,15 +92,15 @@
             "dates": "11",
             "schedule": [
                 {
-                    "title": "음반",
-                    "detail": "〈⟡〉 발매",
+                    "title": "발매",
+                    "detail": "앨범 〈⟡〉",
                     "time": "18:00",
                     "member": [3,4,5,6,7,11,12,16],
                     "unit": "EVOLution"
                 },
                 {
-                    "title": "뮤비",
-                    "detail": "INVINCIBLE 공개",
+                    "title": "발매",
+                    "detail": "MV \"INVINCIBLE\"",
                     "time": "18:00",
                     "member": [3,4,5,6,7,11,12,16],
                     "unit": "EVOLution"

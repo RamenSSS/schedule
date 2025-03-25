@@ -272,6 +272,12 @@
             "dates": "24",
             "schedule": [
                 {
+                    "title": "발매",
+                    "detail": "앨범 〈Closer〉",
+                    "time": "18:00",
+                    "member": [7]
+                },
+                {
                     "title": "라이브",
                     "detail": "유튜브",
                     "time": "18:00",
@@ -303,6 +309,12 @@
         {
             "dates": "27",
             "schedule": [
+                {
+                    "title": "발매",
+                    "detail": "OST \"첫 눈이 내리는 오늘 밤\"",
+                    "time": "18:00",
+                    "member": [10]
+                },
                 {
                     "title": "팬싸",
                     "detail": "에버라인 (대면, 영통)",

@@ -109,8 +109,8 @@
                     "unit": "KRE"
                 },
                 {
-                    "title": "음반",
-                    "detail": "〈Cherry Gene〉 발매",
+                    "title": "발매",
+                    "detail": "앨범 〈Cherry Gene〉",
                     "time": "18:00",
                     "member": [1,2,3,4,5,6,7,8],
                     "hideMember": true,

@@ -200,15 +200,15 @@
             "dates": "17",
             "schedule": [
                 {
-                    "title": "뮤비",
-                    "detail": "Girls' Capitalism 공개",
+                    "title": "발매",
+                    "detail": "MV \"Girls' Capitalism\"",
                     "time": "00:00",
                     "member": [1,2,8,9,10,13,14,15],
                     "unit": "LOVElution"
                 },
                 {
-                    "title": "음반",
-                    "detail": "〈ↀ〉 발매",
+                    "title": "발매",
+                    "detail": "앨범 〈ↀ〉",
                     "time": "18:00",
                     "member": [1,2,8,9,10,13,14,15],
                     "unit": "LOVElution"
