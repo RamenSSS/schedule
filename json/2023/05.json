@@ -137,6 +137,7 @@
                 {
                     "title": "행사",
                     "detail": "평택대",
+                    "time": "20:10",
                     "member": [2,5,7,8],
                     "unit": "AAA"
                 }
@@ -195,6 +196,7 @@
                 {
                     "title": "행사",
                     "detail": "계명대",
+                    "time": "21:00",
                     "member": [1,3,4,6],
                     "unit": "KRE"
                 }
@@ -206,12 +208,14 @@
                 {
                     "title": "행사",
                     "detail": "한림대",
+                    "time": "18:30",
                     "member": [1,3,4,6],
                     "unit": "KRE"
                 },
                 {
                     "title": "행사",
                     "detail": "고려대 세종캠",
+                    "time": "21:30",
                     "member": [1,3,4,6],
                     "unit": "KRE"
                 }
@@ -229,6 +233,7 @@
                 {
                     "title": "행사",
                     "detail": "단국대 죽전캠",
+                    "time": "20:15",
                     "member": [1,3,4,6],
                     "unit": "KRE"
                 },
@@ -298,6 +303,7 @@
                 {
                     "title": "행사",
                     "detail": "시립대",
+                    "time": "21:00",
                     "member": [1,3,4,6],
                     "unit": "KRE"
                 },
@@ -315,6 +321,7 @@
                 {
                     "title": "행사",
                     "detail": "한남대",
+                    "time": "20:00",
                     "member": [1,3,4,6],
                     "unit": "KRE"
                 }
@@ -326,6 +333,7 @@
                 {
                     "title": "행사",
                     "detail": "서경대",
+                    "time": "20:30",
                     "member": [1,3,4,6],
                     "unit": "KRE"
                 },
@@ -399,6 +407,7 @@
                 {
                     "title": "행사",
                     "detail": "국민대",
+                    "time": "21:00",
                     "member": [1,3,4,6],
                     "unit": "KRE"
                 },
