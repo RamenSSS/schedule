@@ -242,7 +242,13 @@
         },
         {
             "dates": "26",
-            "schedule": []
+            "schedule": [
+                {
+                    "title": "비공식",
+                    "detail": "코리아 글로벌 스터디 트립",
+                    "member": [1,5,15,18]
+                }
+            ]
         },
         {
             "dates": "27",
