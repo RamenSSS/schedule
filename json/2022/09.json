@@ -36,7 +36,9 @@
                     "title": "라이브",
                     "detail": "유튜브",
                     "time": "22:00",
-                    "member": [0]
+                    "member": [1,2,3,4,5,6,7],
+                    "hideMember": true,
+                    "unit": "S1 ~ S7"
                 }
             ]
         },
