@@ -8,14 +8,7 @@
         },
         {
             "dates": "2",
-            "schedule": [
-                {
-                    "title": "행사",
-                    "detail": "Southeast Asia Blockchain Week",
-                    "time": "11:00 UTC+7",
-                    "member": [9,13,20,22]
-                }
-            ]
+            "schedule": []
         },
         {
             "dates": "3",
@@ -25,12 +18,6 @@
                     "detail": "시온 생일",
                     "member": [20],
                     "hideMember": true
-                },
-                {
-                    "title": "팬싸",
-                    "detail": "Objekt Trading in SEABW",
-                    "time": "11:00 UTC+7",
-                    "member": [9,13,20,22]
                 }
             ]
         },
