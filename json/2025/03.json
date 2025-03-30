@@ -277,6 +277,12 @@
                     "detail": "〈tripleS Come True〉 서울",
                     "time": "16:00",
                     "member": [1,7,10,13,18,19,22,23]
+                },
+                {
+                    "title": "비공식",
+                    "detail": "〈tripleS Come True〉 관람",
+                    "time": "16:00",
+                    "member": [5,21]
                 }
             ]
         },
