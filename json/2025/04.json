@@ -4,11 +4,25 @@
     "results": [
         {
             "dates": "1",
-            "schedule": []
+            "schedule": [
+                {
+                    "title": "라이브",
+                    "detail": "유튜브",
+                    "time": "22:00",
+                    "member": [19,21]
+                }
+            ]
         },
         {
             "dates": "2",
-            "schedule": []
+            "schedule": [
+                {
+                    "title": "라이브",
+                    "detail": "유튜브",
+                    "time": "22:00",
+                    "member": [9,10]
+                }
+            ]
         },
         {
             "dates": "3",
