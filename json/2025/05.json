@@ -199,7 +199,12 @@
         },
         {
             "dates": "31",
-            "schedule": []
+            "schedule": [
+                {
+                    "title": "행사",
+                    "detail": "SBS MEGA 콘서트"
+                }
+            ]
         }
     ]
 }
