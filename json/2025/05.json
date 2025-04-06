@@ -45,6 +45,10 @@
                     "title": "행사",
                     "detail": "베이징 Strawberry Music Festival",
                     "member": [9,11,13,15,16,17,22]
+                },
+                {
+                    "title": "행사",
+                    "detail": "춘향제"
                 }
             ]
         },
