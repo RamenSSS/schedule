@@ -78,6 +78,12 @@
             "dates": "10",
             "schedule": [
                 {
+                    "title": "기념일",
+                    "detail": "설린 1주년",
+                    "member": [22],
+                    "hideMember": true
+                },
+                {
                     "title": "팬싸",
                     "detail": "에버라인 (단체 영상통화, 1:1 영상통화)",
                     "time": "19:00",
@@ -95,6 +101,12 @@
         {
             "dates": "11",
             "schedule": [
+                {
+                    "title": "기념일",
+                    "detail": "서아 1주년",
+                    "member": [23],
+                    "hideMember": true
+                },
                 {
                     "title": "팬싸",
                     "detail": "위드뮤 (대면, 1:1 영상통화)",
@@ -132,6 +144,12 @@
         {
             "dates": "13",
             "schedule": [
+                {
+                    "title": "기념일",
+                    "detail": "지연 1주년",
+                    "member": [24],
+                    "hideMember": true
+                },
                 {
                     "title": "팬싸",
                     "detail": "에버라인 (대면, 단체 영상통화)",
