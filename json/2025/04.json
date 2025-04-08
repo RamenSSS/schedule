@@ -65,7 +65,14 @@
         },
         {
             "dates": "9",
-            "schedule": []
+            "schedule": [
+                {
+                    "title": "기념일",
+                    "detail": "채원 1주년",
+                    "member": [21],
+                    "hideMember": true
+                }
+            ]
         },
         {
             "dates": "10",
