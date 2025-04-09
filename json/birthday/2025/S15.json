@@ -1,0 +1,37 @@
+{
+    "cafe": [
+        {
+            "twitter": {
+                "status": [
+                    true,
+                    true
+                ],
+                "tweets": [
+                    "Kittyyyyyyyyya/status/1909985671810527322",
+                    "Xinyu_pinkdiary/status/1909984764104155445"
+                ],
+                "tags": [
+                    "Best_여자주인공_여신위"
+                ],
+                "imageLinks": [
+                    "GoGhy_YbQAAQbTP",
+                    "GoGhy_iaMAAcjdK"
+                ]
+            },
+            "startDate": 24,
+            "endDate": 25,
+            "locate": {
+                "name": "ovo",
+                "address": "서울 마포구 양화로7안길 42 1층",
+                "kakaoMap": {
+                    "timestamp": "1739719030450",
+                    "key": "2n3zr"
+                },
+                "googleMap": "!1m18!1m12!1m3!1d3163.066982989581!2d126.91270027571186!3d37.553485624876714!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x357c990051a541eb%3A0x335d92ff3208eda9!2scafe%20ovo!5e0!3m2!1sko!2skr!4v1739719050377!5m2!1sko!2skr",
+                "naverMap": "5mI0JQz0"
+            }
+        }
+    ],
+    "photo": [],
+    "ad": []
+}
