@@ -2,9 +2,6 @@
     "cafe": [
         {
             "twitter": {
-                "status": [
-                    false
-                ],
                 "tweets": [
                     "Limitless0203/status/1617462181859295232"
                 ],
@@ -22,11 +19,11 @@
             "locate": {
                 "name": "어닝서프라이즈 청담테라스",
                 "address": "서울 강남구 삼성로135길 28",
-                "kakaoMap": {
+                "embed": {
                     "timestamp": "1711817974182",
                     "key": "2iqjh"
                 },
-                "googleMap": "!1m18!1m12!1m3!1d3164.4925004866172!2d127.0444691757105!3d37.519886126801964!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x357ca4711748f81b%3A0x546c89f18adb989d!2z7Ja064ud7ISc7ZSE65287J207KaIIOyyreuLtO2FjOudvOyKpA!5e0!3m2!1sko!2skr!4v1711817988551!5m2!1sko!2skr"
+                "naver": ""
             }
         }
     ],

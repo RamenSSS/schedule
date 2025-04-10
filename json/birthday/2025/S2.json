@@ -2,10 +2,6 @@
     "cafe": [
         {
             "twitter": {
-                "status": [
-                    true,
-                    true
-                ],
                 "tweets": [
                     "S2_HRz/status/1900564686237782236",
                     "wav_chan/status/1900564890743407054"
@@ -24,19 +20,17 @@
             "locate": {
                 "name": "카페 위밋데얼",
                 "address": "서울 마포구 양화로16길 30 3층",
-                "kakaoMap": {
-                    "timestamp": "1741965480909",
-                    "key": "2ncab"
-                },
-                "googleMap": "!1m18!1m12!1m3!1d3163.0923764261875!2d126.91853967571188!3d37.552887324910905!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x357c9908fa43666f%3A0xc5ff1bb907381021!2z7Lm07Y6YIOychOuwi-uNsOyWvA!5e0!3m2!1sko!2skr!4v1741965502030!5m2!1sko!2skr",
-                "naverMap": "57VuQsxB"
+                "embed": {
+					"timestamp": "1744271499958",
+					"key": "2no7x"
+				},
+				"kakao": "N4Dg2vp0VB",
+				"google": "jWiQ6dwPLA5aJUSEA",
+                "naver": "57VuQsxB"
             }
         },
         {
             "twitter": {
-                "status": [
-                    true
-                ],
                 "tweets": [
                     "second_s2only/status/1902619139304468905"
                 ],
@@ -51,22 +45,20 @@
             },
             "startDate": 11,
             "endDate": 12,
-            "locate":{
+            "locate": {
                 "name": "카페코드",
                 "address": "서울 마포구 독막로15길 3-11 3층",
-                "kakaoMap": {
-                    "timestamp" : "1709970349183",
-                    "key" : "2if2k"
-                },
-                "googleMap": "!1m18!1m12!1m3!1d790.8211455516889!2d126.9207637696093!3d37.5483584615334!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x357c98d02f71bf55%3A0x1ce41a7bb9441c35!2z7ISc7Jq47Yq567OE7IucIOuniO2PrOq1rCDrj4Xrp4nroZwxNeq4uCAzLTEx!5e0!3m2!1sko!2skr!4v1710058428359!5m2!1sko!2skr",
-                "naverMap": "GKvseW3y"
+                "embed": {
+					"timestamp": "1744271583633",
+					"key": "2no7y"
+				},
+				"kakao": "n3gSKP9_LX",
+				"google": "6V4Mu2gJTtKWqn8t9",
+                "naver": "GKvseW3y"
             }
         },
         {
             "twitter": {
-                "status": [
-                    true
-                ],
                 "tweets": [
                     "mycatisstaar/status/1904793441483264046"
                 ],
@@ -84,12 +76,13 @@
             "locate": {
                 "name": "로얄마카롱",
                 "address": "서울 강남구 테헤란로25길 26 3층",
-                "kakaoMap": {
-                    "timestamp" : "1709970284788",
-                    "key" : "2if2j"
-                },
-                "googleMap": "!1m18!1m12!1m3!1d12661.74042458617!2d127.02226705675696!3d37.497654778286076!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x357ca39c47187c73%3A0x20c661156d1b4432!2z66Gc7JaE66eI7Lm066Gx!5e0!3m2!1sko!2skr!4v1710058291592!5m2!1sko!2skr",
-                "naverMap": "IxD7eEbf"
+                "embed": {
+					"timestamp": "1744271656134",
+					"key": "2no82"
+				},
+				"kakao": "XdqyzVmqrX",
+				"google": "N3ZN8PtFV5Wef1dj8",
+                "naver": "IxD7eEbf"
             }
         }
     ],

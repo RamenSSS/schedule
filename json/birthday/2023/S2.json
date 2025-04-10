@@ -2,9 +2,6 @@
     "cafe": [
         {
             "twitter": {
-                "status": [
-                    true
-                ],
                 "tweets": [
                     "tripleS_stream/status/1638415994413809664"
                 ],
@@ -22,20 +19,15 @@
             "locate": {
                 "name": "카페린",
                 "address": "서울 강남구 학동로67길 7 1층",
-                "kakaoMap": {
+                "embed": {
                     "timestamp": "1710679246845",
                     "key": "2ijt5"
                 },
-                "googleMap": "!1m18!1m12!1m3!1d25318.819497361634!2d127.00547289439764!3d37.5113983486272!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x357ca597dda1f54d%3A0xf2bae1f8a345ef0e!2z7Lm07Y6Y66aw!5e0!3m2!1sko!2skr!4v1710679266322!5m2!1sko!2skr",
-                "naverMap": "5SWD4ZYi"
+                "naver": "5SWD4ZYi"
             }
         },
         {
             "twitter": {
-                "status": [
-                    true,
-                    true
-                ],
                 "tweets": [
                     "check0412/status/1640338837523275778",
                     "_tripleS2/status/1640337943524147200"
@@ -54,21 +46,17 @@
             "locate": {
                 "name": "카페 날웃게해",
                 "address": "서울 강남구 논현로119길 17-4",
-                "kakaoMap": {
+                "embed": {
                     "timestamp": "1711811509767",
                     "key": "2iqjc"
                 },
-                "googleMap": "!1m18!1m12!1m3!1d3164.9197294271376!2d127.02860687570993!3d37.5098113273791!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x357ca31eaf39471d%3A0x401bcb96fd239cd6!2z7Lm07Y6YIOuCoOybg-qyjO2VtA!5e0!3m2!1sko!2skr!4v1711811549984!5m2!1sko!2skr",
-                "naverMap": "FQaRX2C7"
+                "naver": "FQaRX2C7"
             }
         }
     ],
     "photo": [
         {
             "twitter": {
-                "status": [
-                    false
-                ],
                 "tweets": [
                     "hye_rinlv/status/1633098216404135944"
                 ],
@@ -82,12 +70,11 @@
             "locate": {
                 "name": "RGB포토스튜디오 홍대입구역점",
                 "address": "서울 마포구 와우산로27길 28",
-                "kakaoMap": {
+                "embed": {
                     "timestamp": "1711819800387",
                     "key": "2iqjj"
                 },
-                "googleMap": "!1m18!1m12!1m3!1d3163.024093910073!2d126.92435707571175!3d37.55449612481865!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x357c98c3d750409d%3A0xe25347fae3256cea!2z7ISc7Jq47Yq567OE7IucIOuniO2PrOq1rCDsmYDsmrDsgrDroZwyN-q4uCAyOA!5e0!3m2!1sko!2skr!4v1711819866513!5m2!1sko!2skr",
-                "naverMap": "5x04Ttag"
+                "naver": "5x04Ttag"
             }
         }
     ],

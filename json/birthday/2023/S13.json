@@ -2,9 +2,6 @@
     "cafe": [
         {
             "twitter": {
-                "status": [
-                    true
-                ],
                 "tweets": [
                     "tripleS_stream/status/1659031284000378880"
                 ],
@@ -21,12 +18,11 @@
             "locate": {
                 "name": "카페 블랑코",
                 "address": "서울특별시 서초구 주흥길 64-17",
-                "kakaoMap": {
+                "embed": {
                     "timestamp": "1711809922716",
                     "key": "2iqjb"
                 },
-                "googleMap": "!1m18!1m12!1m3!1d3164.954171313945!2d127.0168341757098!3d37.50899902742564!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x357ca3e0bc80d7d5%3A0x343d2d435b0bac5b!2z7ISc7Jq47Yq567OE7IucIOyEnOy0iOq1rCDso7ztnaXquLggNjQtMTc!5e0!3m2!1sko!2skr!4v1711810076691!5m2!1sko!2skr",
-                "naverMap": "5Ac6CMOm"
+                "naver": "5Ac6CMOm"
             }
         }
     ],

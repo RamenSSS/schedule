@@ -2,9 +2,6 @@
     "cafe": [
         {
             "twitter": {
-                "status": [
-                    true
-                ],
                 "tweets": [
                     "posh1204/status/1858079686628454490"
                 ],
@@ -21,20 +18,15 @@
             "locate": {
                 "name": "로얄마카롱",
                 "address": "서울 강남구 테헤란로25길 26 3층",
-                "kakaoMap": {
-                    "timestamp" : "1709970284788",
-                    "key" : "2if2j"
+                "embed": {
+                    "timestamp": "1709970284788",
+                    "key": "2if2j"
                 },
-                "googleMap": "!1m18!1m12!1m3!1d12661.74042458617!2d127.02226705675696!3d37.497654778286076!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x357ca39c47187c73%3A0x20c661156d1b4432!2z66Gc7JaE66eI7Lm066Gx!5e0!3m2!1sko!2skr!4v1710058291592!5m2!1sko!2skr",
-                "naverMap": "IxD7eEbf"
+                "naver": "IxD7eEbf"
             }
         },
         {
             "twitter": {
-                "status": [
-                    true,
-                    true
-                ],
                 "tweets": [
                     "chaechaeby/status/1859824127160242396",
                     "vea_peach/status/1859824130109079937"
@@ -53,12 +45,11 @@
             "locate": {
                 "name": "로우필름 카페앤갤러리",
                 "address": "서울 마포구 독막로7길 44",
-                "kakaoMap": {
+                "embed": {
                     "timestamp": "1732254314584",
                     "key": "2mb75"
                 },
-                "googleMap": "!1m18!1m12!1m3!1d3163.229430516087!2d126.9173582757116!3d37.54965802509595!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x357c99809e4bd3c7%3A0x2f215e66e6cdbd9d!2z66Gc7Jqw7ZWE66aEIOy5tO2OmOyVpOqwpOufrOumrA!5e0!3m2!1sko!2skr!4v1732254340785!5m2!1sko!2skr",
-                "naverMap": "GcjFV2Jj"
+                "naver": "GcjFV2Jj"
             }
         }
     ],

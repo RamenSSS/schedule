@@ -2,9 +2,6 @@
     "cafe": [
         {
             "twitter": {
-                "status": [
-                    true
-                ],
                 "tweets": [
                     "snowlotus0209/status/1617824567925571584"
                 ],
@@ -21,18 +18,15 @@
             "locate": {
                 "name": "어닝서프라이즈 청담테라스",
                 "address": "서울 강남구 삼성로135길 28",
-                "kakaoMap": {
+                "embed": {
                     "timestamp": "1711817974182",
                     "key": "2iqjh"
                 },
-                "googleMap": "!1m18!1m12!1m3!1d3164.4925004866172!2d127.0444691757105!3d37.519886126801964!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x357ca4711748f81b%3A0x546c89f18adb989d!2z7Ja064ud7ISc7ZSE65287J207KaIIOyyreuLtO2FjOudvOyKpA!5e0!3m2!1sko!2skr!4v1711817988551!5m2!1sko!2skr"
+                "naver": ""
             }
         },
         {
             "twitter": {
-                "status": [
-                    false
-                ],
                 "tweets": [
                     "YYNS_yyns/status/1608057041683369990"
                 ],
@@ -50,21 +44,17 @@
             "locate": {
                 "name": "카페써드",
                 "address": "서울 강남구 선릉로131길 11 1층",
-                "kakaoMap": {
+                "embed": {
                     "timestamp": "1711818531974",
                     "key": "2iqji"
                 },
-                "googleMap": "!1m18!1m12!1m3!1d3164.599060325894!2d127.03726672571023!3d37.517373476945934!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x357ca38aa1d0c77b%3A0xd0d28ba9ef94a952!2z7Lm07Y6Y7I2o65Oc!5e0!3m2!1sko!2skr!4v1711818544900!5m2!1sko!2skr",
-                "naverMap": "5fnjIgH0"
+                "naver": "5fnjIgH0"
             }
         }
     ],
     "photo": [
         {
             "twitter": {
-                "status": [
-                    false
-                ],
                 "tweets": [
                     "R_kyy_/status/1608329234518528002"
                 ],
@@ -81,12 +71,11 @@
             "locate": {
                 "name": "RGB PHOTO STUDIO 합정점",
                 "address": "서울 마포구 독막로2길 27 1층",
-                "kakaoMap": {
+                "embed": {
                     "timestamp": "1711820968622",
                     "key": "2iqjk"
                 },
-                "googleMap": "!1m18!1m12!1m3!1d3163.329431686426!2d126.91205637571153!3d37.547301625231064!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x357c990077e72f95%3A0x76c37c781b38885f!2zUkdCIFBIT1RPIFNUVURJTyDtlansoJXsoJA!5e0!3m2!1sko!2skr!4v1711820982374!5m2!1sko!2skr",
-                "naverMap": "GoBP7pY5"
+                "naver": "GoBP7pY5"
             }
         }
     ],

@@ -2,9 +2,6 @@
     "cafe": [
         {
             "twitter": {
-                "status": [
-                    true
-                ],
                 "tweets": [
                     "Joo_BinGO/status/1868974477125861501"
                 ],
@@ -22,21 +19,17 @@
             "locate": {
                 "name": "카페 로얄마카롱 신사역점",
                 "address": "서울 강남구 도산대로1길 6 지하1층",
-                "kakaoMap": {
+                "embed": {
                     "timestamp": "1710680951544",
                     "key": "2ijte"
                 },
-                "googleMap": "!1m18!1m12!1m3!1d3164.609162850939!2d127.01556198453613!3d37.51713525491113!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x357ca3b54628afc9%3A0xc91da6519c4c4446!2z7Lm07Y6YIOuhnOyWhOuniOy5tOuhsSDsi6Dsgqzsl63soJA!5e0!3m2!1sko!2skr!4v1710680964833!5m2!1sko!2skr",
-                "naverMap": "GaMTVszl"
+                "naver": "GaMTVszl"
             }
         }
     ],
     "photo": [
         {
             "twitter": {
-                "status": [
-                    true
-                ],
                 "tweets": [
                     "Joo_BinGO/status/1876632161031479402"
                 ],
@@ -53,12 +46,11 @@
             "locate": {
                 "name": "더필름 가로수길점",
                 "address": "서울 강남구 압구정로2길 53 국제빌딩 1층",
-                "kakaoMap": {
+                "embed": {
                     "timestamp": "1736259186567",
                     "key": "2mpx9"
                 },
-                "googleMap": "!1m18!1m12!1m3!1d3164.552815803752!2d127.01875287571018!3d37.51846392688336!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x357ca3e3e198228d%3A0x525f07658d515c14!2z7Z2R67Cx7IKs7J6lIOuNlO2VhOumhCDqsIDroZzsiJjquLjsoJA!5e0!3m2!1sko!2skr!4v1736259285223!5m2!1sko!2skr",
-                "naverMap": "5vciP8mQ"
+                "naver": "5vciP8mQ"
             }
         }
     ],

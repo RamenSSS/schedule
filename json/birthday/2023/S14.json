@@ -2,10 +2,6 @@
     "cafe": [
         {
             "twitter": {
-                "status": [
-                    true,
-                    true
-                ],
                 "tweets": [
                     "SohyunNABI14/status/1705162051306549397",
                     "NakyJar1013/status/1705161528729813393"
@@ -24,19 +20,15 @@
             "locate": {
                 "name": "오엘커피",
                 "address": "서울 마포구 잔다리로 30-32 1층",
-                "kakaoMap": {
+                "embed": {
                     "timestamp": "1710659389222",
                     "key": "2ijrw"
                 },
-                "googleMap": "!1m18!1m12!1m3!1d3163.1338463964535!2d126.91750917571174!3d37.55191022496681!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x357c98daec4234d9%3A0xfa73af6e78cfb402!2z7Jik7JeY7Luk7ZS8!5e0!3m2!1sko!2skr!4v1710659415720!5m2!1sko!2skr",
-                "naverMap": "G3Kw58zA"
+                "naver": "G3Kw58zA"
             }
         },
         {
             "twitter": {
-                "status": [
-                    true
-                ],
                 "tweets": [
                     "Confused_SSS/status/1706974175775396139"
                 ],
@@ -54,12 +46,11 @@
             "locate": {
                 "name": "카페 레이어프로젝트",
                 "address": "서울 강남구 역삼로63길 19 1,2층",
-                "kakaoMap": {
-                    "timestamp" : "1709970209811",
-                    "key" : "2if2i"
+                "embed": {
+                    "timestamp": "1709970209811",
+                    "key": "2if2i"
                 },
-                "googleMap": "!1m18!1m12!1m3!1d3165.2346235559376!2d127.0519352!3d37.50238409999999!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x357ca55403fb04df%3A0xd5b40e31c4a6077f!2z7Lm07Y6YIOugiOydtOyWtO2UhOuhnOygne2KuA!5e0!3m2!1sko!2skr!4v1710058214014!5m2!1sko!2skr",
-                "naverMap": "Gvkdw5kv"
+                "naver": "Gvkdw5kv"
             }
         }
     ],

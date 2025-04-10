@@ -2,9 +2,6 @@
     "cafe": [
         {
             "twitter": {
-                "status": [
-                    true
-                ],
                 "tweets": [
                     "wav_chan/status/1768472228050665603"
                 ],
@@ -24,20 +21,15 @@
             "locate": {
                 "name": "플로이드",
                 "address": "서울 마포구 독막로15길 3-7 1층",
-                "kakaoMap": {
+                "embed": {
                     "timestamp": "1710678617140",
                     "key": "2ijsy"
                 },
-                "googleMap": "!1m18!1m12!1m3!1d3163.2900879499543!2d126.91890557571166!3d37.548228725177864!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x357c98d02f30a0af%3A0x7a6bc143ba92b301!2z7ZSM66Gc7J2065Oc!5e0!3m2!1sko!2skr!4v1710678647139!5m2!1sko!2skr",
-                "naverMap": "5girfxVj"
+                "naver": "5girfxVj"
             }
         },
         {
             "twitter": {
-                "status": [
-                    false,
-                    true
-                ],
                 "tweets": [
                     "Visionary0729/status/1771937871970070724",
                     "jjuging2_/status/1771884761256235284"
@@ -56,12 +48,11 @@
             "locate": {
                 "name": "카페 로얄마카롱 신사역점",
                 "address": "서울 강남구 도산대로1길 6 지하1층",
-                "kakaoMap": {
+                "embed": {
                     "timestamp": "1710680951544",
                     "key": "2ijte"
                 },
-                "googleMap": "!1m18!1m12!1m3!1d3164.609162850939!2d127.01556198453613!3d37.51713525491113!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x357ca3b54628afc9%3A0xc91da6519c4c4446!2z7Lm07Y6YIOuhnOyWhOuniOy5tOuhsSDsi6Dsgqzsl63soJA!5e0!3m2!1sko!2skr!4v1710680964833!5m2!1sko!2skr",
-                "naverMap": "GaMTVszl"
+                "naver": "GaMTVszl"
             }
         }
     ],
@@ -69,9 +60,6 @@
     "ad": [
         {
             "twitter": {
-                "status": [
-                    true
-                ],
                 "tweets": [
                     "luv_pangtal/status/1773742196270981591"
                 ],
@@ -87,21 +75,15 @@
             "locate": {
                 "name": "송파파인타운2단지.구립송파복지센터",
                 "address": "",
-                "kakaoMap": {
+                "embed": {
                     "timestamp": "1711799878580",
                     "key": "2iqjz"
                 },
-                "googleMap": "!1m18!1m12!1m3!1d1582.9825904149827!2d127.1321174476429!3d37.48514803025342!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x357caf66e7914e4b%3A0x7b6730b0afbf19ce!2z7Iah7YyM7YyM7J247YOA7Jq0MuuLqOyngC7qtazrpr3shqHtjIzrs7Xsp4DshLzthLA!5e0!3m2!1sko!2skr!4v1711799897892!5m2!1sko!2skr",
-                "naverMap": "5Bkobh7O"
+                "naver": "5Bkobh7O"
             }
         },
         {
             "twitter": {
-                "status": [
-                    true,
-                    true,
-                    true
-                ],
                 "tweets": [
                     "Visionary0729/status/1776450403024155057",
                     "jjuging2_/status/1771884780206080067",
@@ -121,12 +103,11 @@
             "locate": {
                 "name": "2호선 잠실역 3번출구 부근 롯데백화점 연결통로",
                 "address": "하단 사진 동그라미 부분",
-                "kakaoMap": {
+                "embed": {
                     "timestamp": "1712153139993",
                     "key": "2isfw"
                 },
-                "googleMap": "!1m18!1m12!1m3!1d342.4038648217066!2d127.09964833693253!3d37.51315732452846!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x357ca50a1302a1b1%3A0xa7ee3308e8504254!2z7J6g7Iuk!5e0!3m2!1sko!2skr!4v1712153176024!5m2!1sko!2skr",
-                "naverMap": "xlC8fDzI"
+                "naver": "xlC8fDzI"
             }
         }
     ]

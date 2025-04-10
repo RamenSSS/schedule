@@ -2,9 +2,6 @@
     "cafe": [
         {
             "twitter": {
-                "status": [
-                    true
-                ],
                 "tweets": [
                     "MapleSyrup_1220/status/1864988355592884533"
                 ],
@@ -21,12 +18,11 @@
             "locate": {
                 "name": "메가라운지",
                 "address": "서울 강남구 선릉로127길 11 1층 (서울특별시 강남구 논현동 242-40)",
-                "kakaoMap": {
+                "embed": {
                     "timestamp": "1733483221568",
                     "key": "2mfvb"
                 },
-                "googleMap": "!1m18!1m12!1m3!1d3164.667204319636!2d127.03845627941497!3d37.51576658626206!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x357ca5b3bb360411%3A0x6d9ba640e013498c!2z66mU6rCA65287Jq07KeA!5e0!3m2!1sko!2skr!4v1733483269388!5m2!1sko!2skr",
-                "naverMap": "5ux2I1dW"
+                "naver": "5ux2I1dW"
             }
         }
     ],

@@ -2,9 +2,6 @@
     "cafe": [
         {
             "twitter": {
-                "status": [
-                    true
-                ],
                 "tweets": [
                     "feelsogood1ynn/status/1890660333087596794"
                 ],
@@ -22,19 +19,17 @@
             "locate": {
                 "name": "카페 오소",
                 "address": "서울 마포구 홍익로2길 19 2층",
-                "kakaoMap": {
+                "embed": {
                     "timestamp": "1739604583186",
                     "key": "2n2vv"
                 },
-                "googleMap": "!1m18!1m12!1m3!1d3163.0217128051822!2d126.92120617571199!3d37.554552224815495!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x357c99644890da1f%3A0x7088a2fb1ca5325a!2z7Lm07Y6Y7Jik7IaM!5e0!3m2!1sko!2skr!4v1739604626384!5m2!1sko!2skr",
-                "naverMap": "GfCkVeHB"
+                "kakao": "zWKrSsBL1R",
+                "google": "5sb8iwMjRtJNHY7q9",
+                "naver": "GfCkVeHB"
             }
         },
         {
             "twitter": {
-                "status": [
-                    true
-                ],
                 "tweets": [
                     "9924boan/status/1892484497909719354"
                 ],
@@ -51,19 +46,17 @@
             "locate": {
                 "name": "카페 플루",
                 "address": "서울 마포구 와우산로33길 12 지하 1층",
-                "kakaoMap": {
-                    "timestamp": "1740039163703",
-                    "key": "2n4qy"
+                "embed": {
+                    "timestamp": "1744192520600",
+                    "key": "2nnst"
                 },
-                "googleMap": "!1m18!1m12!1m3!1d3162.9853804186264!2d126.92716867571201!3d37.555408224766424!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x357c99002973eb97%3A0x19b621f5ac1e305d!2z7Lm07Y6YIO2UjOujqA!5e0!3m2!1sko!2skr!4v1740039182813!5m2!1sko!2skr",
-                "naverMap": "FEUOiS94"
+                "kakao": "Uf4v5CWwDE",
+                "google": "KCKPYpLfbmhUkgsD7",
+                "naver": "FEUOiS94"
             }
         },
         {
             "twitter": {
-                "status": [
-                    true
-                ],
                 "tweets": [
                     "Lynng0412/status/1899720052691419143"
                 ],
@@ -80,19 +73,17 @@
             "locate": {
                 "name": "CAFE07",
                 "address": "서울 마포구 신촌로2안길 40 지하1층",
-                "kakaoMap": {
-                    "timestamp" : "1744092813366",
-                    "key" : "2nmuf"
+                "embed": {
+                    "timestamp": "1744193108518",
+                    "key": "2nnsx"
                 },
-                "googleMap": "!1m18!1m12!1m3!1d790.7315068422656!2d126.92845516960928!3d37.556806561412756!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x357c98ea76d871d3%3A0x557206729bb2beb4!2z7ISc7Jq47Yq567OE7IucIOuniO2PrOq1rCDsi6DstIzroZwy7JWI6ri4IDQw!5e0!3m2!1sko!2skr!4v1741766530352!5m2!1sko!2skr",
-                "naverMap": "xSFkpahi"
+                "kakao": "m6yDqWsOvy",
+                "google": "8YmhiFvC6deuMYaC7",
+                "naver": "xSFkpahi"
             }
         },
         {
             "twitter": {
-                "status": [
-                    true
-                ],
                 "tweets": [
                     "Now_We_Lynn/status/1899747344444486106"
                 ],
@@ -110,12 +101,13 @@
             "locate": {
                 "name": "하트클립",
                 "address": "서울 마포구 와우산로 161 2층 203호",
-                "kakaoMap": {
-                    "timestamp": "1736429954099",
-                    "key": "2mqmx"
+                "embed": {
+                    "timestamp": "1744193487330",
+                    "key": "2nnt2"
                 },
-                "googleMap": "!1m18!1m12!1m3!1d790.7467903856772!2d126.92968516960931!3d37.555366261433306!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x357c98c0316ee0b1%3A0x3d3c035f0bd87ce0!2z7ISc7Jq47Yq567OE7IucIOuniO2PrOq1rCDsmYDsmrDsgrDroZwgMTYxIDLsuLUgMjAz7Zi4!5e0!3m2!1sko!2skr!4v1736429992470!5m2!1sko!2skr",
-                "naverMap": "5du4tkep"
+                "kakao": "U0ts3T37uH",
+                "google": "JsEYA2DffyuvRX5u6",
+                "naver": "5du4tkep"
             }
         }
     ],
@@ -123,9 +115,6 @@
     "ad": [
         {
             "twitter": {
-                "status": [
-                    true
-                ],
                 "tweets": [
                     "O6LYNN/status/1899656706868793480"
                 ],
@@ -141,12 +130,13 @@
             "locate": {
                 "name": "7호선 강남구청역 CM보드 1번",
                 "address": "4번 출구 방면 지하 2층",
-                "kakaoMap": {
+                "embed": {
                     "timestamp": "1741754181734",
                     "key": "2nba3"
                 },
-                "googleMap": "!1m17!1m12!1m3!1d1151.6433403636431!2d127.04119851189793!3d37.51713691275694!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zMzfCsDMxJzAyLjIiTiAxMjfCsDAyJzMwLjQiRQ!5e0!3m2!1sko!2skr!4v1741755114668!5m2!1sko!2skr",
-                "naverMap": "55r90njP"
+				"kakao": "?urlX=509241.8750000005&urlY=1116065.625&name=%EC%84%9C%EC%9A%B8%ED%8A%B9%EB%B3%84%EC%8B%9C%20%EA%B0%95%EB%82%A8%EA%B5%AC%20%ED%95%99%EB%8F%99%EB%A1%9C%20%EC%A7%80%ED%95%98%20346",
+				"google": "tDM6m2rzUM6Ft6Kz6",
+                "naver": "55r90njP"
             }
         }
     ]

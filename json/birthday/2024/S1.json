@@ -2,9 +2,6 @@
     "cafe": [
         {
             "twitter": {
-                "status": [
-                    true
-                ],
                 "tweets": [
                     "S2O806/status/1812472137938305164"
                 ],
@@ -18,24 +15,20 @@
             },
             "startDate": 4,
             "endDate": 6,
-            "locate":{
+            "locate": {
                 "name": "카페코드",
                 "address": "서울 마포구 독막로15길 3-11 3층",
-                "kakaoMap": {
-                    "timestamp" : "1709970349183",
-                    "key" : "2if2k"
+                "embed": {
+                    "timestamp": "1709970349183",
+                    "key": "2if2k"
                 },
-                "googleMap": "!1m18!1m12!1m3!1d790.8211455516889!2d126.9207637696093!3d37.5483584615334!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x357c98d02f71bf55%3A0x1ce41a7bb9441c35!2z7ISc7Jq47Yq567OE7IucIOuniO2PrOq1rCDrj4Xrp4nroZwxNeq4uCAzLTEx!5e0!3m2!1sko!2skr!4v1710058428359!5m2!1sko!2skr",
-                "naverMap": "GKvseW3y"
+                "naver": "GKvseW3y"
             }
         }
     ],
     "photo": [
         {
             "twitter": {
-                "status": [
-                    true
-                ],
                 "tweets": [
                     "hampuppy806/status/1816805732052009399"
                 ],
@@ -53,12 +46,11 @@
             "locate": {
                 "name": "폴라스튜디오 서울압구정점",
                 "address": "서울 강남구 도산대로51길 37 1층 104호",
-                "kakaoMap": {
+                "embed": {
                     "timestamp": "1711735475270",
                     "key": "2iqgk"
                 },
-                "googleMap": "!1m18!1m12!1m3!1d3164.246175261704!2d127.03312888453885!3d37.525693854415!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x357ca3887a874a97%3A0x16f80f7681c2055f!2z7Y-065287Iqk7Yqc65SU7Jik7JWV6rWs7KCV7KCQ!5e0!3m2!1sko!2skr!4v1711735403611!5m2!1sko!2skr",
-                "naverMap": "5BxyTFDu"
+                "naver": "5BxyTFDu"
             }
         }
     ],

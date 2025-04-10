@@ -2,9 +2,6 @@
     "cafe": [
         {
             "twitter": {
-                "status": [
-                    true
-                ],
                 "tweets": [
                     "year_0213/status/1867923500562039033"
                 ],
@@ -22,19 +19,17 @@
             "locate": {
                 "name": "EOD",
                 "address": "서울 마포구 와우산로 51-9 2층",
-                "kakaoMap": {
+                "embed": {
                     "timestamp": "1726753793029",
                     "key": "2koq2"
                 },
-                "googleMap": "!1m18!1m12!1m3!1d1431.2874147648517!2d126.92145494641989!3d37.54921677023946!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x357c99c77967f4c7%3A0xf3368063736c80b!2z7Lm07Y6YIEVPRA!5e1!3m2!1sko!2skr!4v1726753842835!5m2!1sko!2skr",
-                "naverMap": "GsP0sm4L"
+                "kakao": "Gt4NK2QhSa",
+				"google": "9VP9T3ySSrFDJ8zo7",
+                "naver": "GsP0sm4L"
             }
         },
         {
             "twitter": {
-                "status": [
-                    true
-                ],
                 "tweets": [
                     "wavv57/status/1880986229128528268"
                 ],
@@ -52,19 +47,17 @@
             "locate": {
                 "name": "카페키로",
                 "address": "서울 마포구 독막로7길 49 2층",
-                "kakaoMap": {
+                "embed": {
                     "timestamp": "1737478582489",
                     "key": "2mug3"
                 },
-                "googleMap": "!1m18!1m12!1m3!1d3163.215879614869!2d126.91712247571168!3d37.54997732507766!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x357c9993e27a3375%3A0x9a97aaef1a06b81a!2z7Lm07Y6YIO2CpOuhnCBjYWZlIEtJUk8!5e0!3m2!1sko!2skr!4v1737478613145!5m2!1sko!2skr",
-                "naverMap": "5mIWpmz5"
+                "kakao": "HJL4yuh1if",
+				"google": "vvdLV4dJEYdLxRxt9",
+                "naver": "5mIWpmz5"
             }
         },
         {
             "twitter": {
-                "status": [
-                    true
-                ],
                 "tweets": [
                     "Refrain_0213/status/1881698365257449751"
                 ],
@@ -83,19 +76,17 @@
             "locate": {
                 "name": "카페 로얄마카롱 신사역점",
                 "address": "서울 강남구 도산대로1길 6 지하1층",
-                "kakaoMap": {
+                "embed": {
                     "timestamp": "1710680951544",
                     "key": "2ijte"
                 },
-                "googleMap": "!1m18!1m12!1m3!1d3164.609162850939!2d127.01556198453613!3d37.51713525491113!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x357ca3b54628afc9%3A0xc91da6519c4c4446!2z7Lm07Y6YIOuhnOyWhOuniOy5tOuhsSDsi6Dsgqzsl63soJA!5e0!3m2!1sko!2skr!4v1710680964833!5m2!1sko!2skr",
-                "naverMap": "GaMTVszl"
+                "kakao": "Td8EzdTyK1",
+				"google": "WyCddQELaNr5rSxm6",
+                "naver": "GaMTVszl"
             }
         },
         {
             "twitter": {
-                "status": [
-                    true
-                ],
                 "tweets": [
                     "O4SSS24/status/1881933221652537366"
                 ],
@@ -113,21 +104,19 @@
             "locate": {
                 "name": "PP클럽",
                 "address": "서울 용산구 한강대로7길 4-5 1층",
-                "kakaoMap": {
+                "embed": {
                     "timestamp": "1737532803253",
                     "key": "2mus3"
                 },
-                "googleMap": "!1m18!1m12!1m3!1d791.0752216857909!2d126.96201206960922!3d37.52440396187539!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x357ca1f85b9b12f3%3A0xeecd8f9d6aa1121d!2z7ISc7Jq47Yq567OE7IucIOyaqeyCsOq1rCDtlZzqsJXrjIDroZw36ri4IDQtNSAx7Li1!5e0!3m2!1sko!2skr!4v1737532917567!5m2!1sko!2skr",
-                "naverMap": "GkRHSKg2"
+                "kakao": "L1qRAZfxbY",
+				"google": "FRTMRwSCwu9E1mD48",
+                "naver": "GkRHSKg2"
             }
         }
     ],
     "photo": [
         {
             "twitter": {
-                "status": [
-                    true
-                ],
                 "tweets": [
                     "s24luckyjy/status/1880918177108095085"
                 ],
@@ -145,12 +134,13 @@
             "locate": {
                 "name": "RGB포토스튜디오 홍대입구역점",
                 "address": "서울 마포구 와우산로27길 28",
-                "kakaoMap": {
+                "embed": {
                     "timestamp": "1711819800387",
                     "key": "2iqjj"
                 },
-                "googleMap": "!1m18!1m12!1m3!1d3163.024093910073!2d126.92435707571175!3d37.55449612481865!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x357c98c3d750409d%3A0xe25347fae3256cea!2z7ISc7Jq47Yq567OE7IucIOuniO2PrOq1rCDsmYDsmrDsgrDroZwyN-q4uCAyOA!5e0!3m2!1sko!2skr!4v1711819866513!5m2!1sko!2skr",
-                "naverMap": "5x04Ttag"
+                "kakao": "0vf8jMiJUf",
+				"google": "PtPNSHg2L5gVvVKF9",
+                "naver": "5x04Ttag"
             }
         }
     ],

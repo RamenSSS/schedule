@@ -2,10 +2,6 @@
     "cafe": [
         {
             "twitter": {
-                "status": [
-                    true,
-                    true
-                ],
                 "tweets": [
                     "SohyunNABI14/status/1835649853214310827",
                     "NakyJar1013/status/1835649885649113374"
@@ -26,20 +22,15 @@
             "locate": {
                 "name": "카페 꼬모",
                 "address": "서울 마포구 와우산로21길 31-12 1층",
-                "kakaoMap": {
+                "embed": {
                     "timestamp": "1726549167712",
                     "key": "2ko7a"
                 },
-                "googleMap": "!1m18!1m12!1m3!1d2862.4708236924544!2d126.91926201089663!3d37.55192482485011!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x357c997291cfb735%3A0x60b101ca36044af9!2z7Lm07Y6YIOq8rOuqqA!5e1!3m2!1sko!2skr!4v1726549212945!5m2!1sko!2skr",
-                "naverMap": "GSiEtWh3"
+                "naver": "GSiEtWh3"
             }
         },
         {
             "twitter": {
-                "status": [
-                    true,
-                    false
-                ],
                 "tweets": [
                     "joeywerepyre/status/1837453853757002220",
                     "gemgemYYYY/status/1837453642028511621"
@@ -58,12 +49,11 @@
             "locate": {
                 "name": "카페 하무모카",
                 "address": "서울 마포구 연남로 10 2층",
-                "kakaoMap": {
+                "embed": {
                     "timestamp": "1726996053298",
                     "key": "2kp8h"
                 },
-                "googleMap": "!1m18!1m12!1m3!1d3162.7591657264134!2d126.92080391089713!3d37.56073752434492!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x357c990047e2d9ad%3A0xe5a6adfaac511449!2z7Lm07Y6Y7ZWY66y066qo7Lm0!5e0!3m2!1sko!2skr!4v1726996099656!5m2!1sko!2skr",
-                "naverMap": "FsqCDw8Y"
+                "naver": "FsqCDw8Y"
             }
         }
     ],
@@ -71,14 +61,10 @@
     "ad": [
         {
             "twitter": {
-                "status": [
-                    false
-                ],
                 "tweets": [
                     "gemgemYYYY/status/1837056951274065942"
                 ],
-                "tags": [
-                ],
+                "tags": [],
                 "imageLinks": [
                     "backup/2024_S14_3.jpeg"
                 ]
@@ -88,12 +74,11 @@
             "locate": {
                 "name": "홍대입구역 2호선-공항철도 환승통로 2번 스크린",
                 "address": "하단 사진 참고",
-                "kakaoMap": {
+                "embed": {
                     "timestamp": "1727329582561",
                     "key": "2kqwc"
                 },
-                "googleMap": "!1m18!1m12!1m3!1d2027.7214871282158!2d126.9238939230815!3d37.55784403481044!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x357c98e9e0918997%3A0xb5d0acffa0df0f3!2z7ISc7Jq47Yq567OE7IucIOuniO2PrOq1rCDrj5nqtZDrj5kgMTY3LTM4!5e0!3m2!1sko!2skr!4v1727329717097!5m2!1sko!2skr",
-                "naverMap": "IgJiywEb"
+                "naver": "IgJiywEb"
             }
         }
     ]

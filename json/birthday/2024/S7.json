@@ -2,10 +2,6 @@
     "cafe": [
         {
             "twitter": {
-                "status": [
-                    true,
-                    true
-                ],
                 "tweets": [
                     "NakyJar1013/status/1835649885649113374",
                     "SohyunNABI14/status/1835649853214310827"
@@ -26,19 +22,15 @@
             "locate": {
                 "name": "카페 꼬모",
                 "address": "서울 마포구 와우산로21길 31-12 1층",
-                "kakaoMap": {
+                "embed": {
                     "timestamp": "1726549167712",
                     "key": "2ko7a"
                 },
-                "googleMap": "!1m18!1m12!1m3!1d2862.4708236924544!2d126.91926201089663!3d37.55192482485011!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x357c997291cfb735%3A0x60b101ca36044af9!2z7Lm07Y6YIOq8rOuqqA!5e1!3m2!1sko!2skr!4v1726549212945!5m2!1sko!2skr",
-                "naverMap": "GSiEtWh3"
+                "naver": "GSiEtWh3"
             }
         },
         {
             "twitter": {
-                "status": [
-                    true
-                ],
                 "tweets": [
                     "knduxisnx/status/1836036904468574625"
                 ],
@@ -56,19 +48,15 @@
             "locate": {
                 "name": "EOD",
                 "address": "서울 마포구 와우산로 51-9 2층",
-                "kakaoMap": {
+                "embed": {
                     "timestamp": "1726753793029",
                     "key": "2koq2"
                 },
-                "googleMap": "!1m18!1m12!1m3!1d1431.2874147648517!2d126.92145494641989!3d37.54921677023946!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x357c99c77967f4c7%3A0xf3368063736c80b!2z7Lm07Y6YIEVPRA!5e1!3m2!1sko!2skr!4v1726753842835!5m2!1sko!2skr",
-                "naverMap": "GsP0sm4L"
+                "naver": "GsP0sm4L"
             }
         },
         {
             "twitter": {
-                "status": [
-                    false
-                ],
                 "tweets": [
                     "MOMENT_1013/status/1838567310019219703"
                 ],
@@ -85,19 +73,15 @@
             "locate": {
                 "name": "100디그리",
                 "address": "서울 마포구 와우산로11길 9-10 2층",
-                "kakaoMap": {
+                "embed": {
                     "timestamp": "1727684389110",
                     "key": "2ks75"
                 },
-                "googleMap": "!1m18!1m12!1m3!1d3163.279822205576!2d126.91969271089636!3d37.54847062504814!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x357c99d8692b0f03%3A0x19aaf5936c38bacf!2zMTAw65SU6re466as!5e0!3m2!1sko!2skr!4v1727684417824!5m2!1sko!2skr",
-                "naverMap": "GEukL1zr"
+                "naver": "GEukL1zr"
             }
         },
         {
             "twitter": {
-                "status": [
-                    true
-                ],
                 "tweets": [
                     "moong__1013/status/1840741665549824321"
                 ],
@@ -115,12 +99,11 @@
             "locate": {
                 "name": "카페 클로버",
                 "address": "서울 마포구 양화로8길 38 2층",
-                "kakaoMap": {
+                "embed": {
                     "timestamp": "1727703358534",
                     "key": "2ks99"
                 },
-                "googleMap": "!1m18!1m12!1m3!1d790.8130663480025!2d126.91597842846103!3d37.549119961515274!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x357c98d12cfd59d1%3A0x77fa026747f932e6!2z7ISc7Jq47Yq567OE7IucIOuniO2PrOq1rCDslpHtmZTroZw46ri4IDM4!5e0!3m2!1sko!2skr!4v1727704589783!5m2!1sko!2skr",
-                "naverMap": "5zl7IpdD"
+                "naver": "5zl7IpdD"
             }
         }
     ],
@@ -128,7 +111,6 @@
     "ad": [
         {
             "twitter": {
-                "status": [],
                 "tweets": [],
                 "tags": [],
                 "imageLinks": [
@@ -141,12 +123,11 @@
             "locate": {
                 "name": "합정역 지하 1층 8번 출구 방면 CM보드 1번기둥",
                 "address": "하단 첫번째 사진 참고",
-                "kakaoMap": {
+                "embed": {
                     "timestamp": "1728660017242",
                     "key": "2kvdi"
                 },
-                "googleMap": "!1m17!1m12!1m3!1d3163.23974012858!2d126.91203818385313!3d37.54941509807302!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zMzfCsDMyJzU3LjQiTiAxMjbCsDU0JzQ3LjgiRQ!5e0!3m2!1sko!2skr!4v1728660232856!5m2!1sko!2skr",
-                "naverMap": "Fk7EJBt8"
+                "naver": "Fk7EJBt8"
             }
         }
     ]

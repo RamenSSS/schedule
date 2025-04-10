@@ -2,9 +2,6 @@
     "cafe": [
         {
             "twitter": {
-                "status": [
-                    true
-                ],
                 "tweets": [
                     "nien_universe/status/1787770042832343542"
                 ],
@@ -22,12 +19,11 @@
             "locate": {
                 "name": "오엘커피",
                 "address": "서울 마포구 잔다리로 30-32 1층",
-                "kakaoMap": {
+                "embed": {
                     "timestamp": "1710659389222",
                     "key": "2ijrw"
                 },
-                "googleMap": "!1m18!1m12!1m3!1d3163.1338463964535!2d126.91750917571174!3d37.55191022496681!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x357c98daec4234d9%3A0xfa73af6e78cfb402!2z7Jik7JeY7Luk7ZS8!5e0!3m2!1sko!2skr!4v1710659415720!5m2!1sko!2skr",
-                "naverMap": "G3Kw58zA"
+                "naver": "G3Kw58zA"
             }
         }
     ],

@@ -2,9 +2,6 @@
     "cafe": [
         {
             "twitter": {
-                "status": [
-                    true
-                ],
                 "tweets": [
                     "Confused_SSS/status/1706974175775396139"
                 ],
@@ -22,19 +19,15 @@
             "locate": {
                 "name": "카페 레이어프로젝트",
                 "address": "서울 강남구 역삼로63길 19 1,2층",
-                "kakaoMap": {
-                    "timestamp" : "1709970209811",
-                    "key" : "2if2i"
+                "embed": {
+                    "timestamp": "1709970209811",
+                    "key": "2if2i"
                 },
-                "googleMap": "!1m18!1m12!1m3!1d3165.2346235559376!2d127.0519352!3d37.50238409999999!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x357ca55403fb04df%3A0xd5b40e31c4a6077f!2z7Lm07Y6YIOugiOydtOyWtO2UhOuhnOygne2KuA!5e0!3m2!1sko!2skr!4v1710058214014!5m2!1sko!2skr",
-                "naverMap": "Gvkdw5kv"
+                "naver": "Gvkdw5kv"
             }
         },
         {
             "twitter": {
-                "status": [
-                    true
-                ],
                 "tweets": [
                     "3somsoc/status/1707748060317860156"
                 ],
@@ -52,19 +45,15 @@
             "locate": {
                 "name": "카페 로얄마카롱 신사역점",
                 "address": "서울 강남구 도산대로1길 6 지하1층",
-                "kakaoMap": {
+                "embed": {
                     "timestamp": "1710680951544",
                     "key": "2ijte"
                 },
-                "googleMap": "!1m18!1m12!1m3!1d3164.609162850939!2d127.01556198453613!3d37.51713525491113!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x357ca3b54628afc9%3A0xc91da6519c4c4446!2z7Lm07Y6YIOuhnOyWhOuniOy5tOuhsSDsi6Dsgqzsl63soJA!5e0!3m2!1sko!2skr!4v1710680964833!5m2!1sko!2skr",
-                "naverMap": "GaMTVszl"
+                "naver": "GaMTVszl"
             }
         },
         {
             "twitter": {
-                "status": [
-                    true
-                ],
                 "tweets": [
                     "just_leejiwoo/status/1711743397910937639"
                 ],
@@ -82,21 +71,17 @@
             "locate": {
                 "name": "카페밤비 2호점",
                 "address": "서울 마포구 월드컵로21길 18",
-                "kakaoMap": {
+                "embed": {
                     "timestamp": "1711734688498",
                     "key": "2iqgi"
                 },
-                "googleMap": "!1m18!1m12!1m3!1d3162.9289375340472!2d126.90320839678958!3d37.55673800000001!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x357c99273c646359%3A0xae1495bd32e140!2z7Lm07Y6YIOuwpOu5hCAy7Zi47KCQ!5e0!3m2!1sko!2skr!4v1711734716583!5m2!1sko!2skr",
-                "naverMap": "5FeHw6Co"
+                "naver": "5FeHw6Co"
             }
         }
     ],
     "photo": [
         {
             "twitter": {
-                "status": [
-                    true
-                ],
                 "tweets": [
                     "nineteens_jw/status/1708514757043699898"
                 ],
@@ -113,19 +98,15 @@
             "locate": {
                 "name": "폴라스튜디오 서울압구정점",
                 "address": "서울 강남구 도산대로51길 37 1층 104호",
-                "kakaoMap": {
+                "embed": {
                     "timestamp": "1711735475270",
                     "key": "2iqgk"
                 },
-                "googleMap": "!1m18!1m12!1m3!1d3164.246175261704!2d127.03312888453885!3d37.525693854415!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x357ca3887a874a97%3A0x16f80f7681c2055f!2z7Y-065287Iqk7Yqc65SU7Jik7JWV6rWs7KCV7KCQ!5e0!3m2!1sko!2skr!4v1711735403611!5m2!1sko!2skr",
-                "naverMap": "5BxyTFDu"
+                "naver": "5BxyTFDu"
             }
         },
         {
             "twitter": {
-                "status": [
-                    true
-                ],
                 "tweets": [
                     "just_leejiwoo/status/1711743397910937639"
                 ],
@@ -143,12 +124,11 @@
             "locate": {
                 "name": "랑포토",
                 "address": "서울 마포구 동교로9길 36",
-                "kakaoMap": {
+                "embed": {
                     "timestamp": "1711734964686",
                     "key": "2iqgj"
                 },
-                "googleMap": "!1m18!1m12!1m3!1d790.7454332128071!2d126.90919526960926!3d37.55549416143145!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x357c992795495265%3A0x8b7a6133520eb9ad!2z7ISc7Jq47Yq567OE7IucIOuniO2PrOq1rCDrj5nqtZDroZw56ri4IDM2!5e0!3m2!1sko!2skr!4v1711734944201!5m2!1sko!2skr",
-                "naverMap": "F9pQzY2Q"
+                "naver": "F9pQzY2Q"
             }
         }
     ],

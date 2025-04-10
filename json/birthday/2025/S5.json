@@ -2,10 +2,6 @@
     "cafe": [
         {
             "twitter": {
-                "status": [
-                    true,
-                    true
-                ],
                 "tweets": [
                     "yoomyangie/status/1877264106199138386",
                     "S5_0209/status/1877264049223971300"
@@ -23,19 +19,17 @@
             "locate": {
                 "name": "셉트",
                 "address": "서울 마포구 양화로11길 41 1층, 지하1층",
-                "kakaoMap": {
+                "embed": {
                     "timestamp": "1736429666270",
                     "key": "2mqmw"
                 },
-                "googleMap": "!1m18!1m12!1m3!1d3163.121326135978!2d126.91196607571183!3d37.552205224950015!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x357c98d764db01c7%3A0x8b032630c1c11103!2z7IWJ7Yq4KHNlcHQp!5e0!3m2!1sko!2skr!4v1736429747699!5m2!1sko!2skr",
-                "naverMap": "52R5dDbn"
+                "kakao": "JvLgPkyk0a",
+				"google": "jHm19QC1mpYrkSUPA",
+                "naver": "52R5dDbn"
             }
         },
         {
             "twitter": {
-                "status": [
-                    true
-                ],
                 "tweets": [
                     "fluer0209/status/1877635672057749580"
                 ],
@@ -52,19 +46,15 @@
             "locate": {
                 "name": "테뉴에",
                 "address": "서울 강남구 도산대로55길 16-4 B1",
-                "kakaoMap": {
+                "embed": {
                     "timestamp": "1736839452191",
                     "key": "2mrwm"
                 },
-                "googleMap": "!1m18!1m12!1m3!1d3164.2931984026895!2d127.03821707571046!3d37.52458522653284!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x357ca515f6879a9f%3A0xf32f54843b6ac6a4!2z7YWM64m07JeQ!5e0!3m2!1sko!2skr!4v1736839473023!5m2!1sko!2skr",
-                "naverMap": "F884ZlK2"
+                "naver": "F884ZlK2"
             }
         },
         {
             "twitter": {
-                "status": [
-                    false
-                ],
                 "tweets": [
                     "yoniworld_S5/status/1878412867705471052"
                 ],
@@ -81,19 +71,15 @@
             "locate": {
                 "name": "비데이 홍대점",
                 "address": "서울 마포구 와우산로29라길 22 2층",
-                "kakaoMap": {
+                "embed": {
                     "timestamp": "1736839644769",
                     "key": "2mrwp"
                 },
-                "googleMap": "!1m18!1m12!1m3!1d3163.005172319079!2d126.92414627571196!3d37.55494192479316!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x357c999157a253bd%3A0xa569ab65cc3bd0ec!2z67mE642w7J20IO2ZjeuMgOygkCAoQidEQVkp!5e0!3m2!1sko!2skr!4v1736839656157!5m2!1sko!2skr",
-                "naverMap": "FN7ZD5Dm"
+                "naver": "FN7ZD5Dm"
             }
         },
         {
             "twitter": {
-                "status": [
-                    true
-                ],
                 "tweets": [
                     "YPVIIIV/status/1881932064406249746"
                 ],
@@ -110,12 +96,11 @@
             "locate": {
                 "name": "카페밤비 2호점",
                 "address": "서울 마포구 월드컵로21길 18",
-                "kakaoMap": {
+                "embed": {
                     "timestamp": "1711734688498",
                     "key": "2iqgi"
                 },
-                "googleMap": "!1m18!1m12!1m3!1d3162.9289375340472!2d126.90320839678958!3d37.55673800000001!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x357c99273c646359%3A0xae1495bd32e140!2z7Lm07Y6YIOuwpOu5hCAy7Zi47KCQ!5e0!3m2!1sko!2skr!4v1711734716583!5m2!1sko!2skr",
-                "naverMap": "5FeHw6Co"
+                "naver": "5FeHw6Co"
             }
         }
     ],
