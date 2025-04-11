@@ -79,12 +79,6 @@
             "dates": "11",
             "schedule": [
                 {
-                    "title": "기념일",
-                    "detail": "서아 입주",
-                    "member": [23],
-                    "hideMember": true
-                },
-                {
                     "title": "라이브",
                     "detail": "웨이보",
                     "time": "22:00",
@@ -105,6 +99,12 @@
                     "title": "기념일",
                     "detail": "린 생일",
                     "member": [17],
+                    "hideMember": true
+                },
+                {
+                    "title": "기념일",
+                    "detail": "서아 입주",
+                    "member": [23],
                     "hideMember": true
                 }
             ]
