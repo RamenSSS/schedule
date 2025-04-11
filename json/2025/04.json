@@ -102,12 +102,6 @@
             "dates": "11",
             "schedule": [
                 {
-                    "title": "기념일",
-                    "detail": "서아 1주년",
-                    "member": [23],
-                    "hideMember": true
-                },
-                {
                     "title": "팬싸",
                     "detail": "위드뮤 (대면, 1:1 영상통화)",
                     "time": "19:00",
@@ -129,6 +123,12 @@
                     "title": "기념일",
                     "detail": "린 생일",
                     "member": [17],
+                    "hideMember": true
+                },
+                {
+                    "title": "기념일",
+                    "detail": "서아 1주년",
+                    "member": [23],
                     "hideMember": true
                 },
                 {
