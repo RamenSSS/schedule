@@ -1,0 +1,33 @@
+{
+    "cafe": [
+        {
+            "twitter": {
+                "tweets": [
+                    "berryparty52/status/1910241858401530143"
+                ],
+                "tags": [
+                    "왹채원_침공_준비완료"
+                ],
+                "imageLinks": [
+                    "GoKK1xGaQAAp32O",
+                    "GoKK1xIbcAAMOhW"
+                ]
+            },
+            "startDate": 2,
+            "endDate": 3,
+            "locate": {
+                "name": "카페 소프",
+                "address": "서울 마포구 홍익로5길 33-3 1층",
+                "embed": {
+                    "timestamp": "1744361171504",
+                    "key": "2none"
+                },
+                "kakao": "w0h8x-sNTP",
+                "google": "iHHHF2nCTx3YmBKS7",
+                "naver": "FMcvnFBw"
+            }
+        }
+    ],
+    "photo": [],
+    "ad": []
+}
