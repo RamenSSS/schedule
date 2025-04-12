@@ -98,7 +98,6 @@
             "endDate": 31,
             "locate": {
                 "name": "상원 버스 정류장",
-                "address": "",
                 "embed": {
                     "timestamp": "1710685654756",
                     "key": "2ijti"
@@ -122,7 +121,6 @@
             "endDate": 8,
             "locate": {
                 "name": "서울대입구역 1번 출구 지하",
-                "address": "",
                 "embed": {
                     "timestamp": "1710686450781",
                     "key": "2ijtk"

@@ -73,7 +73,6 @@
             "endDate": 31,
             "locate": {
                 "name": "상원 버스 정류장",
-                "address": "",
                 "embed": {
                     "timestamp": "1710685654756",
                     "key": "2ijti"
@@ -97,7 +96,6 @@
             "endDate": 31,
             "locate": {
                 "name": "초월역",
-                "address": "",
                 "embed": {
                     "timestamp": "1710687326335",
                     "key": "2ijto"

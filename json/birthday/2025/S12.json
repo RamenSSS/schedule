@@ -121,7 +121,7 @@
             "endDate": 21,
             "locate": {
                 "name": "6호선 합정역 CM보드 1번",
-                "address": "8번 출구 방면",
+                "comment": "8번 출구 방면",
                 "embed": {
                     "timestamp": "1728660017242",
                     "key": "2kvdi"
@@ -145,7 +145,7 @@
             "endDate": 31,
             "locate": {
                 "name": "청담역 7호선",
-                "address": "12번 출구",
+                "comment": "12번 출구",
                 "embed": {
                     "timestamp": "1735623893986",
                     "key": "2mnwp"

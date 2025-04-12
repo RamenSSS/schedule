@@ -129,7 +129,7 @@
             "endDate": 17,
             "locate": {
                 "name": "7호선 강남구청역 CM보드 1번",
-                "address": "4번 출구 방면 지하 2층",
+                "comment": "4번 출구 방면 지하 2층",
                 "embed": {
                     "timestamp": "1741754181734",
                     "key": "2nba3"

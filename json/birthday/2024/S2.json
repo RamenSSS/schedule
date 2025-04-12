@@ -74,7 +74,6 @@
             "endDate": 30,
             "locate": {
                 "name": "송파파인타운2단지.구립송파복지센터",
-                "address": "",
                 "embed": {
                     "timestamp": "1711799878580",
                     "key": "2iqjz"
@@ -102,7 +101,7 @@
             "endDate": 30,
             "locate": {
                 "name": "2호선 잠실역 3번출구 부근 롯데백화점 연결통로",
-                "address": "하단 사진 동그라미 부분",
+                "comment": "하단 사진 동그라미 부분",
                 "embed": {
                     "timestamp": "1712153139993",
                     "key": "2isfw"
