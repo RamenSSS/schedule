@@ -1,0 +1,33 @@
+{
+    "cafe": [
+        {
+            "twitter": {
+                "tweets": [
+                    "go_gatsu_mayu/status/1910890685865320474"
+                ],
+                "tags": [
+                    "Welcome_to_MAYULAND"
+                ],
+                "imageLinks": [
+                    "GoTY74QXUAAiBhh",
+                    "GoTY75MXsAAkbWp"
+                ]
+            },
+            "startDate": 11,
+            "endDate": 13,
+            "locate": {
+                "name": "카페 봄",
+                "address": "서울 강남구 테헤란로43길 19 성지빌딩 2층",
+                "embed": {
+                    "timestamp": "1744427922188",
+                    "key": "2nord"
+                },
+                "kakao": "4SBQ8pE9Ci",
+                "google": "ggVHxqh9igHYNRcKA",
+                "naver": "5OQzF7LC"
+            }
+        }
+    ],
+    "photo": [],
+    "ad": []
+}
