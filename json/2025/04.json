@@ -195,7 +195,14 @@
         },
         {
             "dates": "17",
-            "schedule": []
+            "schedule": [
+                {
+                    "title": "라이브",
+                    "detail": "유튜브",
+                    "time": "22:00",
+                    "member": [4,16]
+                }
+            ]
         },
         {
             "dates": "18",
@@ -205,6 +212,12 @@
                     "detail": "소현 2주년",
                     "member": [14],
                     "hideMember": true
+                },
+                {
+                    "title": "라이브",
+                    "detail": "유튜브",
+                    "time": "22:00",
+                    "member": [14]
                 }
             ]
         },
