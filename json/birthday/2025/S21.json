@@ -26,6 +26,61 @@
                 "google": "iHHHF2nCTx3YmBKS7",
                 "naver": "FMcvnFBw"
             }
+        },
+        {
+            "twitter": {
+                "tweets": [
+                    "daystar_0502/status/1911698840975261738"
+                ],
+                "tags": [
+                    "해피벌스트로베리_채원"
+                ],
+                "imageLinks": [
+                    "Goe33bDXIAASH9I",
+                    "Goe35oEWgAAzQL_"
+                ]
+            },
+            "startDate": 1,
+            "endDate": 2,
+            "locate": {
+                "name": "카페 하무모카",
+                "address": "서울 마포구 연남로 10 2층",
+                "embed": {
+                    "timestamp": "1726996053298",
+                    "key": "2kp8h"
+                },
+                "kakao": "MoACZWDjYx",
+				"google": "wfL1hZFHoekj71YCA",
+                "naver": "FsqCDw8Y"
+            }
+        },
+        {
+            "twitter": {
+                "tweets": [
+                    "boan_9424/status/1911736224102158667"
+                ],
+                "tags": [
+                    "채원의_판타지_월드",
+                    "WONNA_BE"
+                ],
+                "imageLinks": [
+                    "GofZ9YLXQAILiOW",
+                    "GofZ9YUXoAAoJzS"
+                ]
+            },
+            "startDate": 1,
+            "endDate": 2,
+            "locate": {
+                "name": "카페키로",
+                "address": "서울 마포구 독막로7길 49 2층",
+                "embed": {
+                    "timestamp": "1737478582489",
+                    "key": "2mug3"
+                },
+                "kakao": "HJL4yuh1if",
+				"google": "vvdLV4dJEYdLxRxt9",
+                "naver": "5mIWpmz5"
+            }
         }
     ],
     "photo": [],
