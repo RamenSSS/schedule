@@ -91,7 +91,12 @@
                 },
                 {
                     "title": "행사",
-                    "detail": "KCON JAPAN (M COUNTDOWN STAGE, M&G STAGE)"
+                    "detail": "KCON JAPAN (M&G STAGE)",
+                    "time": "13:00"
+                },
+                {
+                    "title": "행사",
+                    "detail": "KCON JAPAN (M COUNTDOWN STAGE)"
                 }
             ]
         },
@@ -100,7 +105,13 @@
             "schedule": [
                 {
                     "title": "행사",
-                    "detail": "KCON JAPAN (ARTIST STAGE)"
+                    "detail": "KCON JAPAN (DANCE STAGE)",
+                    "time": "12:00"
+                },
+                {
+                    "title": "행사",
+                    "detail": "KCON JAPAN (ARTIST STAGE)",
+                    "time": "16:10"
                 }
             ]
         },
