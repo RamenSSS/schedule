@@ -26,6 +26,34 @@
                 "google": "ggVHxqh9igHYNRcKA",
                 "naver": "5OQzF7LC"
             }
+        },
+        {
+            "twitter": {
+                "tweets": [
+                    "ourl512o/status/1915006013159190779"
+                ],
+                "tags": [
+                    "마유토끼랑_피크닉_가보자고",
+                    "BunnyBunnyTimewithMayu"
+                ],
+                "imageLinks": [
+                    "GpN3z_7bcAACtqx",
+                    "GpN3z_xbUAA6w4I"
+                ]
+            },
+            "startDate": 11,
+            "endDate": 12,
+            "locate": {
+                "name": "ovo",
+                "address": "서울 마포구 양화로7안길 42 1층",
+                "embed": {
+					"timestamp": "1744271380952",
+					"key": "2no7w"
+				},
+				"kakao": "zHODKxkumv",
+				"google": "T814Tte7m5W1kfCk9",
+                "naver": "5mI0JQz0"
+            }
         }
     ],
     "photo": [],
