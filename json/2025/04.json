@@ -269,6 +269,12 @@
             "schedule": [
                 {
                     "title": "행사",
+                    "detail": "K-FLOW3 CONCERT in TAIWAN",
+                    "time": "19:30 UTC+8",
+                    "member": [3,5,7,9,11,13,17,24]
+                },
+                {
+                    "title": "행사",
                     "detail": "2025 전국생활체육대축전 개회식",
                     "time": "19:45",
                     "member": [1,4,8,10,12,15,19,21]
