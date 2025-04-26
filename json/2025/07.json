@@ -55,11 +55,21 @@
         },
         {
             "dates": "12",
-            "schedule": []
+            "schedule": [
+                {
+                    "title": "공연",
+                    "detail": "tripleS A Live 25 in Seoul"
+                }
+            ]
         },
         {
             "dates": "13",
-            "schedule": []
+            "schedule": [
+                {
+                    "title": "공연",
+                    "detail": "tripleS A Live 25 in Seoul"
+                }
+            ]
         },
         {
             "dates": "14",
@@ -90,11 +100,21 @@
         },
         {
             "dates": "19",
-            "schedule": []
+            "schedule": [
+                {
+                    "title": "공연",
+                    "detail": "tripleS A Live 25 in Tokyo"
+                }
+            ]
         },
         {
             "dates": "20",
-            "schedule": []
+            "schedule": [
+                {
+                    "title": "공연",
+                    "detail": "tripleS A Live 25 in Tokyo"
+                }
+            ]
         },
         {
             "dates": "21",
