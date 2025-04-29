@@ -98,11 +98,17 @@
                 {
                     "title": "행사",
                     "detail": "KCON JAPAN (M&G STAGE)",
-                    "time": "13:00"
+                    "time": "13:00",
+                    "member": [1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24],
+                    "hideMember": true,
+                    "unit": "S1 ~ S24"
                 },
                 {
                     "title": "행사",
-                    "detail": "KCON JAPAN (M COUNTDOWN STAGE)"
+                    "detail": "KCON JAPAN (M COUNTDOWN STAGE)",
+                    "member": [1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24],
+                    "hideMember": true,
+                    "unit": "S1 ~ S24"
                 }
             ]
         },
@@ -112,12 +118,18 @@
                 {
                     "title": "행사",
                     "detail": "KCON JAPAN (DANCE STAGE)",
-                    "time": "12:00"
+                    "time": "12:00",
+                    "member": [1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24],
+                    "hideMember": true,
+                    "unit": "S1 ~ S24"
                 },
                 {
                     "title": "행사",
                     "detail": "KCON JAPAN (ARTIST STAGE)",
-                    "time": "16:10"
+                    "time": "16:10",
+                    "member": [1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24],
+                    "hideMember": true,
+                    "unit": "S1 ~ S24"
                 }
             ]
         },
