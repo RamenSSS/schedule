@@ -57,5 +57,32 @@
         }
     ],
     "photo": [],
-    "ad": []
+    "ad": [
+        {
+            "twitter": {
+                "tweets": [
+                    "ourl512o/status/1919397917284307037"
+                ],
+                "tags": [
+                    "Shine_on_Mayu"
+                ],
+                "imageLinks": [
+                    "GqMR08ZbgAAFTFV"
+                ]
+            },
+            "startDate": 12,
+            "endDate": 13,
+            "locate": {
+                "name": "씨티빌딩",
+                "address": "서울 강남구 강남대로 422",
+                "embed": {
+                    "timestamp": "1746456419150",
+                    "key": "2nwny"
+                },
+                "kakao": "HJcWCYoSqe",
+                "google": "JH7yxJhAPtjnEeJA6",
+                "naver": "FN7shNB4"
+            }
+        }
+    ]
 }
