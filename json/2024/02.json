@@ -58,6 +58,12 @@
                     "unit": "EVOLution"
                 },
                 {
+                    "title": "비공식",
+                    "detail": "Authentic in Seoul 관람",
+                    "member": [17,18,19,20],
+                    "unit": "NXT"
+                },
+                {
                     "title": "라디오",
                     "detail": "영스트리트 본방송",
                     "time": "20:00",
