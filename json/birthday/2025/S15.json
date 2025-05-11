@@ -57,5 +57,31 @@
         }
     ],
     "photo": [],
-    "ad": []
+    "ad": [
+        {
+            "twitter": {
+                "tweets": [
+                    "HIGH_S15/status/1921481653672906908"
+                ],
+                "tags": [],
+                "imageLinks": [
+                    "backup/2025_S15_1.png",
+                    "backup/2025_S15_2.png"
+                ]
+            },
+            "startDate": 18,
+            "endDate": 32,
+            "locate": {
+                "name": "7호선 강남구청역 2번 CM보드",
+                "comment": "2번 출구 방면 지하2층",
+                "embed": {
+                    "timestamp": "1746972230025",
+                    "key": "2ny83"
+                },
+                "kakao": "?urlX=509037.49999999744&urlY=1116011.8749999977&name=%EA%B0%95%EB%82%A8%EA%B5%AC%EC%B2%AD%EC%97%AD%207%ED%98%B8%EC%84%A0",
+                "google": "jipE6diitQZSZuAr8",
+                "naver": "GIGFuhSc"
+            }
+        }
+    ]
 }
