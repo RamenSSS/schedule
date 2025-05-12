@@ -54,6 +54,33 @@
 				"google": "Q1kVjGFbi1SC1VSC6",
                 "naver": "5ux2I1dW"
             }
+        },
+        {
+            "twitter": {
+                "tweets": [
+                    "venus_xinyu/status/1921952452011569379"
+                ],
+                "tags": [
+                    "해피_여신위_데이"
+                ],
+                "imageLinks": [
+                    "Gqwlh95bgAAJEGk",
+                    "Gqwlh91a4AAjr89"
+                ]
+            },
+            "startDate": 23,
+            "endDate": 26,
+            "locate": {
+                "name": "셉트",
+                "address": "서울 마포구 양화로11길 41 1층, 지하1층",
+                "embed": {
+                    "timestamp": "1736429666270",
+                    "key": "2mqmw"
+                },
+                "kakao": "JvLgPkyk0a",
+				"google": "jHm19QC1mpYrkSUPA",
+                "naver": "52R5dDbn"
+            }
         }
     ],
     "photo": [],
