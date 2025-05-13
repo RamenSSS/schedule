@@ -31,7 +31,15 @@
         },
         {
             "dates": "4",
-            "schedule": []
+            "schedule": [
+                {
+                    "title": "팬싸",
+                    "detail": "Counting Stars (영통)",
+                    "time": "18:00 UTC+8",
+                    "member": [2,3,5,6,9,12,13,17,19,20,23,24],
+                    "unit": "B조"
+                }
+            ]
         },
         {
             "dates": "5",
@@ -106,7 +114,15 @@
         },
         {
             "dates": "15",
-            "schedule": []
+            "schedule": [
+                {
+                    "title": "팬싸",
+                    "detail": "Counting Stars (영통)",
+                    "time": "16:30 UTC+8",
+                    "member": [1,4,7,8,10,11,14,15,16,18,21,22],
+                    "unit": "A조"
+                }
+            ]
         },
         {
             "dates": "16",
