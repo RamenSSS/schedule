@@ -173,7 +173,14 @@
         },
         {
             "dates": "13",
-            "schedule": []
+            "schedule": [
+                {
+                    "title": "라이브",
+                    "detail": "유튜브",
+                    "time": "22:00",
+                    "member": [7,10,16,19]
+                }
+            ]
         },
         {
             "dates": "14",
