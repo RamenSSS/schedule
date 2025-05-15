@@ -117,7 +117,12 @@
         },
         {
             "dates": "14",
-            "schedule": []
+            "schedule": [
+                {
+                    "title": "행사",
+                    "detail": "G!POP 流行音樂節"
+                }
+            ]
         },
         {
             "dates": "15",
