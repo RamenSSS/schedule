@@ -27,6 +27,33 @@
 				"google": "vvdLV4dJEYdLxRxt9",
                 "naver": "5mIWpmz5"
             }
+        },
+        {
+            "twitter": {
+                "tweets": [
+                    "nien_universe/status/1924028449053917374"
+                ],
+                "tags": [
+                    "니엔이_숨겨둔_한_입의_마법"
+                ],
+                "imageLinks": [
+                    "GrOFrCJWAAA4aL9",
+                    "GrOFrCCWAAEawQT"
+                ]
+            },
+            "startDate": 1,
+            "endDate": 2,
+            "locate": {
+                "name": "찜이로닭 상수본점",
+                "address": "서울 마포구 와우산로 39-21 지1층 좌측호",
+                "embed": {
+                    "timestamp": "1747560530824",
+                    "key": "2o33j"
+                },
+                "kakao": "Z2oTOchMHE",
+                "google": "dCKvP3NbxjqGLMtLA",
+                "naver": "GYC9I8yT"
+            }
         }
     ],
     "photo": [],
