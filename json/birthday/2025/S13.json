@@ -54,6 +54,34 @@
                 "google": "dCKvP3NbxjqGLMtLA",
                 "naver": "GYC9I8yT"
             }
+        },
+        {
+            "twitter": {
+                "tweets": [
+                    "niennienyouyu/status/1924308415842795848",
+                    "pearlmilktea602/status/1924308304383115484"
+                ],
+                "tags": [
+                    "화창한_날에_나타난_니엔"
+                ],
+                "imageLinks": [
+                    "GrR7Ay3XIAAed0Z",
+                    "GrR7B9LXAAAGdD4"
+                ]
+            },
+            "startDate": 0,
+            "endDate": 2,
+            "locate": {
+                "name": "카페 스윗피",
+                "address": "서울 마포구 독막로15길 3-6 2층 201호",
+                "embed": {
+                    "timestamp": "1747641907165",
+                    "key": "2o3gj"
+                },
+                "kakao": "j9JW03o1m3",
+                "google": "n7gcDkyPxPhcKdTr9",
+                "naver": "5JphKZtF"
+            }
         }
     ],
     "photo": [],
