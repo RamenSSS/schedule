@@ -109,6 +109,32 @@
                 "google": "jipE6diitQZSZuAr8",
                 "naver": "GIGFuhSc"
             }
+        },
+        {
+            "twitter": {
+                "tweets": [
+                    "venus_xinyu/status/1924367489670271026"
+                ],
+                "tags": [
+                    "해피_여신위_데이"
+                ],
+                "imageLinks": [
+                    "backup/2025_S15_3.png"
+                ]
+            },
+            "startDate": 24,
+            "endDate": 26,
+            "locate": {
+                "name": "코엑스",
+                "address": "코엑스 몰 내부 정문쪽 별마당 가는 길과 라이브 플라자",
+                "embed": {
+                    "timestamp": "1748159356210",
+                    "key": "2o5m9"
+                },
+                "kakao": "sQZcamijhM",
+                "google": "m4NA4ZZugrdmACGP6",
+                "naver": "FqWtKj05"
+            }
         }
     ]
 }
