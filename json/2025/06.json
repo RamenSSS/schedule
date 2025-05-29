@@ -153,6 +153,12 @@
             "schedule": [
                 {
                     "title": "팬싸",
+                    "detail": "Objekt Cafe in Taipei",
+                    "time": "15:00 UTC+8",
+                    "member": [3,5,6,9,13,17,19,20]
+                },
+                {
+                    "title": "팬싸",
                     "detail": "K-MONSTAR (대면)",
                     "time": "16:00 UTC+8",
                     "member": [3,5,6,9,13,17,19,20]
