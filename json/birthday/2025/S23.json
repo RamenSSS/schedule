@@ -1,0 +1,33 @@
+{
+    "cafe": [
+        {
+            "twitter": {
+                "tweets": [
+                    "mixnade/status/1928740987419111552"
+                ],
+                "tags": [
+                    "떠아의_비밀일기"
+                ],
+                "imageLinks": [
+                    "GsQ0byjbUAAld2X",
+                    "GsQ0byoawAA7H02"
+                ]
+            },
+            "startDate": 10,
+            "endDate": 11,
+            "locate": {
+                "name": "카페 클로버",
+                "address": "서울 마포구 양화로8길 38 2층",
+                "embed": {
+                    "timestamp": "1727703358534",
+                    "key": "2ks99"
+                },
+                "kakao": "WDLM848Wps",
+				"google": "Zvt7uqEBToQREnhW8",
+                "naver": "5zl7IpdD"
+            }
+        }
+    ],
+    "photo": [],
+    "ad": []
+}
