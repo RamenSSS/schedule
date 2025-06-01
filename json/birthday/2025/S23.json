@@ -26,6 +26,33 @@
 				"google": "Zvt7uqEBToQREnhW8",
                 "naver": "5zl7IpdD"
             }
+        },
+        {
+            "twitter": {
+                "tweets": [
+                    "bubblyseoah/status/1929176443503972710"
+                ],
+                "tags": [
+                    "시간소녀_서아"
+                ],
+                "imageLinks": [
+                    "GsXPsqubAAAvKmU",
+                    "GsXPtZ6aAAA2DG1"
+                ]
+            },
+            "startDate": 11,
+            "endDate": 11,
+            "locate": {
+                "name": "로얄마카롱",
+                "address": "서울 강남구 테헤란로25길 26 3층",
+                "embed": {
+					"timestamp": "1744271656134",
+					"key": "2no82"
+				},
+				"kakao": "XdqyzVmqrX",
+				"google": "N3ZN8PtFV5Wef1dj8",
+                "naver": "IxD7eEbf"
+            }
         }
     ],
     "photo": [],
