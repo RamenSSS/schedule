@@ -53,6 +53,33 @@
 				"google": "N3ZN8PtFV5Wef1dj8",
                 "naver": "IxD7eEbf"
             }
+        },
+        {
+            "twitter": {
+                "tweets": [
+                    "savearthur/status/1930062975567835392"
+                ],
+                "tags": [
+                    "솜사탕처럼_포근한_서아"
+                ],
+                "imageLinks": [
+                    "Gsj2ChIasAEITBQ",
+                    "Gsj2ChLbMAAM17c"
+                ]
+            },
+            "startDate": 10,
+            "endDate": 11,
+            "locate": {
+                "name": "ovo",
+                "address": "서울 마포구 양화로7안길 42 1층",
+                "embed": {
+					"timestamp": "1744271380952",
+					"key": "2no7w"
+				},
+				"kakao": "zHODKxkumv",
+				"google": "T814Tte7m5W1kfCk9",
+                "naver": "5mI0JQz0"
+            }
         }
     ],
     "photo": [],
