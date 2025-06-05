@@ -163,6 +163,12 @@
             "dates": "10",
             "schedule": [
                 {
+                    "title": "라이브",
+                    "detail": "MindPalette - 너의 이야기를 들려줘",
+                    "time": "22:00",
+                    "member": [14]
+                },
+                {
                     "title": "?",
                     "detail": "MindPalette - tripleS의 특별한 초대",
                     "time": "?",
