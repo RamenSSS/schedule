@@ -83,7 +83,13 @@
         },
         {
             "dates": "5",
-            "schedule": []
+            "schedule": [
+                {
+                    "title": "행사",
+                    "detail": "청소년 드림하이 페스티벌",
+                    "time": "14:00"
+                }
+            ]
         },
         {
             "dates": "6",
