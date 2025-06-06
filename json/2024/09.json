@@ -115,7 +115,7 @@
             "schedule": [
                 {
                     "title": "방송",
-                    "detail": "복면가왕",
+                    "detail": "복면가왕 (판정단)",
                     "time": "18:05",
                     "member": [4,5]
                 }
@@ -208,7 +208,7 @@
             "schedule": [
                 {
                     "title": "방송",
-                    "detail": "복면가왕",
+                    "detail": "복면가왕 (판정단)",
                     "time": "18:05",
                     "member": [4,5]
                 }
