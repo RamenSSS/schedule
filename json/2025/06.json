@@ -237,7 +237,8 @@
             "schedule": [
                 {
                     "title": "행사",
-                    "detail": "G!POP 流行音樂節"
+                    "detail": "G!POP 流行音樂節",
+                    "member": [3,5,6,9,13,17,19,20]
                 },
                 {
                     "title": "팬싸",
