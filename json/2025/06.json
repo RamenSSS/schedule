@@ -376,7 +376,13 @@
         },
         {
             "dates": "28",
-            "schedule": []
+            "schedule": [
+                {
+                    "title": "팬싸",
+                    "detail": "IDOUSTAGE (대면)",
+                    "member": [10,14,15,18]
+                }
+            ]
         },
         {
             "dates": "29",
