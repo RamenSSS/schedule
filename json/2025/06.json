@@ -122,10 +122,13 @@
                 },
                 {
                     "title": "팬싸",
-                    "detail": "K-MONSTAR (영통)",
+                    "detail": "K-MONSTAR (1:1 영통)",
                     "time": "17:30",
                     "member": [2,3,5,6,9,12,13,17,19,20,23,24],
-                    "unit": "B조"
+                    "unit": "B조",
+                    "link": [
+                        "https://x.com/KMONSTAR_GLOBAL/status/1925431467750154254"
+                    ]
                 }
             ]
         },
@@ -137,7 +140,10 @@
                     "detail": "점프업이엔티 (대면, 1:1 영통)",
                     "time": "13:00",
                     "member": [2,3,5,6,9,12,13,17,19,20,23,24],
-                    "unit": "B조"
+                    "unit": "B조",
+                    "link": [
+                        "https://x.com/JumpUp_ent/status/1923989518706680299"
+                    ]
                 },
                 {
                     "title": "라디오",
@@ -173,14 +179,6 @@
                     "detail": "MindPalette - 너의 이야기를 들려줘",
                     "time": "22:00",
                     "member": [14]
-                },
-                {
-                    "title": "?",
-                    "detail": "MindPalette - tripleS의 특별한 초대",
-                    "time": "?",
-                    "member": [1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24],
-                    "hideMember": true,
-                    "unit": "S1 ~ S24"
                 }
             ]
         },
@@ -221,20 +219,29 @@
                     "title": "팬싸",
                     "detail": "Objekt Cafe in Taipei",
                     "time": "15:00 UTC+8",
-                    "member": [3,5,6,9,13,17,19,20]
+                    "member": [3,5,6,9,13,17,19,20],
+                    "link": [
+                        "https://x.com/KMONSTAR_GLOBAL/status/1927968198739251601"
+                    ]
                 },
                 {
                     "title": "팬싸",
                     "detail": "K-MONSTAR (대면)",
                     "time": "16:00 UTC+8",
-                    "member": [3,5,6,9,13,17,19,20]
+                    "member": [3,5,6,9,13,17,19,20],
+                    "link": [
+                        "https://x.com/KMONSTAR_GLOBAL/status/1924404816853488061"
+                    ]
                 },
                 {
                     "title": "팬싸",
                     "detail": "에버라인 (대면, 1:1 영통)",
                     "time": "19:00",
                     "member": [1,4,7,8,10,11,14,15,16,18,21,22],
-                    "unit": "A조"
+                    "unit": "A조",
+                    "link": [
+                        "https://x.com/EVERLINESHOP/status/1925055453345808758"
+                    ]
                 }
             ]
         },
@@ -251,14 +258,20 @@
                     "detail": "마뮤테 (대면, 단체 영통)",
                     "time": "13:00",
                     "member": [1,4,7,8,10,11,14,15,16,18,21,22],
-                    "unit": "A조"
+                    "unit": "A조",
+                    "link": [
+                        "https://x.com/_mmtshop/status/1926188830819746011"
+                    ]
                 },
                 {
                     "title": "팬싸",
-                    "detail": "K-MONSTAR (영통)",
+                    "detail": "K-MONSTAR (1:1 영통)",
                     "time": "17:30",
                     "member": [1,4,7,8,10,11,14,15,16,18,21,22],
-                    "unit": "A조"
+                    "unit": "A조",
+                    "link": [
+                        "https://x.com/KMONSTAR_GLOBAL/status/1925431467750154254"
+                    ]
                 }
             ]
         },
@@ -270,7 +283,10 @@
                     "detail": "위드뮤 (대면, 1:1 영통)",
                     "time": "13:00",
                     "member": [1,4,7,8,10,11,14,15,16,18,21,22],
-                    "unit": "A조"
+                    "unit": "A조",
+                    "link": [
+                        "https://x.com/Withmuu_twt/status/1927243417790136768"
+                    ]
                 },
                 {
                     "title": "팬싸",
@@ -310,7 +326,10 @@
                     "title": "팬싸",
                     "detail": "애플뮤직 (대면, 1:1 영통)",
                     "time": "20:00",
-                    "member": [4,5,7,8,11,14,15,16,18,21,23,24]
+                    "member": [4,5,7,8,11,14,15,16,18,21,23,24],
+                    "link": [
+                        "https://x.com/applemusic_m/status/1928330532838068426"
+                    ]
                 }
             ]
         },
@@ -332,7 +351,11 @@
                     "title": "팬싸",
                     "detail": "b.stage+ (대면, 단체 영통)",
                     "time": "13:00",
-                    "member": [2,4,5,7,8,10,14,16,18,22,23,24]
+                    "member": [2,4,5,7,8,10,14,16,18,22,23,24],
+                    "link": [
+                        "https://x.com/bstageplus/status/1929463007991500850",
+                        "https://x.com/bstageplus/status/1929462996478419212"
+                    ]
                 }
             ]
         },
@@ -343,7 +366,10 @@
                     "title": "팬싸",
                     "detail": "에버라인 (대면, 단체 영통)",
                     "time": "13:00",
-                    "member": [2,7,8,10,11,14,16,18,21,22,23,24]
+                    "member": [2,7,8,10,11,14,16,18,21,22,23,24],
+                    "link": [
+                        "https://x.com/EVERLINESHOP/status/1930489774214926578"
+                    ]
                 }
             ]
         },
@@ -366,13 +392,26 @@
                     "title": "팬싸",
                     "detail": "제이제이뮤즈 (단체 영통, 1:1 영통)",
                     "time": "19:00",
-                    "member": [1,2,3,6,9,12,13,14,17,19,20,24]
+                    "member": [1,2,3,6,9,12,13,14,17,19,20,24],
+                    "link": [
+                        "https://x.com/jjmuze_official/status/1931546730883154262"
+                    ]
                 }
             ]
         },
         {
             "dates": "27",
-            "schedule": []
+            "schedule": [
+                {
+                    "title": "팬싸",
+                    "detail": "점프업이엔티 (대면, 단체 영통)",
+                    "time": "19:00",
+                    "member": [1,2,3,5,7,9,11,12,13,18,19,20],
+                    "link": [
+                        "https://x.com/JumpUp_ent/status/1932679232334991822"
+                    ]
+                }
+            ]
         },
         {
             "dates": "28",
@@ -380,7 +419,10 @@
                 {
                     "title": "팬싸",
                     "detail": "IDOUSTAGE (대면)",
-                    "member": [10,14,15,18]
+                    "member": [10,14,15,18],
+                    "link": [
+                        "https://x.com/IDOUSTAGE/status/1932256439671963792"
+                    ]
                 }
             ]
         },
