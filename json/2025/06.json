@@ -418,6 +418,12 @@
             "schedule": [
                 {
                     "title": "팬싸",
+                    "detail": "hellolive (대면, 1:1 영통)",
+                    "time": "12:00",
+                    "member": [1,2,3,6,9,12,13,16,17,19,20,24]
+                },
+                {
+                    "title": "팬싸",
                     "detail": "IDOUSTAGE (대면)",
                     "member": [10,14,15,18],
                     "link": [
