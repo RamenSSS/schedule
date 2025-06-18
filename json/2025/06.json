@@ -309,7 +309,18 @@
         },
         {
             "dates": "18",
-            "schedule": []
+            "schedule": [
+                {
+                    "title": "라이브",
+                    "detail": "유튜브",
+                    "time": "22:00",
+                    "member": [12,18,24],
+                    "link": [
+                        "https://x.com/triplescosmos/status/1934536437808140694",
+                        "https://x.com/triplescosmos/status/1935185706902499337"
+                    ]
+                }
+            ]
         },
         {
             "dates": "19",
@@ -439,6 +450,15 @@
                     "detail": "채연 3주년",
                     "member": [4],
                     "hideMember": true
+                },
+                {
+                    "title": "팬싸",
+                    "detail": "위드뮤 (대면, 단체 영통)",
+                    "time": "13:00",
+                    "member": [1,2,3,5,6,7,9,12,13,16,19,24],
+                    "link": [
+                        "https://x.com/Withmuu_twt/status/1934853519414083856"
+                    ]
                 }
             ]
         },
