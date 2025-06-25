@@ -115,7 +115,13 @@
             "schedule": [
                 {
                     "title": "행사",
-                    "detail": "K-WORLD DREAM AWARDS"
+                    "detail": "K-WORLD DREAM AWARDS",
+                    "member": [1,4,7,8,10,11,14,15,16,18,21,22],
+                    "unit": "A조",
+                    "link": [
+                        "https://x.com/kwda_official/status/1937681055932436777",
+                        "https://www.instagram.com/p/DLTgkvYzZQR/"
+                    ]
                 }
             ]
         },
@@ -160,7 +166,13 @@
         },
         {
             "dates": "30",
-            "schedule": []
+            "schedule": [
+                {
+                    "title": "행사",
+                    "detail": "2025 CLICK THE STAR K-POP MUSIC FESTIVAL",
+                    "time": "14:00"
+                }
+            ]
         },
         {
             "dates": "31",

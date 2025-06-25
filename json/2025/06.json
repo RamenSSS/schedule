@@ -435,6 +435,15 @@
             "dates": "27",
             "schedule": [
                 {
+                    "title": "행사",
+                    "detail": "TEAM SSS ASSEMBLE 오프라인 팝업스토어 방문",
+                    "time": "17:00",
+                    "member": [3,9,13,18],
+                    "link": [
+                        "https://x.com/goalpost_asia/status/1937435541818990660"
+                    ]
+                },
+                {
                     "title": "팬싸",
                     "detail": "점프업이엔티 (대면, 단체 영통)",
                     "time": "19:00",
