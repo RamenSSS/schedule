@@ -197,6 +197,15 @@
                     "detail": "마유 2주년",
                     "member": [16],
                     "hideMember": true
+                },
+                {
+                    "title": "팬싸",
+                    "detail": "imini.tv (대면)",
+                    "member": [1,4,10,15,21],
+                    "link": [
+                        "https://www.imini.tv/xingjunwenhua/wap_pro/57925224.html",
+                        "https://www.imini.tv/xingjunwenhua/wap_pro/57925406.html"
+                    ]
                 }
             ]
         },
