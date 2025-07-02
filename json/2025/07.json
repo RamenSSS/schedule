@@ -220,7 +220,17 @@
         },
         {
             "dates": "25",
-            "schedule": []
+            "schedule": [
+                {
+                    "title": "팬싸",
+                    "detail": "위드뮤 (대면, 1:1 영통)",
+                    "time": "19:00",
+                    "member": [5,6,7,9,11,13,14,19,20,22,23,24],
+                    "link": [
+                        "https://x.com/Withmuu_twt/status/1940289432336441490"
+                    ]
+                }
+            ]
         },
         {
             "dates": "26",
