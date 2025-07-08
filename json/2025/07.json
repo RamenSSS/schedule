@@ -281,7 +281,17 @@
         },
         {
             "dates": "29",
-            "schedule": []
+            "schedule": [
+                {
+                    "title": "팬싸",
+                    "detail": "ITTA (단체 영통, 1:1 영통)",
+                    "time": "19:00",
+                    "member": [1,3,9,11,12,13,15,16,17,18,19,23],
+                    "link": [
+                        "https://x.com/fan_ITTA/status/1942464290323374362"
+                    ]
+                }
+            ]
         },
         {
             "dates": "30",
