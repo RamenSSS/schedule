@@ -284,6 +284,15 @@
             "schedule": [
                 {
                     "title": "팬싸",
+                    "detail": "PINKYPOP (단체 영통)",
+                    "time": "18:00 UTC+8",
+                    "member": [1,3,9,11,12,13,15,16,17,18,19,23],
+                    "link": [
+                        "https://x.com/HELLOPINKYPOP/status/1942841182591275110"
+                    ]
+                },
+                {
+                    "title": "팬싸",
                     "detail": "ITTA (단체 영통, 1:1 영통)",
                     "time": "19:00",
                     "member": [1,3,9,11,12,13,15,16,17,18,19,23],
