@@ -94,6 +94,11 @@
             "dates": "9",
             "schedule": [
                 {
+                    "title": "행사",
+                    "detail": "'킹 오브 킹스' VIP 시사회",
+                    "member": [3]
+                },
+                {
                     "title": "팬싸",
                     "detail": "b.stage+ (단체 영통, 1:1 영통)",
                     "time": "19:00",
