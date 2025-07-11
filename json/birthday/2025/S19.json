@@ -1,0 +1,34 @@
+{
+    "cafe": [
+        {
+            "title": "𝗗𝗘𝗔𝗥𝗘𝓢𝗧 : 𝗱𝗮𝘆 𝗮𝗳𝘁𝗲𝗿 𝗱𝗮𝘆",
+            "twitter": {
+                "tweets": [
+                    "blessed_jhy/status/1943626595488653762"
+                ],
+                "tags": [
+                    "DEARE𝒮T_LOVE"
+                ],
+                "imageLinks": [
+                    "GvkmFNmaQAAgu_z",
+                    "GvkmFOQXYAAox6M"
+                ]
+            },
+            "startDate": 0,
+            "endDate": 1,
+            "locate": {
+                "name": "호또코히",
+                "address": "서울 마포구 독막로9길 33 반지층 카페 호또코히",
+                "embed": {
+                    "timestamp": "1752233251671",
+                    "key": "5g6ypyzcemm"
+                },
+                "kakao": "VUgUo3FqR9",
+                "google": "WBqXhssmKwHskHkR7",
+                "naver": "GaldA8yB"
+            }
+        }
+    ],
+    "photo": [],
+    "ad": []
+}
