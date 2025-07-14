@@ -168,7 +168,17 @@
         },
         {
             "dates": "17",
-            "schedule": []
+            "schedule": [
+                {
+                    "title": "라이브",
+                    "detail": "유튜브",
+                    "time": "22:00",
+                    "member": [7,10],
+                    "link": [
+                        "https://x.com/triplescosmos/status/1944683294228189594"
+                    ]
+                }
+            ]
         },
         {
             "dates": "18",
