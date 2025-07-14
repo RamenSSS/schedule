@@ -27,6 +27,34 @@
                 "google": "WBqXhssmKwHskHkR7",
                 "naver": "GaldA8yB"
             }
+        },
+        {
+            "title": "𝙣𝙞𝙣𝙚𝙩𝙚𝙚𝙣 𝙡𝙤𝙫𝙚𝙧𝙨 𝙘𝙡𝙪𝙗",
+            "twitter": {
+                "tweets": [
+                    "haru070801/status/1944713761790808522"
+                ],
+                "tags": [
+                    "나인틴러버스클럽_부원모집"
+                ],
+                "imageLinks": [
+                    "Gv0C2YaWYAAAH_-",
+                    "Gv0C2YYWoAAK6BR"
+                ]
+            },
+            "startDate": 0,
+            "endDate": 1,
+            "locate": {
+                "name": "카페 아이디오",
+                "address": "서울 마포구 와우산로29길 4-6 3&4층",
+                "embed": {
+                    "timestamp": "1752493175483",
+                    "key": "5mqav8rt9h3"
+                },
+                "kakao": "OMFYW0IXFM",
+                "google": "YwZrYKD7PYq6wGee9",
+                "naver": "G7CJcHfw"
+            }
         }
     ],
     "photo": [],
