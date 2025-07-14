@@ -83,7 +83,12 @@
         },
         {
             "dates": "19",
-            "schedule": []
+            "schedule": [
+                {
+                    "title": "행사",
+                    "detail": "장수 한우랑 사과랑 축제"
+                }
+            ]
         },
         {
             "dates": "20",

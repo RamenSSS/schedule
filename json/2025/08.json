@@ -49,6 +49,15 @@
                     "detail": "서연 생일",
                     "member": [1],
                     "hideMember": true
+                },
+                {
+                    "title": "팬싸",
+                    "detail": "IDOUSTAGE (단체 영통, 1:1 영통)",
+                    "time": "18:00 UTC+8",
+                    "member": [3,4,5,7,8,14,15,17,20,21,23,24],
+                    "link": [
+                        "https://x.com/IDOUSTAGE/status/1943852890302632421"
+                    ]
                 }
             ]
         },
