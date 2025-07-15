@@ -1,0 +1,33 @@
+{
+    "cafe": [
+        {
+            "twitter": {
+                "tweets": [
+                    "YouthTemp806/status/1944728622721626562"
+                ],
+                "tags": [
+                    "청춘의온도_86"
+                ],
+                "imageLinks": [
+                    "Gv0QXftXoAAmOZf",
+                    "Gv0QXn0aMAAa37K"
+                ]
+            },
+            "startDate": 6,
+            "endDate": 7,
+            "locate": {
+                "name": "다이버시티",
+                "address": "서울 마포구 홍익로2길 43 3층 8호",
+                "embed": {
+                    "timestamp": "1752568502489",
+                    "key": "5aqeoxnz3we"
+                },
+                "kakao": "jxIWbpjT0Y",
+                "google": "LMZNUBA4kPfBzRJE8",
+                "naver": "Fr7pREcL"
+            }
+        }
+    ],
+    "photo": [],
+    "ad": []
+}
