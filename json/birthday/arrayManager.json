@@ -56,7 +56,7 @@
     "data": {
         "S1": {
             "order": 1,
-            "fileName": "seoyeon",
+            "englishName": "SeoYeon",
             "koreanName": "윤서연",
             "color": {
                 "bgColor": "22aeff",
@@ -67,7 +67,7 @@
         },
         "S2": {
             "order": 2,
-            "fileName": "hyerin",
+            "englishName": "HyeRin",
             "koreanName": "정혜린",
             "color": {
                 "bgColor": "9200ff",
@@ -78,7 +78,7 @@
         },
         "S3": {
             "order": 3,
-            "fileName": "jiwoo",
+            "englishName": "JiWoo",
             "koreanName": "이지우",
             "color": {
                 "bgColor": "fff800",
@@ -89,7 +89,7 @@
         },
         "S4": {
             "order": 4,
-            "fileName": "chaeyeon",
+            "englishName": "ChaeYeon",
             "koreanName": "김채연",
             "color": {
                 "bgColor": "98f21d",
@@ -100,7 +100,7 @@
         },
         "S5": {
             "order": 5,
-            "fileName": "yooyeon",
+            "englishName": "YooYeon",
             "koreanName": "김유연",
             "color": {
                 "bgColor": "db0c74",
@@ -111,7 +111,7 @@
         },
         "S6": {
             "order": 6,
-            "fileName": "soomin",
+            "englishName": "SooMin",
             "koreanName": "김수민",
             "color": {
                 "bgColor": "fc83a4",
@@ -122,7 +122,7 @@
         },
         "S7": {
             "order": 7,
-            "fileName": "nakyoung",
+            "englishName": "NaKyoung",
             "koreanName": "김나경",
             "color": {
                 "bgColor": "6799a0",
@@ -133,7 +133,7 @@
         },
         "S8": {
             "order": 8,
-            "fileName": "yubin",
+            "englishName": "YuBin",
             "koreanName": "공유빈",
             "color": {
                 "bgColor": "ffe3e2",
@@ -144,7 +144,7 @@
         },
         "S9": {
             "order": 9,
-            "fileName": "kaede",
+            "englishName": "Kaede",
             "koreanName": "카에데",
             "color": {
                 "bgColor": "ffc935",
@@ -155,7 +155,7 @@
         },
         "S10": {
             "order": 10,
-            "fileName": "dahyun",
+            "englishName": "DaHyun",
             "koreanName": "서다현",
             "color": {
                 "bgColor": "ff9ad6",
@@ -166,7 +166,7 @@
         },
         "S11": {
             "order": 11,
-            "fileName": "kotone",
+            "englishName": "Kotone",
             "koreanName": "코토네",
             "color": {
                 "bgColor": "ffde00",
@@ -177,7 +177,7 @@
         },
         "S12": {
             "order": 12,
-            "fileName": "yeonji",
+            "englishName": "YeonJi",
             "koreanName": "곽연지",
             "color": {
                 "bgColor": "5974ff",
@@ -188,7 +188,7 @@
         },
         "S13": {
             "order": 13,
-            "fileName": "nien",
+            "englishName": "Nien",
             "koreanName": "니엔",
             "color": {
                 "bgColor": "ff953f",
@@ -199,7 +199,7 @@
         },
         "S14": {
             "order": 14,
-            "fileName": "sohyun",
+            "englishName": "SoHyun",
             "koreanName": "박소현",
             "color": {
                 "bgColor": "1222b5",
@@ -210,7 +210,7 @@
         },
         "S15": {
             "order": 15,
-            "fileName": "xinyu",
+            "englishName": "Xinyu",
             "koreanName": "신위",
             "color": {
                 "bgColor": "d51313",
@@ -221,7 +221,7 @@
         },
         "S16": {
             "order": 16,
-            "fileName": "mayu",
+            "englishName": "Mayu",
             "koreanName": "마유",
             "color": {
                 "bgColor": "fe8e76",
@@ -232,7 +232,7 @@
         },
         "S17": {
             "order": 17,
-            "fileName": "lynn",
+            "englishName": "Lynn",
             "koreanName": "린",
             "color": {
                 "bgColor": "ac62b7",
@@ -243,7 +243,7 @@
         },
         "S18": {
             "order": 18,
-            "fileName": "joobin",
+            "englishName": "JooBin",
             "koreanName": "주빈",
             "color": {
                 "bgColor": "b7f54c",
@@ -254,7 +254,7 @@
         },
         "S19": {
             "order": 19,
-            "fileName": "hayeon",
+            "englishName": "HaYeon",
             "koreanName": "정하연",
             "color": {
                 "bgColor": "52d9bb",
@@ -265,7 +265,7 @@
         },
         "S20": {
             "order": 20,
-            "fileName": "shion",
+            "englishName": "ShiOn",
             "koreanName": "박시온",
             "color": {
                 "bgColor": "ff428a",
@@ -276,7 +276,7 @@
         },
         "S21": {
             "order": 21,
-            "fileName": "chaewon",
+            "englishName": "ChaeWon",
             "koreanName": "김채원",
             "color": {
                 "bgColor": "c7a3e0",
@@ -287,7 +287,7 @@
         },
         "S22": {
             "order": 22,
-            "fileName": "sullin",
+            "englishName": "Sullin",
             "koreanName": "설린",
             "color": {
                 "bgColor": "7bba8d",
@@ -298,7 +298,7 @@
         },
         "S23": {
             "order": 23,
-            "fileName": "seoah",
+            "englishName": "SeoAh",
             "koreanName": "서아",
             "color": {
                 "bgColor": "cff3ff",
@@ -309,7 +309,7 @@
         },
         "S24": {
             "order": 24,
-            "fileName": "jiyeon",
+            "englishName": "JiYeon",
             "koreanName": "지연",
             "color": {
                 "bgColor": "ffab62",
