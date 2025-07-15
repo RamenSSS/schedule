@@ -12,7 +12,17 @@
         },
         {
             "dates": "3",
-            "schedule": []
+            "schedule": [
+                {
+                    "title": "공연",
+                    "detail": "〈tripleS A Live 25〉 토론토",
+                    "member": [5,11,13,17,19,20,21,24],
+                    "unit": "Alphie",
+                    "link": [
+                        "https://x.com/triplescosmos/status/1945151370681577776"
+                    ]
+                }
+            ]
         },
         {
             "dates": "4",
@@ -20,7 +30,17 @@
         },
         {
             "dates": "5",
-            "schedule": []
+            "schedule": [
+                {
+                    "title": "공연",
+                    "detail": "〈tripleS A Live 25〉 뉴욕",
+                    "member": [5,11,13,17,19,20,21,24],
+                    "unit": "Alphie",
+                    "link": [
+                        "https://x.com/triplescosmos/status/1945151370681577776"
+                    ]
+                }
+            ]
         },
         {
             "dates": "6",
@@ -28,7 +48,17 @@
         },
         {
             "dates": "7",
-            "schedule": []
+            "schedule": [
+                {
+                    "title": "공연",
+                    "detail": "〈tripleS A Live 25〉 인디애나폴리스",
+                    "member": [5,11,13,17,19,20,21,24],
+                    "unit": "Alphie",
+                    "link": [
+                        "https://x.com/triplescosmos/status/1945151370681577776"
+                    ]
+                }
+            ]
         },
         {
             "dates": "8",
@@ -36,7 +66,17 @@
         },
         {
             "dates": "9",
-            "schedule": []
+            "schedule": [
+                {
+                    "title": "공연",
+                    "detail": "〈tripleS A Live 25〉 시카고",
+                    "member": [5,11,13,17,19,20,21,24],
+                    "unit": "Alphie",
+                    "link": [
+                        "https://x.com/triplescosmos/status/1945151370681577776"
+                    ]
+                }
+            ]
         },
         {
             "dates": "10",
@@ -54,6 +94,15 @@
                     "detail": "유빈 3주년",
                     "member": [8],
                     "hideMember": true
+                },
+                {
+                    "title": "공연",
+                    "detail": "〈tripleS A Live 25〉 댈러스",
+                    "member": [5,11,13,17,19,20,21,24],
+                    "unit": "Alphie",
+                    "link": [
+                        "https://x.com/triplescosmos/status/1945151370681577776"
+                    ]
                 }
             ]
         },
@@ -63,7 +112,17 @@
         },
         {
             "dates": "14",
-            "schedule": []
+            "schedule": [
+                {
+                    "title": "공연",
+                    "detail": "〈tripleS A Live 25〉 덴버",
+                    "member": [5,11,13,17,19,20,21,24],
+                    "unit": "Alphie",
+                    "link": [
+                        "https://x.com/triplescosmos/status/1945151370681577776"
+                    ]
+                }
+            ]
         },
         {
             "dates": "15",
@@ -75,7 +134,17 @@
         },
         {
             "dates": "17",
-            "schedule": []
+            "schedule": [
+                {
+                    "title": "공연",
+                    "detail": "〈tripleS A Live 25〉 샌프란시스코",
+                    "member": [5,11,13,17,19,20,21,24],
+                    "unit": "Alphie",
+                    "link": [
+                        "https://x.com/triplescosmos/status/1945151370681577776"
+                    ]
+                }
+            ]
         },
         {
             "dates": "18",
@@ -87,6 +156,15 @@
                 {
                     "title": "행사",
                     "detail": "장수 한우랑 사과랑 축제"
+                },
+                {
+                    "title": "공연",
+                    "detail": "〈tripleS A Live 25〉 로스앤젤레스",
+                    "member": [5,11,13,17,19,20,21,24],
+                    "unit": "Alphie",
+                    "link": [
+                        "https://x.com/triplescosmos/status/1945151370681577776"
+                    ]
                 }
             ]
         },
@@ -100,7 +178,17 @@
         },
         {
             "dates": "22",
-            "schedule": []
+            "schedule": [
+                {
+                    "title": "공연",
+                    "detail": "〈tripleS A Live 25〉 벤쿠버",
+                    "member": [5,11,13,17,19,20,21,24],
+                    "unit": "Alphie",
+                    "link": [
+                        "https://x.com/triplescosmos/status/1945151370681577776"
+                    ]
+                }
+            ]
         },
         {
             "dates": "23",
