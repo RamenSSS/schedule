@@ -55,6 +55,35 @@
                 "google": "YwZrYKD7PYq6wGee9",
                 "naver": "G7CJcHfw"
             }
+        },
+        {
+            "title": "𝐓𝐡𝐞 𝐇𝐞𝐱𝐚𝐠𝐨𝐧𝐬 𝐆𝐮𝐢𝐝𝐞 𝐭𝐨 𝐋𝐨𝐯𝐞 𝐇𝐚𝐘𝐞𝐨𝐧",
+            "twitter": {
+                "tweets": [
+                    "hayeonmagazine/status/1945448615549505688"
+                ],
+                "tags": [
+                    "정하연을_덕질하는_육각단을_위한_안내서",
+                    "TheHexagonsGuidetoLoveHaYeon"
+                ],
+                "imageLinks": [
+                    "Gv-dOacW0AAvIIr",
+                    "Gv-fLl-W0AAZjD5"
+                ]
+            },
+            "startDate": 0,
+            "endDate": 1,
+            "locate": {
+                "name": "카페보니",
+                "address": "서울 마포구 독막로4길 7 1층",
+                "embed": {
+                    "timestamp": "1752677635115",
+                    "key": "5d48gkhzav5"
+                },
+                "kakao": "eEoTQTYXbk",
+                "google": "dT7bNvA1jLahDLt1A",
+                "naver": "GtUZpPgt"
+            }
         }
     ],
     "photo": [],
