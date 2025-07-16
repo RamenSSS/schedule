@@ -27,6 +27,62 @@
                 "google": "LMZNUBA4kPfBzRJE8",
                 "naver": "Fr7pREcL"
             }
+        },
+        {
+            "title": " 𓈒𓏸 𓂂𓈒꙳𝑫𝒆𝒆𝒑 𝑩𝒍𝒖𝒆 𝑴𝒐𝒎𝒆𝒏𝒕𝒔🌊𓂂⭒𓈒𓏸",
+            "twitter": {
+                "tweets": [
+                    "myeongsim_/status/1945439808454885799"
+                ],
+                "tags": [
+                    "Deep_Blue_Moments"
+                ],
+                "imageLinks": [
+                    "Gv-XL1YWAAEXGfv",
+                    "Gv-XL1dWAAAHG6A"
+                ]
+            },
+            "startDate": 5,
+            "endDate": 6,
+            "locate": {
+                "name": "카페 메리",
+                "address": "서울 마포구 동교로23길 32-22 1층",
+                "embed": {
+                    "timestamp": "1752677952408",
+                    "key": "5d4fwa3f55h"
+                },
+                "kakao": "9SJMZqO3SP",
+                "google": "oiQaBD2YC6YY2A8WA",
+                "naver": "Fw7iKvRr"
+            }
+        },
+        {
+            "title": "アイドル - ?  アイドル - ! ",
+            "twitter": {
+                "tweets": [
+                    "S2O806/status/1945468474056417649"
+                ],
+                "tags": [
+                    "アイドル_ㅇㅅㅇ "
+                ],
+                "imageLinks": [
+                    "Gv-xQuFWUAE3ApI",
+                    "Gv-xQtXaoAAquNT"
+                ]
+            },
+            "startDate": 5,
+            "endDate": 6,
+            "locate": {
+                "name": "호또코히",
+                "address": "서울 마포구 독막로9길 33 반지층 카페 호또코히",
+                "embed": {
+                    "timestamp": "1752233251671",
+                    "key": "5g6ypyzcemm"
+                },
+                "kakao": "VUgUo3FqR9",
+                "google": "WBqXhssmKwHskHkR7",
+                "naver": "GaldA8yB"
+            }
         }
     ],
     "photo": [],
