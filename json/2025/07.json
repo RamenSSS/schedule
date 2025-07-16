@@ -219,7 +219,16 @@
         },
         {
             "dates": "21",
-            "schedule": []
+            "schedule": [
+                {
+                    "title": "행사",
+                    "detail": "Beach Bright 스페셜 이벤트",
+                    "link": [
+                        "https://www.instagram.com/p/DMHFU05zMJF/",
+                        "https://x.com/BeachBrigh37844/status/1945326775569146284"
+                    ]
+                }
+            ]
         },
         {
             "dates": "22",
