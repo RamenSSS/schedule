@@ -15,7 +15,7 @@
             "schedule": [
                 {
                     "title": "공연",
-                    "detail": "〈tripleS A Live 25〉 토론토",
+                    "detail": "〈@%〉 토론토",
                     "member": [5,11,13,17,19,20,21,24],
                     "unit": "Alphie",
                     "link": [
@@ -33,7 +33,7 @@
             "schedule": [
                 {
                     "title": "공연",
-                    "detail": "〈tripleS A Live 25〉 뉴욕",
+                    "detail": "〈@%〉 뉴욕",
                     "member": [5,11,13,17,19,20,21,24],
                     "unit": "Alphie",
                     "link": [
@@ -51,7 +51,7 @@
             "schedule": [
                 {
                     "title": "공연",
-                    "detail": "〈tripleS A Live 25〉 인디애나폴리스",
+                    "detail": "〈@%〉 인디애나폴리스",
                     "member": [5,11,13,17,19,20,21,24],
                     "unit": "Alphie",
                     "link": [
@@ -69,7 +69,7 @@
             "schedule": [
                 {
                     "title": "공연",
-                    "detail": "〈tripleS A Live 25〉 시카고",
+                    "detail": "〈@%〉 시카고",
                     "member": [5,11,13,17,19,20,21,24],
                     "unit": "Alphie",
                     "link": [
@@ -97,7 +97,7 @@
                 },
                 {
                     "title": "공연",
-                    "detail": "〈tripleS A Live 25〉 댈러스",
+                    "detail": "〈@%〉 댈러스",
                     "member": [5,11,13,17,19,20,21,24],
                     "unit": "Alphie",
                     "link": [
@@ -115,7 +115,7 @@
             "schedule": [
                 {
                     "title": "공연",
-                    "detail": "〈tripleS A Live 25〉 덴버",
+                    "detail": "〈@%〉 덴버",
                     "member": [5,11,13,17,19,20,21,24],
                     "unit": "Alphie",
                     "link": [
@@ -137,7 +137,7 @@
             "schedule": [
                 {
                     "title": "공연",
-                    "detail": "〈tripleS A Live 25〉 샌프란시스코",
+                    "detail": "〈@%〉 샌프란시스코",
                     "member": [5,11,13,17,19,20,21,24],
                     "unit": "Alphie",
                     "link": [
@@ -159,7 +159,7 @@
                 },
                 {
                     "title": "공연",
-                    "detail": "〈tripleS A Live 25〉 로스앤젤레스",
+                    "detail": "〈@%〉 로스앤젤레스",
                     "member": [5,11,13,17,19,20,21,24],
                     "unit": "Alphie",
                     "link": [
@@ -181,7 +181,7 @@
             "schedule": [
                 {
                     "title": "공연",
-                    "detail": "〈tripleS A Live 25〉 벤쿠버",
+                    "detail": "〈@%〉 벤쿠버",
                     "member": [5,11,13,17,19,20,21,24],
                     "unit": "Alphie",
                     "link": [
