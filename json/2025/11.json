@@ -8,7 +8,17 @@
         },
         {
             "dates": "2",
-            "schedule": []
+            "schedule": [
+                {
+                    "title": "공연",
+                    "detail": "?",
+                    "member": [3,4,5,6,11,16,20,21],
+                    "unit": "∞!",
+                    "link": [
+                        "https://x.com/tripleS_JAPAN/status/1946520499523366962"
+                    ]
+                }
+            ]
         },
         {
             "dates": "3",

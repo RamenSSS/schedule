@@ -4,7 +4,17 @@
     "results": [
         {
             "dates": "1",
-            "schedule": []
+            "schedule": [
+                {
+                    "title": "발매",
+                    "detail": "앨범 〈SecretHimitsuBimil〉",
+                    "member": [3,4,5,6,11,16,20,21],
+                    "unit": "∞!",
+                    "link": [
+                        "https://x.com/tripleS_JAPAN/status/1946520499523366962"
+                    ]
+                }
+            ]
         },
         {
             "dates": "2",
