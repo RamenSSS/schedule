@@ -234,6 +234,8 @@
                 {
                     "title": "행사",
                     "detail": "Beach Bright 스페셜 이벤트",
+                    "time": "10:00",
+                    "member": [5,7,11,13,16],
                     "link": [
                         "https://www.instagram.com/p/DMHFU05zMJF/",
                         "https://x.com/BeachBrigh37844/status/1945326775569146284"
