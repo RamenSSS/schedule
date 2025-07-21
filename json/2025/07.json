@@ -268,6 +268,15 @@
                         "https://www.imini.tv/xingjunwenhua/wap_pro/57925224.html",
                         "https://www.imini.tv/xingjunwenhua/wap_pro/57925406.html"
                     ]
+                },
+                {
+                    "title": "라이브",
+                    "detail": "유튜브",
+                    "time": "22:00",
+                    "member": [9,12,22,24],
+                    "link": [
+                        "https://x.com/triplescosmos/status/1947220011745202344"
+                    ]
                 }
             ]
         },
