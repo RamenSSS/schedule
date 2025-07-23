@@ -180,7 +180,16 @@
         },
         {
             "dates": "19",
-            "schedule": []
+            "schedule": [
+                {
+                    "title": "비공개",
+                    "detail": "ULTIST 광고 촬영",
+                    "member": [11,13,19,23],
+                    "link": [
+                        "https://x.com/tripleS_JAPAN/status/1922124648378204535"
+                    ]
+                }
+            ]
         },
         {
             "dates": "20",
