@@ -1,6 +1,7 @@
 {
     "cafe": [
         {
+            "title": "𝐎𝐇 𝐌𝐘! 𝐏𝐞𝐚𝐜𝐡𝐲 𝐁𝐚𝐛𝐲!",
             "twitter": {
                 "tweets": [
                     "snowlotus0209/status/1617824567925571584"
@@ -28,6 +29,7 @@
             }
         },
         {
+            "title": "Every moment of you",
             "twitter": {
                 "tweets": [
                     "YYNS_yyns/status/1608057041683369990"
@@ -58,12 +60,14 @@
     ],
     "photo": [
         {
+            "title": "SWEET IS LOVE",
             "twitter": {
                 "tweets": [
                     "R_kyy_/status/1608329234518528002"
                 ],
                 "tags": [
-                    "새하얀_첫눈사이_반짝이는_우리"
+                    "새하얀_첫눈사이_반짝이는_우리",
+                    "SWEET_IS_LOVE"
                 ],
                 "imageLinks": [
                     "backup/2023_S5_1.jpg",

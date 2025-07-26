@@ -1,6 +1,7 @@
 {
     "cafe": [
         {
+            "title": "𝓦𝓮𝓵𝓬𝓸𝓶𝓮 𝓽𝓸 𝓟𝓪𝓻𝓪𝓭𝓲𝓼𝓮 · 𝗔𝗻𝗴𝗲𝗹",
             "twitter": {
                 "tweets": [
                     "SohyunNABI14/status/1705162051306549397",
@@ -30,6 +31,7 @@
             }
         },
         {
+            "title": "🍂 Shape Of LOVE 🍂",
             "twitter": {
                 "tweets": [
                     "Confused_SSS/status/1706974175775396139"
@@ -39,8 +41,8 @@
                     "HAPPY_JWSH_DAY"
                 ],
                 "imageLinks": [
-                    "F7BjxfvbYAA2IHr",
-                    "F7Bj8LfbgAAI9gg"
+                    "backup/2023_S14_1.jpeg",
+                    "backup/2023_S14_2.jpeg"
                 ]
             },
             "startDate": 22,

@@ -1,6 +1,7 @@
 {
     "cafe": [
         {
+            "title": "𝑻𝒉𝒆 𝑭𝒊𝒓𝒔𝒕 𝑮𝒊𝒓𝒍 𝑰 𝑳𝒐𝒗𝒆𝒅",
             "twitter": {
                 "tweets": [
                     "SohyunNABI14/status/1835649853214310827",
@@ -32,10 +33,13 @@
             }
         },
         {
+            "title": "💙𝚂𝚌𝚑𝚘𝚘𝚕 𝙳𝚒𝚊𝚛𝚢💛",
             "twitter": {
                 "tweets": [
                     "joeywerepyre/status/1837453853757002220",
-                    "gemgemYYYY/status/1837453642028511621"
+                    "gemgemYYYY/status/1837453642028511621",
+                    "sohyun_hada",
+                    "ATiU_atr"
                 ],
                 "tags": [
                     "AfterSchoolWithSohyun",
@@ -64,12 +68,15 @@
     "photo": [],
     "ad": [
         {
+            "title": "HAPPY SOHYUN DAY !",
             "twitter": {
                 "tweets": [
                     "gemgemYYYY/status/1837056951274065942"
                 ],
                 "tags": [],
                 "imageLinks": [
+                    "backup/2024_S14_1.jpeg",
+                    "backup/2024_S14_2.jpeg",
                     "backup/2024_S14_3.jpeg"
                 ]
             },
