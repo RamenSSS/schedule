@@ -190,7 +190,17 @@
         },
         {
             "dates": "20",
-            "schedule": []
+            "schedule": [
+                {
+                    "title": "행사",
+                    "detail": "울산 세계명문대학 조정 페스티벌",
+                    "time": "19:00",
+                    "member": [1,4,6,8,11,16,17,21],
+                    "link": [
+                        "https://www.ticketlink.co.kr/product/57730"
+                    ]
+                }
+            ]
         },
         {
             "dates": "21",
