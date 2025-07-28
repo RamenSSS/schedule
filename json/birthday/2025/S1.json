@@ -83,7 +83,36 @@
                 "google": "WBqXhssmKwHskHkR7",
                 "naver": "GaldA8yB"
             }
-        }
+        },
+        {
+		    "title": "ㅇㅅㅇ 교환일기ﾟ  ⊹",
+		    "twitter": {
+		        "tweets": [
+		            "YoonSeoyeonCN/status/1946526993694314653"
+		        ],
+		        "tags": [
+		            "MY_CRUSH_SEOYEON_DIARY",
+		            "ㅇㅅ·ㅇ_교환일기 "
+		        ],
+		        "imageLinks": [
+		            "GwNz9UjXsAAmRmu",
+		            "GwNz9T1boAAEjIU"
+		        ]
+		    },
+		    "startDate": 6,
+		    "endDate": 6,
+		    "locate": {
+		        "name": "Victory Cafe",
+		        "address": "서울 마포구 와우산로29라길 15 지1층",
+		        "embed": {
+		            "timestamp": "1753677083139",
+		            "key": "6zodpbd7jht"
+		        },
+		        "kakao": "fMvAfqBdcZ",
+		        "google": "NFEDvvfGc5VqEPkQ8",
+		        "naver": "5YFTlkNS"
+		    }
+		}
     ],
     "photo": [],
     "ad": []
