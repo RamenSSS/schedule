@@ -112,6 +112,35 @@
 		        "google": "NFEDvvfGc5VqEPkQ8",
 		        "naver": "5YFTlkNS"
 		    }
+		},
+        {
+		    "title": "『  話が始まる, そこ。 』",
+		    "twitter": {
+		        "tweets": [
+		            "The_story_of_S1/status/1950513212144947354"
+		        ],
+		        "tags": [
+		            "서연이의_이야기가_시작되는_그곳",
+		            "The_story_of_S1"
+		        ],
+		        "imageLinks": [
+		            "GxGcrQEagAA6OG5",
+		            "GxGcs-aagAAig8G"
+		        ]
+		    },
+		    "startDate": 5,
+		    "endDate": 6,
+            "locate": {
+                "name": "카페 오소",
+                "address": "서울 마포구 홍익로2길 19 2층",
+                "embed": {
+                    "timestamp": "1739604583186",
+                    "key": "2n2vv"
+                },
+                "kakao": "zWKrSsBL1R",
+                "google": "5sb8iwMjRtJNHY7q9",
+                "naver": "GfCkVeHB"
+            }
 		}
     ],
     "photo": [],
