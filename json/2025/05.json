@@ -302,7 +302,13 @@
         },
         {
             "dates": "19",
-            "schedule": []
+            "schedule": [
+                {
+                    "title": "행사",
+                    "detail": "섬의 날 홍보대사 위촉식",
+                    "member": [3,7]
+                }
+            ]
         },
         {
             "dates": "20",
