@@ -96,6 +96,14 @@
                     "hideMember": true
                 },
                 {
+                    "title": "행사",
+                    "detail": "전북특별자치도민체육대회",
+                    "time": "20:20",
+                    "link": [
+                        "https://www.gochang.go.kr/jbsports/index.gochang?menuCd=DOM_000003502003000000"
+                    ]
+                },
+                {
                     "title": "공연",
                     "detail": "〈@%〉 댈러스",
                     "member": [5,11,13,17,19,20,21,24],

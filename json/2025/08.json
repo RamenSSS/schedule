@@ -45,7 +45,8 @@
                     "detail": "유튜브",
                     "time": "22:00",
                     "member": [6,21],
-                    "link": ["https://x.com/triplescosmos/status/1952293437585477944"
+                    "link": [
+                        "https://x.com/triplescosmos/status/1952293437585477944"
                     ]
                 }
             ]
@@ -155,6 +156,15 @@
                     "detail": "수민 3주년",
                     "member": [6],
                     "hideMember": true
+                },
+                {
+                    "title": "라디오",
+                    "detail": "아이돌 라디오 스페셜 DJ",
+                    "time": "21:00",
+                    "member": [1,4],
+                    "link": [
+                        "https://x.com/idolradiokorea/status/1952202940514771306"
+                    ]
                 }
             ]
         },
@@ -206,6 +216,15 @@
                     "detail": "LOVElution 데뷔 2주년",
                     "member": [1,2,8,9,10,13,14,15],
                     "unit": "LOVElution"
+                },
+                {
+                    "title": "팬싸",
+                    "detail": "에버라인 (대면, 1:1 영통)",
+                    "time": "13:00",
+                    "member": [1,3,4,7,10,13,15,16,18,20,23,24],
+                    "link": [
+                        "https://x.com/EVERLINESHOP/status/1951508268179923439"
+                    ]
                 }
             ]
         },
