@@ -101,7 +101,7 @@
                     "title": "행사",
                     "detail": "섬의 날",
                     "time": "19:30",
-                    "member": [3,7,11,13,17,24],
+                    "member": [3,6,7,9,11,13,17,24],
                     "link": [
                         "http://2025island.co.kr/page/s0202.php",
                         "https://www.instagram.com/p/DKN9EDeRiqd/"
@@ -319,6 +319,10 @@
                     "detail": "나경 3주년",
                     "member": [7],
                     "hideMember": true
+                },
+                {
+                    "title": "방송",
+                    "detail": "아이돌스타 선수권대회 녹화"
                 }
             ]
         },
@@ -332,7 +336,17 @@
         },
         {
             "dates": "28",
-            "schedule": []
+            "schedule": [
+                {
+                    "title": "팬싸",
+                    "detail": "위드뮤 (단체 영통, 1:1 영통)",
+                    "time": "19:00",
+                    "member": [1,5,6,7,8,11,15,16,17,18,19,24],
+                    "link": [
+                        "https://x.com/Withmuu_twt/status/1953699186605690887"
+                    ]
+                }
+            ]
         },
         {
             "dates": "29",
