@@ -311,7 +311,17 @@
         },
         {
             "dates": "24",
-            "schedule": []
+            "schedule": [
+                {
+                    "title": "팬싸",
+                    "detail": "에버라인 (대면, 단체 영통)",
+                    "time": "13:00",
+                    "member": [3,4,5,6,10,13,14,15,19,20,22,23],
+                    "link": [
+                        "https://x.com/EVERLINESHOP/status/1954769767686115638"
+                    ]
+                }
+            ]
         },
         {
             "dates": "25",
