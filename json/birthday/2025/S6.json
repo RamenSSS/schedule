@@ -1,0 +1,30 @@
+{
+    "cafe": [
+        {
+		    "title": "Art of Soomin",
+		    "twitter": {
+		        "tweets": [
+		            "SOOMIDITY/status/1957038998771356120"
+		        ],
+		        "imageLinks": [
+		            "GyjMkPzWsAAHSAW"
+		        ]
+		    },
+		    "startDate": 2,
+		    "endDate": 4,
+		    "locate": {
+		        "name": "카페 이음",
+		        "address": "서울 중구 을지로27길 35",
+		        "embed": {
+		            "timestamp": "1755472284440",
+		            "key": "77b443oyfa8"
+		        },
+		        "kakao": "RtzF9aLf-7",
+		        "google": "LmFAhnfQCfB3A93n8",
+		        "naver": "5IiTusnH"
+		    }
+		}
+    ],
+    "photo": [],
+    "ad": []
+}
