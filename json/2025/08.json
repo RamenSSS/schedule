@@ -326,8 +326,7 @@
                 {
                     "title": "행사",
                     "detail": "K-WORLD DREAM AWARDS",
-                    "member": [1,4,7,8,10,11,14,15,16,18,21,22],
-                    "unit": "A조",
+                    "member": [1,4,7,8,10,11,15,16,18,21,22],
                     "link": [
                         "https://x.com/kwda_official/status/1937681055932436777",
                         "https://www.instagram.com/p/DLTgkvYzZQR/"
@@ -397,7 +396,8 @@
                 },
                 {
                     "title": "방송",
-                    "detail": "아이돌스타 선수권대회 녹화"
+                    "detail": "아이돌스타 선수권대회 녹화",
+                    "member": [1,3,6,10,13,16,17,18,22,24]
                 }
             ]
         },
