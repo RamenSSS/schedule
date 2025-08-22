@@ -60,15 +60,6 @@
             "dates": "7",
             "schedule": [
                 {
-                    "title": "행사",
-                    "detail": "한터 음악 페스티벌",
-                    "time": "18:00",
-                    "member": [3,6,7,15,16,18,22],
-                    "link": [
-                        "https://www.instagram.com/p/DNE-ZVfyTzL"
-                    ]
-                },
-                {
                     "title": "공연",
                     "detail": "〈@%〉 인디애나폴리스",
                     "member": [5,11,13,17,19,20,21,24],
