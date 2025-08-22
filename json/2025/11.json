@@ -140,7 +140,17 @@
         },
         {
             "dates": "29",
-            "schedule": []
+            "schedule": [
+                {
+                    "title": "팬싸",
+                    "detail": "forTUNE music (사인회, 투샷회)",
+                    "member": [3,4,5,6,11,16,20,21],
+                    "unit": "∞!",
+                    "link": [
+                        "https://www.triples-official.jp/news/?info_id=576447"
+                    ]
+                }
+            ]
         },
         {
             "dates": "30",
