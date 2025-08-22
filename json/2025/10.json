@@ -67,6 +67,15 @@
                     "detail": "EVOLution 데뷔 2주년",
                     "member": [3,4,5,6,7,11,12,16],
                     "unit": "EVOLution"
+                },
+                {
+                    "title": "행사",
+                    "detail": "의령 리치리치 페스티벌",
+                    "time": "19:00",
+                    "member": [1,3,9,10,12,16,18,22],
+                    "link": [
+                        "https://www.instagram.com/p/DNnK4xVhooL"
+                    ]
                 }
             ]
         },
