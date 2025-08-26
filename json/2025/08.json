@@ -399,13 +399,24 @@
                 {
                     "title": "방송",
                     "detail": "아이돌스타 선수권대회 녹화",
+                    "time": "06:30",
                     "member": [1,3,6,10,13,16,17,18,22,24]
                 }
             ]
         },
         {
             "dates": "26",
-            "schedule": []
+            "schedule": [
+                {
+                    "title": "라이브",
+                    "detail": "유튜브",
+                    "time": "22:00",
+                    "member": [3,18],
+                    "link": [
+                        "https://x.com/triplescosmos/status/1959903586160345216"
+                    ]
+                }
+            ]
         },
         {
             "dates": "27",
