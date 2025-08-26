@@ -16,6 +16,7 @@
                 {
                     "title": "공연",
                     "detail": "〈@%〉 토론토",
+                    "time": "18:00 UTC-4",
                     "member": [5,11,13,17,19,20,21,24],
                     "unit": "Alphie",
                     "link": [
@@ -53,6 +54,7 @@
                 {
                     "title": "공연",
                     "detail": "〈@%〉 뉴욕",
+                    "time": "19:30 UTC-4",
                     "member": [5,11,13,17,19,20,21,24],
                     "unit": "Alphie",
                     "link": [
@@ -63,7 +65,17 @@
         },
         {
             "dates": "6",
-            "schedule": []
+            "schedule": [
+                {
+                    "title": "팬싸",
+                    "detail": "점프업이엔티 (대면, 1:1 영통)",
+                    "time": "13:00",
+                    "member": [3,6,7,15,16,18,22,23],
+                    "link": [
+                        "https://x.com/JumpUp_ent/status/1960220714004623438"
+                    ]
+                }
+            ]
         },
         {
             "dates": "7",
@@ -71,6 +83,7 @@
                 {
                     "title": "공연",
                     "detail": "〈@%〉 인디애나폴리스",
+                    "time": "19:30 UTC-4",
                     "member": [5,11,13,17,19,20,21,24],
                     "unit": "Alphie",
                     "link": [
@@ -89,6 +102,7 @@
                 {
                     "title": "공연",
                     "detail": "〈@%〉 시카고",
+                    "time": "19:30 UTC-5",
                     "member": [5,11,13,17,19,20,21,24],
                     "unit": "Alphie",
                     "link": [
@@ -126,6 +140,7 @@
                 {
                     "title": "공연",
                     "detail": "〈@%〉 댈러스",
+                    "time": "18:00 UTC-5",
                     "member": [5,11,13,17,19,20,21,24],
                     "unit": "Alphie",
                     "link": [
@@ -144,6 +159,7 @@
                 {
                     "title": "공연",
                     "detail": "〈@%〉 덴버",
+                    "time": "18:00 UTC-6",
                     "member": [5,11,13,17,19,20,21,24],
                     "unit": "Alphie",
                     "link": [
@@ -175,6 +191,7 @@
                 {
                     "title": "공연",
                     "detail": "〈@%〉 샌프란시스코",
+                    "time": "19:30 UTC-7",
                     "member": [5,11,13,17,19,20,21,24],
                     "unit": "Alphie",
                     "link": [
@@ -198,6 +215,7 @@
                 {
                     "title": "공연",
                     "detail": "〈@%〉 로스앤젤레스",
+                    "time": "19:30 UTC-7",
                     "member": [5,11,13,17,19,20,21,24],
                     "unit": "Alphie",
                     "link": [
@@ -229,6 +247,7 @@
                 {
                     "title": "공연",
                     "detail": "〈@%〉 벤쿠버",
+                    "time": "19:30 UTC-7",
                     "member": [5,11,13,17,19,20,21,24],
                     "unit": "Alphie",
                     "link": [
