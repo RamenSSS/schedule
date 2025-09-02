@@ -122,7 +122,16 @@
         },
         {
             "dates": "19",
-            "schedule": []
+            "schedule": [
+                {
+                    "title": "행사",
+                    "detail": "버추얼 라이브 페스티벌",
+                    "member": [2,4,7,8,9,13,16,17],
+                    "link": [
+                        "https://x.com/CoupangPlay/status/1962673501871186014"
+                    ]
+                }
+            ]
         },
         {
             "dates": "20",
