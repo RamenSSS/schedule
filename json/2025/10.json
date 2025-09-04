@@ -69,6 +69,15 @@
                     "unit": "EVOLution"
                 },
                 {
+                    "title": "공연",
+                    "detail": "〈@%〉 서울",
+                    "member": [5,11,13,17,19,20,21,24],
+                    "unit": "Alphie",
+                    "link": [
+                        "https://x.com/triplescosmos/status/1963542558577234133"
+                    ]
+                },
+                {
                     "title": "행사",
                     "detail": "의령 리치리치 페스티벌",
                     "time": "19:00",
@@ -81,7 +90,17 @@
         },
         {
             "dates": "12",
-            "schedule": []
+            "schedule": [
+                {
+                    "title": "공연",
+                    "detail": "〈@%〉 서울",
+                    "member": [5,11,13,17,19,20,21,24],
+                    "unit": "Alphie",
+                    "link": [
+                        "https://x.com/triplescosmos/status/1963542558577234133"
+                    ]
+                }
+            ]
         },
         {
             "dates": "13",
