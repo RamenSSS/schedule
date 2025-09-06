@@ -112,7 +112,16 @@
         },
         {
             "dates": "22",
-            "schedule": []
+            "schedule": [
+                {
+                    "title": "행사",
+                    "detail": "Dream Concert Abu Dhabi",
+                    "time": "16:00 UTC+4",
+                    "link": [
+                        "https://dreamconcert.ae/"
+                    ]
+                }
+            ]
         },
         {
             "dates": "23",

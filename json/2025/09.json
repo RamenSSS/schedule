@@ -267,7 +267,10 @@
                 {
                     "title": "행사",
                     "detail": "장수 한우랑 사과랑 축제",
-                    "time": "19:30"
+                    "time": "19:00",
+                    "link": [
+                        "https://www.jangsufestival.com/content/index.sgk?gubun=allfestival&dname=guide"
+                    ]
                 },
                 {
                     "title": "공연",
@@ -326,7 +329,7 @@
                     "time": "19:00",
                     "member": [3,4,6,7,8,9,18,22],
                     "link": [
-                        "https://www.instagram.com/swu_nuri_s_day"
+                        "https://www.instagram.com/p/DOLb-2fE6nh/?img_index=2"
                     ]
                 }
             ]
