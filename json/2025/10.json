@@ -133,7 +133,16 @@
         },
         {
             "dates": "17",
-            "schedule": []
+            "schedule": [
+                {
+                    "title": "행사",
+                    "detail": "KOOM 2025 K-POP Festival",
+                    "member": [1,10,11,18,20,22,23,24],
+                    "link": [
+                        "https://www.instagram.com/p/DOSTj4VEmj7"
+                    ]
+                }
+            ]
         },
         {
             "dates": "18",
