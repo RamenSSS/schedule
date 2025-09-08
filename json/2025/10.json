@@ -57,7 +57,17 @@
         },
         {
             "dates": "10",
-            "schedule": []
+            "schedule": [
+                {
+                    "title": "행사",
+                    "detail": "원주 K-pop 페스티벌",
+                    "time": "18:00",
+                    "member": [1,3,7,9,10,12,16,18],
+                    "link": [
+                        "https://www.instagram.com/reel/DOUmJHIkgqW"
+                    ]
+                }
+            ]
         },
         {
             "dates": "11",
