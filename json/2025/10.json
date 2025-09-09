@@ -81,10 +81,12 @@
                 {
                     "title": "공연",
                     "detail": "〈@%〉 서울",
+                    "time": "18:00",
                     "member": [5,11,13,17,19,20,21,24],
                     "unit": "Alphie",
                     "link": [
-                        "https://x.com/triplescosmos/status/1963542558577234133"
+                        "https://x.com/triplescosmos/status/1963542558577234133",
+                        "https://www.ticketlink.co.kr/product/58494"
                     ]
                 },
                 {
@@ -104,10 +106,12 @@
                 {
                     "title": "공연",
                     "detail": "〈@%〉 서울",
+                    "time": "17:00",
                     "member": [5,11,13,17,19,20,21,24],
                     "unit": "Alphie",
                     "link": [
-                        "https://x.com/triplescosmos/status/1963542558577234133"
+                        "https://x.com/triplescosmos/status/1963542558577234133",
+                        "https://www.ticketlink.co.kr/product/58494"
                     ]
                 }
             ]
