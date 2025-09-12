@@ -177,7 +177,7 @@
                 {
                     "title": "행사",
                     "detail": "전북특별자치도민체육대회",
-                    "time": "20:20",
+                    "time": "20:50",
                     "member": [1,3,6,7,8,10,16,18],
                     "link": [
                         "https://www.gochang.go.kr/jbsports/index.gochang?menuCd=DOM_000003502003000000"
@@ -355,7 +355,13 @@
         },
         {
             "dates": "23",
-            "schedule": []
+            "schedule": [
+                {
+                    "title": "행사",
+                    "detail": "충남대 공대",
+                    "link": []
+                }
+            ]
         },
         {
             "dates": "24",
@@ -391,7 +397,17 @@
         },
         {
             "dates": "27",
-            "schedule": []
+            "schedule": [
+                {
+                    "title": "행사",
+                    "detail": "거창한마당대축제 K-POP콘서트",
+                    "time": "19:00",
+                    "member": [1,3,9,10,12,16,18,22],
+                    "link": [
+                        "https://youtu.be/e-Czd7lWbPc?t=64"
+                    ]
+                }
+            ]
         },
         {
             "dates": "28",
