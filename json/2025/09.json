@@ -368,7 +368,10 @@
                 {
                     "title": "행사",
                     "detail": "충남대 공대",
-                    "link": []
+                    "member": [1,4,6,9,10,16,18,22],
+                    "link": [
+                        "https://www.instagram.com/p/DOh0Pt2E7MU"
+                    ]
                 }
             ]
         },
