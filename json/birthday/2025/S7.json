@@ -1,0 +1,36 @@
+{
+    "cafe": [
+        {
+            "twitter": {
+                "tweets": [
+                    "NakyJar1013/status/1966887576259969416",
+                    "SohyunNABI14/status/1966887839490339101"
+                ],
+                "tags": [
+                    "내_마음에_새겨진_이름_나경소현 ",
+                    "NAKYOUNG_Hidden_in_my_heart",
+                    "SOHYUN_Hidden_in_my_heart"
+                ],
+                "imageLinks": [
+                    "G0vJz8ybwAAVFZb",
+                    "G0vJ0ArasAEQukZ"
+                ]
+            },
+            "startDate": 12,
+            "endDate": 13,
+            "locate": {
+                "name": "카페 소프",
+                "address": "서울 마포구 홍익로5길 33-3 1층",
+                "embed": {
+                    "timestamp": "1744361171504",
+                    "key": "2none"
+                },
+                "kakao": "w0h8x-sNTP",
+                "google": "iHHHF2nCTx3YmBKS7",
+                "naver": "FMcvnFBw"
+            }
+        }
+    ],
+    "photo": [],
+    "ad": []
+}
