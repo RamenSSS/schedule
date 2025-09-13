@@ -150,10 +150,18 @@
             "schedule": [
                 {
                     "title": "행사",
+                    "detail": "광양 K-POP 페스티벌",
+                    "member": [4,7,9,12,13,17,19,21],
+                    "link": [
+                        "https://www.instagram.com/p/DOis1aeEnLw"
+                    ]
+                },
+                {
+                    "title": "행사",
                     "detail": "KOOM 2025 K-POP Festival",
                     "member": [1,10,11,18,20,22,23,24],
                     "link": [
-                        "https://www.instagram.com/p/DOSTj4VEmj7"
+                        "https://www.instagram.com/p/DOdcGp8Epg4"
                     ]
                 }
             ]
