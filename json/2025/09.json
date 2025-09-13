@@ -199,6 +199,15 @@
             "dates": "13",
             "schedule": [
                 {
+                    "title": "발매",
+                    "detail": "OST \"쿵\"",
+                    "time": "12:00",
+                    "member": [10],
+                    "link": [
+                        "https://x.com/tripleS_stream/status/1966699015678115915"
+                    ]
+                },
+                {
                     "title": "팬싸",
                     "detail": "에버라인 (대면, 1:1 영통)",
                     "time": "13:00",
