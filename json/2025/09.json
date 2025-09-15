@@ -244,7 +244,17 @@
         },
         {
             "dates": "15",
-            "schedule": []
+            "schedule": [
+                {
+                    "title": "라이브",
+                    "detail": "유튜브",
+                    "time": "22:00",
+                    "member": [3,7,22],
+                    "link": [
+                        "https://x.com/triplescosmos/status/1967438228484706555"
+                    ]
+                }
+            ]
         },
         {
             "dates": "16",
@@ -365,6 +375,15 @@
         {
             "dates": "23",
             "schedule": [
+                {
+                    "title": "행사",
+                    "detail": "Green Haus",
+                    "time": "14:00",
+                    "member": [3,7],
+                    "link": [
+                        "https://x.com/triplescosmos/status/1967030538801193422"
+                    ]
+                },
                 {
                     "title": "행사",
                     "detail": "충남대 공대",
