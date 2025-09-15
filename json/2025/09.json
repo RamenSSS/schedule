@@ -386,6 +386,15 @@
                 },
                 {
                     "title": "행사",
+                    "detail": "교통대 충주캠퍼스",
+                    "time": "19:00",
+                    "member": [1,4,6,9,10,16,18,22],
+                    "link": [
+                        "https://www.instagram.com/p/DOnrB-AkY-U"
+                    ]
+                },
+                {
+                    "title": "행사",
                     "detail": "충남대 공대",
                     "member": [1,4,6,9,10,16,18,22],
                     "link": [
