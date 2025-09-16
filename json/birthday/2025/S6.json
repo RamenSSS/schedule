@@ -1,13 +1,19 @@
 {
     "cafe": [
         {
-		    "title": "Art of Soomin",
+		    "title": "프로젝트 미숨관 : Art of Soomin",
 		    "twitter": {
 		        "tweets": [
-		            "SOOMIDITY/status/1957038998771356120"
+		            "SOOMIDITY/status/1957038998771356120",
+					"SOOMIDITY/status/1960737650966679772"
 		        ],
+				"tags": [
+					"미숨관",
+					"Art_of_Soomin"
+				],
 		        "imageLinks": [
-		            "GyjMkPzWsAAHSAW"
+		            "GyjMkPzWsAAHSAW",
+					"GzXkLW7bkAALo9n"
 		        ]
 		    },
 		    "startDate": 2,
