@@ -487,7 +487,17 @@
         },
         {
             "dates": "30",
-            "schedule": []
+            "schedule": [
+                {
+                    "title": "팬싸",
+                    "detail": "에버라인 (단체 영통, 1:1 영통)",
+                    "time": "19:00",
+                    "member": [1,8,9,10,12,13,17,18,19,24],
+                    "link": [
+                        "https://x.com/EVERLINESHOP/status/1967815737445372372"
+                    ]
+                }
+            ]
         }
     ]
 }
