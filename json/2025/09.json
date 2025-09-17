@@ -325,6 +325,7 @@
                     "title": "행사",
                     "detail": "장수 한우랑 사과랑 축제",
                     "time": "19:00",
+                    "member": [3,4,6,7,9,10,16,18],
                     "link": [
                         "https://www.jangsufestival.com/content/index.sgk?gubun=allfestival&dname=guide"
                     ]
@@ -507,6 +508,16 @@
                     "member": [1,8,9,10,12,13,17,18,19,24],
                     "link": [
                         "https://x.com/EVERLINESHOP/status/1967815737445372372"
+                    ]
+                },
+                {
+                    "title": "행사",
+                    "detail": "Hatch! '여름 방학' 디렉터스컷 상영회 무대 인사",
+                    "time": "22:00",
+                    "member": [3,4,5,6,11,16,20,21],
+                    "unit": "∞!",
+                    "link": [
+                        "https://x.com/triplescosmos/status/1968117705002926524"
                     ]
                 }
             ]
