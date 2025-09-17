@@ -352,6 +352,16 @@
                     "link": [
                         "http://ptmusicfestival.com/bbs/board.php?bo_table=c1"
                     ]
+                },
+                {
+                    "title": "팬싸",
+                    "detail": "Objekt Cafe in Los Angeles",
+                    "time": "10:00 UTC-7",
+                    "member": [5,11,13,17,19,20,21,24],
+                    "unit": "Alphie",
+                    "link": [
+                        "https://x.com/naceventures/status/1967817975857303556"
+                    ]
                 }
             ]
         },
@@ -411,6 +421,16 @@
                     "member": [1,4,6,9,10,16,18,22],
                     "link": [
                         "https://www.instagram.com/p/DOh0Pt2E7MU"
+                    ]
+                },
+                {
+                    "title": "팬싸",
+                    "detail": "Objekt Cafe in Vancouver",
+                    "time": "10:00 UTC-7",
+                    "member": [5,11,13,17,19,20,21,24],
+                    "unit": "Alphie",
+                    "link": [
+                        "https://x.com/naceventures/status/1967817975857303556"
                     ]
                 }
             ]
