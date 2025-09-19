@@ -144,7 +144,17 @@
                     "title": "행사",
                     "detail": "키움 히어로즈 식전 행사",
                     "time": "18:30",
-                    "member": [4,7,10]
+                    "unit":"S1 ~ S10",
+                    "hideMember": true,
+                    "member": [1,2,3,4,5,6,7,8,9,10]
+                },
+                {
+                    "title": "비공식",
+                    "detail": "키움 히어로즈 경기 관람",
+                    "time": "18:30",
+                    "unit":"S11 ~ S14",
+                    "hideMember": true,
+                    "member": [11,12,13,14]
                 }
             ]
         },

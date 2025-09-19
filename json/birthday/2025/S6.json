@@ -29,6 +29,35 @@
 		        "google": "LmFAhnfQCfB3A93n8",
 		        "naver": "5IiTusnH"
 		    }
+		},
+		{
+			"title": "𝗣𝗿𝗶𝗻𝗰𝗲𝘀𝘀𝗼𝗼𝗺 𝗪𝗼𝗿𝗹𝗱",
+			"twitter": {
+				"tweets": [
+					"soomsoomsoom103/status/1969029143577964944",
+					"kimi_tripleS/status/1969028490008854958"
+				],
+				"tags": [
+					"princessoom_world"
+				],
+				"imageLinks": [
+					"G1NlkhqbwAAcxfA",
+					"G1NlkiMbUAAU6Wp"
+				]
+			},
+			"startDate": 3,
+			"endDate": 3,
+			"locate": {
+				"name": "팀앤메",
+				"address": "서울 중구 퇴계로27길 12-3",
+				"embed": {
+					"timestamp": "1758289886811",
+					"key": "9d9cdekvm4y"
+				},
+				"kakao": "Fmyjti7h0-",
+				"google": "KU87UoexgPBtsMpaA",
+				"naver": "xq3ayl91"
+			}
 		}
     ],
     "photo": [],
