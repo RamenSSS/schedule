@@ -52,6 +52,15 @@
             "dates": "5",
             "schedule": [
                 {
+                    "title": "비공식",
+                    "detail": "별의 문단속",
+                    "time": "14:00",
+                    "member": [1,7],
+                    "link": [
+                        "https://youtu.be/3ZMLXze5ZNY"
+                    ]
+                },
+                {
                     "title": "팬싸",
                     "detail": "에버라인 (대면, 단체 영통)",
                     "time": "19:00",
