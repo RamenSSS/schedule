@@ -58,6 +58,34 @@
 				"google": "KU87UoexgPBtsMpaA",
 				"naver": "xq3ayl91"
 			}
+		},
+		{
+		    "title": "숨데이라오",
+		    "twitter": {
+		        "tweets": [
+		            "6eachess/status/1969432943228829985"
+		        ],
+		        "tags": [
+		            "김수민_성인되지마라잇"
+		        ],
+		        "imageLinks": [
+		            "G1TUn9VbQAMb3Bg",
+		            "G1TUn9BbQAAIBF1"
+		        ]
+		    },
+		    "startDate": 2,
+		    "endDate": 4,
+		    "locate": {
+		        "name": "하이디라오 건대점",
+		        "address": "서울 광진구 능동로 110 스타시티 영존 A동 2F",
+		        "embed": {
+		            "timestamp": "1758451144919",
+		            "key": "wowc5jc2vd7"
+		        },
+		        "kakao": "XpChRd8KTy",
+		        "google": "Txdt9c9S1eyRFx1DA",
+		        "naver": "xP8mVXT7"
+		    }
 		}
     ],
     "photo": [],
