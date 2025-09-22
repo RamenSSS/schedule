@@ -436,6 +436,15 @@
                     ]
                 },
                 {
+                    "title": "라이브",
+                    "detail": "유튜브",
+                    "time": "22:00",
+                    "member": [8,12],
+                    "link": [
+                        "https://x.com/triplescosmos/status/1970050437215871423"
+                    ]
+                },
+                {
                     "title": "팬싸",
                     "detail": "Objekt Cafe in Vancouver",
                     "time": "15:00 UTC-7",
