@@ -30,7 +30,35 @@
                 "google": "iHHHF2nCTx3YmBKS7",
                 "naver": "FMcvnFBw"
             }
-        }
+        },
+        {
+		    "title": "🥊 소현이는 백구일까 토끼일까?",
+		    "twitter": {
+		        "tweets": [
+		            "wonssov/status/1970114122626093065"
+		        ],
+		        "tags": [
+		            "소현이는_백구일까_토끼일까"
+		        ],
+		        "imageLinks": [
+		            "G1dAWFPaMAA1tU7",
+		            "G1dAWFTbYAALHqD"
+		        ]
+		    },
+		    "startDate": 11,
+		    "endDate": 13,
+            "locate": {
+                "name": "로얄마카롱",
+                "address": "서울 강남구 테헤란로25길 26 3층",
+                "embed": {
+                    "timestamp": "1744271656134",
+					"key": "2no82"
+				},
+				"kakao": "XdqyzVmqrX",
+				"google": "N3ZN8PtFV5Wef1dj8",
+                "naver": "IxD7eEbf"
+            }
+		}
     ],
     "photo": [],
     "ad": []
