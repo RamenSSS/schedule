@@ -462,6 +462,15 @@
             "schedule": [
                 {
                     "title": "행사",
+                    "detail": "KPOP PENGU",
+                    "time": "16:00",
+                    "member": [3,4,6,7,8,9,18,22],
+                    "link": [
+                        "https://x.com/AbstractChain/status/1967954397864017988"
+                    ]
+                },
+                {
+                    "title": "행사",
                     "detail": "서울여대",
                     "time": "19:00",
                     "member": [3,4,6,7,8,9,18,22],
