@@ -46,7 +46,17 @@
         },
         {
             "dates": "9",
-            "schedule": []
+            "schedule": [
+                {
+                    "title": "공연",
+                    "detail": "〈@%〉 타이베이",
+                    "member": [5,11,13,17,19,20,21,24],
+                    "unit": "Alphie",
+                    "link": [
+                        "https://x.com/triplescosmos/status/1971484900357267652"
+                    ]
+                }
+            ]
         },
         {
             "dates": "10",
