@@ -62,6 +62,34 @@
                 "google": "LMZNUBA4kPfBzRJE8",
                 "naver": "Fr7pREcL"
             }
+		},
+        {
+		    "title": "【ナキ雑貨店 】",
+		    "twitter": {
+		        "tweets": [
+		            "Clover_Naky/status/1971953139353112840"
+		        ],
+		        "tags": [
+		            "나키야_암툰_사랑해"
+		        ],
+		        "imageLinks": [
+		            "G13Im1yb0AAbxWh",
+		            "G13InaqakAAfgw1"
+		        ]
+		    },
+		    "startDate": 11,
+		    "endDate": 13,
+		    "locate": {
+		        "name": "하이타운서울",
+		        "address": "서울 마포구 와우산로29다길 10 지1층 101호",
+		        "embed": {
+		            "timestamp": "1758987113973",
+		            "key": "9ujbuv9e3kz"
+		        },
+		        "kakao": "rQIN-YMdqv",
+		        "google": "JD29vD739NKjoQnu7",
+		        "naver": "FK5I89PC"
+		    }
 		}
     ],
     "photo": [],
