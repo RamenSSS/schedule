@@ -50,15 +50,33 @@
         },
         {
             "dates": "6",
-            "schedule": []
+            "schedule": [
+                {
+                    "title": "방송",
+                    "detail": "아이돌스타 선수권대회",
+                    "member": [1,3,6,10,13,16,17,18,22,24]
+                }
+            ]
         },
         {
             "dates": "7",
-            "schedule": []
+            "schedule": [
+                {
+                    "title": "방송",
+                    "detail": "아이돌스타 선수권대회",
+                    "member": [1,3,6,10,13,16,17,18,22,24]
+                }
+            ]
         },
         {
             "dates": "8",
-            "schedule": []
+            "schedule": [
+                {
+                    "title": "방송",
+                    "detail": "아이돌스타 선수권대회",
+                    "member": [1,3,6,10,13,16,17,18,22,24]
+                }
+            ]
         },
         {
             "dates": "9",
@@ -228,7 +246,17 @@
         },
         {
             "dates": "25",
-            "schedule": []
+            "schedule": [
+                {
+                    "title": "행사",
+                    "detail": "글로벌 청소년 K-POP 콘테스트 & 콘서트",
+                    "time": "16:00",
+                    "member": [1,2,3,9,12,15,16,18],
+                    "link": [
+                        "https://www.instagram.com/p/DO3YoLLE484/?img_index=5"
+                    ]
+                }
+            ]
         },
         {
             "dates": "26",
