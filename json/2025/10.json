@@ -184,7 +184,17 @@
         },
         {
             "dates": "16",
-            "schedule": []
+            "schedule": [
+                {
+                    "title": "팬싸",
+                    "detail": "점프업이엔티 (대면, 1:1 영통)",
+                    "time": "19:00",
+                    "member": [2,3,4,5,6,9,12,13,14,17,19,21],
+                    "link": [
+                        "https://x.com/JumpUp_ent/status/1973629850826187139"
+                    ]
+                }
+            ]
         },
         {
             "dates": "17",
