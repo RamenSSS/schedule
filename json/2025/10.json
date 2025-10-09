@@ -210,6 +210,14 @@
                 },
                 {
                     "title": "행사",
+                    "detail": "군장병 한마음 문화 체육행사",
+                    "time": "19:00",
+                    "link": [
+                        "https://www.inje.go.kr/fcatalog/ecatalog5.jsp?Dir=53"
+                    ]
+                },
+                {
+                    "title": "행사",
                     "detail": "KOOM 2025 K-POP Festival",
                     "member": [1,10,11,18,20,22,23,24],
                     "link": [
