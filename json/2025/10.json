@@ -135,6 +135,15 @@
             "dates": "12",
             "schedule": [
                 {
+                    "title": "방송",
+                    "detail": "라이콘의 탄생",
+                    "time": "14:20",
+                    "member": [1,3,6,7,8,10,16,18],
+                    "link": [
+                        "https://x.com/triplescosmos/status/1977235278507954336"
+                    ]
+                },
+                {
                     "title": "공연",
                     "detail": "〈@%〉 서울",
                     "time": "17:00",
