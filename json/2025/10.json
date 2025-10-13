@@ -170,6 +170,15 @@
                     "detail": "소현 생일",
                     "member": [14],
                     "hideMember": true
+                },
+                {
+                    "title": "라이브",
+                    "detail": "유튜브",
+                    "time": "22:00",
+                    "member": [7,14],
+                    "link": [
+                        "https://x.com/triplescosmos/status/1977660585891271037"
+                    ]
                 }
             ]
         },
@@ -189,7 +198,17 @@
         },
         {
             "dates": "15",
-            "schedule": []
+            "schedule": [
+                {
+                    "title": "라이브",
+                    "detail": "유튜브",
+                    "time": "22:00",
+                    "member": [6,18],
+                    "link": [
+                        "https://x.com/triplescosmos/status/1977660585891271037"
+                    ]
+                }
+]
         },
         {
             "dates": "16",
