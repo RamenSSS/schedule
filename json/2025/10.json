@@ -208,7 +208,7 @@
                         "https://x.com/triplescosmos/status/1977660585891271037"
                     ]
                 }
-]
+            ]
         },
         {
             "dates": "16",
@@ -330,6 +330,24 @@
                     "detail": "지우 생일",
                     "member": [3],
                     "hideMember": true
+                },
+                {
+                    "title": "팬싸",
+                    "detail": "위드뮤 (대면)",
+                    "time": "19:00",
+                    "member": [4,5,6,7,8,10,11,13,17,20,22,23],
+                    "link": [
+                        "https://x.com/Withmuu_twt/status/1977977672065294442"
+                    ]
+                },
+                {
+                    "title": "팬싸",
+                    "detail": "ITTA (영통)",
+                    "time": "19:00",
+                    "member": [4,5,6,7,8,10,11,13,17,20,22,23],
+                    "link": [
+                        "https://x.com/fan_ITTA/status/1977977798372585709"
+                    ]
                 }
             ]
         },
