@@ -409,7 +409,16 @@
         },
         {
             "dates": "30",
-            "schedule": []
+            "schedule": [
+                {
+                    "title": "행사",
+                    "detail": "호남대",
+                    "member": [2,7,10,12,17,18,19,23],
+                    "link": [
+                        "https://www.instagram.com/p/DP2rFFMkmRw"
+                    ]
+                }
+            ]
         },
         {
             "dates": "31",
