@@ -240,7 +240,7 @@
                     "title": "행사",
                     "detail": "군장병 한마음 문화 체육행사",
                     "time": "19:00",
-"member": [2,3,5,6,8,14,16],
+                    "member": [2,3,5,6,8,14,16],
                     "link": [
                         "https://www.inje.go.kr/fcatalog/ecatalog5.jsp?Dir=53"
                     ]
@@ -378,7 +378,17 @@
         },
         {
             "dates": "26",
-            "schedule": []
+            "schedule": [
+                {
+                    "title": "팬싸",
+                    "detail": "에버라인 (대면, 단체 영통)",
+                    "time": "18:00",
+                    "member": [1,2,3,9,12,14,15,16,18,19,21,24],
+                    "link": [
+                        "https://x.com/EVERLINESHOP/status/1979050099301924990"
+                    ]
+                }
+            ]
         },
         {
             "dates": "27",
