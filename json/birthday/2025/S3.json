@@ -1,0 +1,35 @@
+{
+    "cafe": [
+        {
+		    "title": "𝘉𝘦𝘢𝘳-𝘍𝘭𝘰",
+		    "twitter": {
+		        "tweets": [
+		            "Flu_051024/status/1979834966034051513"
+		        ],
+		        "tags": [
+		            "bearflo",
+		            "오래오래_곁에"
+		        ],
+		        "imageLinks": [
+		            "G3nJZ9TWsAEs8IB",
+		            "G3nJZ9SX0AESDzY"
+		        ]
+		    },
+		    "startDate": 23,
+		    "endDate": 24,
+		    "locate": {
+		        "name": "온유어사이드",
+		        "address": "서울 마포구 와우산로29라길 19 우측계단 2층",
+		        "embed": {
+		            "timestamp": "1760890010648",
+		            "key": "b4jcgwu4626"
+		        },
+		        "kakao": "CFOEja_FL-",
+		        "google": "4Zgjg93UL58wxq3eA",
+		        "naver": "5ne4RtZ4"
+		    }
+		}
+    ],
+    "photo": [],
+    "ad": []
+}
