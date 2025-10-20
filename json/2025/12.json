@@ -136,23 +136,108 @@
         },
         {
             "dates": "24",
-            "schedule": []
+            "schedule": [
+                {
+                    "title": "공연",
+                    "detail": "〈나 혼자만 레벨업 on ICE〉",
+                    "time": "19:30",
+                    "member": [4],
+                    "link": [
+                        "https://www.instagram.com/p/DP3NTL9kV4Y",
+                        "https://tickets.interpark.com/contents/notice/detail/11474"
+                    ]
+                }
+            ]
         },
         {
             "dates": "25",
-            "schedule": []
+            "schedule": [
+                {
+                    "title": "공연",
+                    "detail": "〈나 혼자만 레벨업 on ICE〉",
+                    "time": "14:00",
+                    "member": [4],
+                    "link": [
+                        "https://www.instagram.com/p/DP3NTL9kV4Y",
+                        "https://tickets.interpark.com/contents/notice/detail/11474"
+                    ]
+                },
+                {
+                    "title": "공연",
+                    "detail": "〈나 혼자만 레벨업 on ICE〉",
+                    "time": "19:00",
+                    "member": [4],
+                    "link": [
+                        "https://www.instagram.com/p/DP3NTL9kV4Y",
+                        "https://tickets.interpark.com/contents/notice/detail/11474"
+                    ]
+                }
+            ]
         },
         {
             "dates": "26",
-            "schedule": []
+            "schedule": [
+                {
+                    "title": "공연",
+                    "detail": "〈나 혼자만 레벨업 on ICE〉",
+                    "time": "19:30",
+                    "member": [4],
+                    "link": [
+                        "https://www.instagram.com/p/DP3NTL9kV4Y",
+                        "https://tickets.interpark.com/contents/notice/detail/11474"
+                    ]
+                }
+            ]
         },
         {
             "dates": "27",
-            "schedule": []
+            "schedule": [
+                {
+                    "title": "공연",
+                    "detail": "〈나 혼자만 레벨업 on ICE〉",
+                    "time": "14:00",
+                    "member": [4],
+                    "link": [
+                        "https://www.instagram.com/p/DP3NTL9kV4Y",
+                        "https://tickets.interpark.com/contents/notice/detail/11474"
+                    ]
+                },
+                {
+                    "title": "공연",
+                    "detail": "〈나 혼자만 레벨업 on ICE〉",
+                    "time": "19:00",
+                    "member": [4],
+                    "link": [
+                        "https://www.instagram.com/p/DP3NTL9kV4Y",
+                        "https://tickets.interpark.com/contents/notice/detail/11474"
+                    ]
+                }
+            ]
         },
         {
             "dates": "28",
-            "schedule": []
+            "schedule": [
+                {
+                    "title": "공연",
+                    "detail": "〈나 혼자만 레벨업 on ICE〉",
+                    "time": "14:00",
+                    "member": [4],
+                    "link": [
+                        "https://www.instagram.com/p/DP3NTL9kV4Y",
+                        "https://tickets.interpark.com/contents/notice/detail/11474"
+                    ]
+                },
+                {
+                    "title": "공연",
+                    "detail": "〈나 혼자만 레벨업 on ICE〉",
+                    "time": "19:00",
+                    "member": [4],
+                    "link": [
+                        "https://www.instagram.com/p/DP3NTL9kV4Y",
+                        "https://tickets.interpark.com/contents/notice/detail/11474"
+                    ]
+                }
+            ]
         },
         {
             "dates": "29",
@@ -160,11 +245,33 @@
         },
         {
             "dates": "30",
-            "schedule": []
+            "schedule": [
+                {
+                    "title": "공연",
+                    "detail": "〈나 혼자만 레벨업 on ICE〉",
+                    "time": "19:30",
+                    "member": [4],
+                    "link": [
+                        "https://www.instagram.com/p/DP3NTL9kV4Y",
+                        "https://tickets.interpark.com/contents/notice/detail/11474"
+                    ]
+                }
+            ]
         },
         {
             "dates": "31",
-            "schedule": []
+            "schedule": [
+                {
+                    "title": "공연",
+                    "detail": "〈나 혼자만 레벨업 on ICE〉",
+                    "time": "19:30",
+                    "member": [4],
+                    "link": [
+                        "https://www.instagram.com/p/DP3NTL9kV4Y",
+                        "https://tickets.interpark.com/contents/notice/detail/11474"
+                    ]
+                }
+            ]
         }
     ]
 }
