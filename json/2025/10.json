@@ -362,7 +362,7 @@
                 },
                 {
                     "title": "행사",
-                    "detail": "동서울대",
+                    "detail": "동서울대","time":"22:00",
                     "member": [1,2,3,7,9,14,16,18],
                     "link": [
                         "https://www.instagram.com/p/DQAxAvVEk1T"
