@@ -4,7 +4,23 @@
     "results": [
         {
             "dates": "1",
-            "schedule": []
+            "schedule": [
+                {
+                    "title": "공연",
+                    "detail": "〈소현을 읽다; 잇-다〉",
+                    "time": "12:00",
+                    "member": [14]
+                },
+                {
+                    "title": "공연",
+                    "detail": "〈소현을 읽다; 잇-다〉",
+                    "time": "14:00",
+                    "member": [14],
+                    "link": [
+                        "https://x.com/triplescosmos/status/1981586451201724906"
+                    ]
+                }
+            ]
         },
         {
             "dates": "2",
