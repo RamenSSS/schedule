@@ -362,7 +362,8 @@
                 },
                 {
                     "title": "행사",
-                    "detail": "동서울대","time":"22:00",
+                    "detail": "동서울대",
+                    "time":"22:00",
                     "member": [1,2,3,7,9,14,16,18],
                     "link": [
                         "https://www.instagram.com/p/DQAxAvVEk1T"
@@ -376,7 +377,7 @@
                 {
                     "title": "행사",
                     "detail": "글로벌 청소년 K-POP 콘테스트 & 콘서트",
-                    "time": "16:00",
+                    "time": "19:00",
                     "member": [1,2,3,7,9,14,16,18],
                     "link": [
                         "https://www.instagram.com/p/DPnrYz7ExsE"
