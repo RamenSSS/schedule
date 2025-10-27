@@ -410,7 +410,17 @@
         },
         {
             "dates": "27",
-            "schedule": []
+            "schedule": [
+                {
+                    "title": "라이브",
+                    "detail": "유튜브",
+                    "time": "22:00",
+                    "member": [2,7],
+                    "link": [
+                        "https://x.com/triplescosmos/status/1982658513189945829"
+                    ]
+                }
+            ]
         },
         {
             "dates": "28",
@@ -451,7 +461,17 @@
         },
         {
             "dates": "31",
-            "schedule": []
+            "schedule": [
+                {
+                    "title": "라이브",
+                    "detail": "유튜브",
+                    "time": "22:00",
+                    "member": [1,10,13],
+                    "link": [
+                        "https://x.com/triplescosmos/status/1982658513189945829"
+                    ]
+                }
+            ]
         }
     ]
 }
