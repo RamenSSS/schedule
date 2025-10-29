@@ -36,6 +36,15 @@
                     ]
                 },
                 {
+                    "title": "팬싸",
+                    "detail": "\"SSSch∞!\" Meet & Greet",
+                    "member": [3,4,5,6,11,16,20,21],
+                    "unit": "∞!",
+                    "link": [
+                        "https://x.com/tripleS_JAPAN/status/1983126608308515200"
+                    ]
+                },
+                {
                     "title": "공연",
                     "detail": "〈SSSch∞!〉",
                     "time": "19:00",
@@ -43,6 +52,15 @@
                     "unit": "∞!",
                     "link": [
                         "https://x.com/tripleS_JAPAN/status/1959903577713131669"
+                    ]
+                },
+                {
+                    "title": "팬싸",
+                    "detail": "\"SSSch∞!\" Meet & Greet",
+                    "member": [3,4,5,6,11,16,20,21],
+                    "unit": "∞!",
+                    "link": [
+                        "https://x.com/tripleS_JAPAN/status/1983126608308515200"
                     ]
                 }
             ]
@@ -161,7 +179,18 @@
         },
         {
             "dates": "19",
-            "schedule": []
+            "schedule": [
+                {
+                    "title": "팬싸",
+                    "detail": "forTUNE music (1:1 영통)",
+                    "time": "16:00",
+                    "member": [3,4,5,6,11,16,20,21],
+                    "unit": "∞!",
+                    "link": [
+                        "https://x.com/tripleS_JAPAN/status/1983443688366674290"
+                    ]
+                }
+            ]
         },
         {
             "dates": "20",
