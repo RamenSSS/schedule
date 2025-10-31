@@ -24,7 +24,17 @@
         },
         {
             "dates": "3",
-            "schedule": []
+            "schedule": [
+                {
+                    "title": "팬싸",
+                    "detail": "에버라인 (이벤트x4, 대면)",
+                    "member": [3,4,5,6,11,16,20,21],
+                    "unit": "∞!",
+                    "link": [
+                        "https://x.com/EVERLINESHOP/status/1984177040816488770"
+                    ]
+                }
+            ]
         },
         {
             "dates": "4",
