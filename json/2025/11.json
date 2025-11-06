@@ -159,6 +159,15 @@
                     "detail": "카에데 3주년",
                     "member": [9],
                     "hideMember": true
+                },
+                {
+                    "title": "방송",
+                    "detail": "버추얼 라이브 페스티벌",
+                    "time": "17:10",
+                    "member": [2,4,7,8,9,13,16,17],
+                    "link": [
+                        "https://x.com/MBC_entertain/status/1986267297582072268"
+                    ]
                 }
             ]
         },
