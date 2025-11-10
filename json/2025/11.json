@@ -178,6 +178,15 @@
                     "link": [
                         "https://x.com/MBC_entertain/status/1986267297582072268"
                     ]
+                },
+                {
+                    "title": "라이브",
+                    "detail": "유튜브",
+                    "time": "22:00",
+                    "member": [3,18,19],
+                    "link": [
+                        "https://x.com/triplescosmos/status/1987807446304518621"
+                    ]
                 }
             ]
         },
@@ -348,6 +357,15 @@
                     "detail": "설린 생일",
                     "member": [22],
                     "hideMember": true
+                },
+                {
+                    "title": "팬싸",
+                    "detail": "애플뮤직 (대면, 단체 영통)",
+                    "time": "18:00",
+                    "member": [1,2,7,8,9,12,14,15,18,19,22,24],
+                    "link": [
+                        "https://x.com/applemusic_m/status/1987405231911813233"
+                    ]
                 },
                 {
                     "title": "행사",
