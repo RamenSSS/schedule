@@ -209,11 +209,31 @@
         },
         {
             "dates": "17",
-            "schedule": []
+            "schedule": [
+                {
+                    "title": "라이브",
+                    "detail": "유튜브",
+                    "time": "22:00",
+                    "member": [1,15,19,22],
+                    "link": [
+                        "https://x.com/triplescosmos/status/1990268660552761580"
+                    ]
+                }
+            ]
         },
         {
             "dates": "18",
-            "schedule": []
+            "schedule": [
+                {
+                    "title": "라이브",
+                    "detail": "유튜브",
+                    "time": "22:00",
+                    "member": [15,16,21],
+                    "link": [
+                        "https://x.com/triplescosmos/status/1990268660552761580"
+                    ]
+                }
+            ]
         },
         {
             "dates": "19",
@@ -237,7 +257,7 @@
                     "title": "기념일",
                     "detail": "∞! 데뷔 1주년",
                     "member": [3,4,5,6,11,16,20,21],
-                    "unit": "Hatchi"
+                    "unit": "∞!"
                 }
             ]
         },
