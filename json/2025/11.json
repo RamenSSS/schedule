@@ -325,7 +325,18 @@
         },
         {
             "dates": "26",
-            "schedule": []
+            "schedule": [
+                {
+                    "title": "음방",
+                    "detail": "PLAYLIST",
+                    "time": "01:58",
+                    "member": [3,4,5,6,11,16,20,21],
+                    "unit": "∞!",
+                    "link": [
+                        "https://youtu.be/GJuas_JOycs"
+                    ]
+                }
+            ]
         },
         {
             "dates": "27",
