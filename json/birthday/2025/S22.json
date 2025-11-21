@@ -1,0 +1,34 @@
+{
+    "cafe": [
+        {
+		    "title": "𝐀𝐟𝐭𝐞𝐫 𝐒𝐜𝐡𝐨𝐨𝐥 𝐰𝐢𝐭𝐡 𝐒𝐮𝐥𝐥𝐢𝐧",
+		    "twitter": {
+		        "tweets": [
+		            "afterNoon_tt/status/1991695576581509591"
+		        ],
+		        "tags": [
+		            "AfterSchoolwithSullin"
+		        ],
+		        "imageLinks": [
+		            "G6PskB3acAUIwHm",
+		            "G6PskB2acAQWbHg"
+		        ]
+		    },
+		    "startDate": 30,
+		    "endDate": 30,
+            "locate": {
+                "name": "로얄마카롱",
+                "address": "서울 강남구 테헤란로25길 26 3층",
+                "embed": {
+                    "timestamp": "1744271656134",
+					"key": "2no82"
+				},
+				"kakao": "XdqyzVmqrX",
+				"google": "N3ZN8PtFV5Wef1dj8",
+                "naver": "IxD7eEbf"
+            }
+		}
+    ],
+    "photo": [],
+    "ad": []
+}
