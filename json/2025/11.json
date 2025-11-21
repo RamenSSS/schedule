@@ -252,7 +252,20 @@
         },
         {
             "dates": "21",
-            "schedule": []
+            "schedule": [
+                {
+                    "title": "방송",
+                    "detail": "IFWY 2025 유앤아이 콘서트 (공연)",
+                    "time": "20:00",
+                    "member": [1,2,4,7,10,11,13,16]
+                },
+                {
+                    "title": "방송",
+                    "detail": "IFWY 2025 유앤아이 콘서트 (MC)",
+                    "time": "20:00",
+                    "member": [5]
+                }
+            ]
         },
         {
             "dates": "22",
@@ -324,6 +337,11 @@
         {
             "dates": "28",
             "schedule": [
+                {
+                    "title": "음방",
+                    "detail": "뮤직뱅크",
+                    "time": "17:05"
+                },
                 {
                     "title": "팬싸",
                     "detail": "타워레코드 (CD 전달회, 토크, 배웅회)",

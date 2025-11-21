@@ -433,12 +433,15 @@
                 },
                 {
                     "title": "행사",
-                    "detail": "U&I CONCERT",
+                    "detail": "IFWY 2025 유앤아이 콘서트 (공연)",
                     "time": "20:00",
-                    "member": [1,2,4,5,7,10,11,13,16],
-                    "link": [
-                        "https://www.instagram.com/p/DP0UCUnCBMK"
-                    ]
+                    "member": [1,2,4,7,10,11,13,16]
+                },
+                {
+                    "title": "행사",
+                    "detail": "IFWY 2025 유앤아이 콘서트 (MC)",
+                    "time": "20:00",
+                    "member": [5]
                 }
             ]
         },
