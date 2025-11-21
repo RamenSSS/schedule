@@ -154,7 +154,13 @@
         },
         {
             "dates": "19",
-            "schedule": []
+            "schedule": [
+                {
+                    "title": "행사",
+                    "detail": "가요대축제",
+                    "time": "19:15"
+                }
+            ]
         },
         {
             "dates": "20",
