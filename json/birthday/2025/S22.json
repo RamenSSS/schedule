@@ -27,6 +27,35 @@
 				"google": "N3ZN8PtFV5Wef1dj8",
                 "naver": "IxD7eEbf"
             }
+		},
+        {
+		    "title": "𝑺𝒆𝒓𝒆𝒏𝒆 𝑮𝒍𝒐𝒘",
+		    "twitter": {
+		        "tweets": [
+		            "first__nun/status/1992458102650581387"
+		        ],
+		        "tags": [
+		            "꽃다운_설린이의_20살을_축하해",
+		            "HBD_Serene_Glow_Sullin"
+		        ],
+		        "imageLinks": [
+		            "G6aiFPEbQAA-7Cb",
+		            "G6aiFSoaYAAXN7A"
+		        ]
+		    },
+		    "startDate": 30,
+		    "endDate": 30,
+		    "locate": {
+		        "name": "시간담은꽃",
+		        "address": "서울 마포구 월드컵로 97 1층",
+		        "embed": {
+		            "timestamp": "1763874993804",
+		            "key": "d338ew8si7q"
+		        },
+		        "kakao": "pp2_WyyWXI",
+		        "google": "A7YhyJJEbh4Hh6Z27",
+		        "naver": "x7nYFmE6"
+		    }
 		}
     ],
     "photo": [],
