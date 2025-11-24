@@ -372,6 +372,15 @@
                         "https://x.com/fortunemusicJP/status/1990273791898071236",
                         "https://x.com/tripleS_JAPAN/status/1991703113951305971"
                     ]
+                },
+                {
+                    "title": "라이브",
+                    "detail": "유튜브",
+                    "time": "22:00",
+                    "member": [22],
+                    "link": [
+                        "https://x.com/triplescosmos/status/1992873323571634433"
+                    ]
                 }
             ]
         },
