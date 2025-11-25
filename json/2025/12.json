@@ -32,6 +32,16 @@
             "schedule": [
                 {
                     "title": "팬싸",
+                    "detail": "LaLaport NAGOYA minato AQULS (미니 라이브, 배웅회)",
+                    "time": "18:00",
+                    "member": [3,4,5,6,11,16,20,21],
+                    "unit": "∞!",
+                    "link": [
+                        "https://x.com/tripleS_JAPAN/status/1993213063479390269"
+                    ]
+                },
+                {
+                    "title": "팬싸",
                     "detail": "마이스타굿즈 (단체 영통, 1:1 영통)",
                     "time": "19:00",
                     "member": [1,2,7,8,9,10,12,13,14,15,17,23],
