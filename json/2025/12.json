@@ -9,8 +9,7 @@
                     "title": "공연",
                     "detail": "〈放課後ロッケンロール-HYPER- 2025〉",
                     "time": "18:30",
-                    "member": [3,4,5,6,11,16,20,21],
-                    "unit": "∞!",
+                    "member": [3,4,5,6,16,20,21],
                     "link": [
                         "https://triples-wav.jp/s/sss/ticket/detail/ticket_251201",
                         "https://event.spaceshower.jp/ebichu/2025/index.html"
@@ -34,8 +33,7 @@
                     "title": "팬싸",
                     "detail": "LaLaport NAGOYA minato AQULS (미니 라이브, 배웅회)",
                     "time": "18:00",
-                    "member": [3,4,5,6,11,16,20,21],
-                    "unit": "∞!",
+                    "member": [3,4,5,6,16,20,21],
                     "link": [
                         "https://x.com/tripleS_JAPAN/status/1993213063479390269"
                     ]
