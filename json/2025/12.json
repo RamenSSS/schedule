@@ -64,6 +64,15 @@
                     "link": [
                         "https://x.com/mystargoods_/status/1988124531655938098"
                     ]
+                },
+                {
+                    "title": "라이브",
+                    "detail": "Stationhead Listening Party",
+                    "time": "21:00",
+                    "member": [7,8,14,15],
+                    "link": [
+                        "https://x.com/triplescosmos/status/1995055203842965666"
+                    ]
                 }
             ]
         },
@@ -157,7 +166,16 @@
         },
         {
             "dates": "8",
-            "schedule": []
+            "schedule": [
+                {
+                    "title": "방송",
+                    "detail": "롯데홈쇼핑",
+                    "time": "12:35",
+                    "link": [
+                        "https://youtu.be/KWcOlzKqNYQ"
+                    ]
+                }
+            ]
         },
         {
             "dates": "9",
