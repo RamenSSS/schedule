@@ -95,6 +95,15 @@
                     "detail": "채연 생일",
                     "member": [4],
                     "hideMember": true
+                },
+                {
+                    "title": "라이브",
+                    "detail": "유튜브",
+                    "time": "22:00",
+                    "member": [4],
+                    "link": [
+                        "https://x.com/triplescosmos/status/1995417593197289888"
+                    ]
                 }
             ]
         },
