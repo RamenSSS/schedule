@@ -146,6 +146,15 @@
             "dates": "7",
             "schedule": [
                 {
+                    "title": "라디오",
+                    "detail": "두시탈출 컬투쇼 본방송",
+                    "time": "14:00",
+                    "member": [1,14,15,17,19,24],
+                    "link": [
+                        "https://www.instagram.com/p/DRtORvbE442"
+                    ]
+                },
+                {
                     "title": "음방",
                     "detail": "인기가요",
                     "time": "15:20",
