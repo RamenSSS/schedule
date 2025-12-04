@@ -147,6 +147,13 @@
             "schedule": [
                 {
                     "title": "음방",
+                    "detail": "음악중심 사전녹화",
+                    "time": "10:20",
+                    "unit": "sun",
+                    "member": [2,4,5,15,16,21]
+                },
+                {
+                    "title": "음방",
                     "detail": "음악중심",
                     "time": "15:20",
                     "unit": "sun",
