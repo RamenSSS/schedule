@@ -288,6 +288,12 @@
                     "link": [
                         "https://x.com/EVERLINESHOP/status/1993854833238135146"
                     ]
+                },
+                {
+                    "title": "라디오",
+                    "detail": "배성재의 텐 본방송",
+                    "time": "22:00",
+                    "member": [5,10,20]
                 }
             ]
         },
