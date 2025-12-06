@@ -238,7 +238,14 @@
         },
         {
             "dates": "11",
-            "schedule": []
+            "schedule": [
+                {
+                    "title": "라디오",
+                    "detail": "배성재의 텐 생녹방",
+                    "time": "19:00",
+                    "member": [5,10,20]
+                }
+            ]
         },
         {
             "dates": "12",
