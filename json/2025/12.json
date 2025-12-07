@@ -220,7 +220,17 @@
         },
         {
             "dates": "9",
-            "schedule": []
+            "schedule": [
+                {
+                    "title": "라디오",
+                    "detail": "정오의 희망곡",
+                    "time": "12:00",
+                    "member": [3,4,9,10,19],
+                    "link": [
+                        "https://www.instagram.com/p/DR9FNwOEmuX"
+                    ]
+                }
+            ]
         },
         {
             "dates": "10",
@@ -300,7 +310,10 @@
                     "title": "라디오",
                     "detail": "배성재의 텐 본방송",
                     "time": "22:00",
-                    "member": [5,10,20]
+                    "member": [5,10,20],
+                    "link": [
+                        "https://www.instagram.com/p/DR8qWKrD1Eo"
+                    ]
                 }
             ]
         },
