@@ -245,6 +245,15 @@
             "dates": "10",
             "schedule": [
                 {
+                    "title": "라디오",
+                    "detail": "78 musi-curate TOWER RECORDS zone K-WORLD PARK",
+                    "time": "02:00",
+                    "member": [16,21],
+                    "link": [
+                        "https://x.com/tripleS_JAPAN/status/1998226723448705412"
+                    ]
+                },
+                {
                     "title": "팬싸",
                     "detail": "K-MONSTAR (단체 영통, 1:1 영통)",
                     "time": "19:00",
